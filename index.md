@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Syfte med bloggen - här ska det stå något klatchigt om bloggens som förankrar läsaren
 
-Maybe say a some things about yourself.
+Vem är jag? Kort.
 
-Or maybe what you plan to blog about.
+
