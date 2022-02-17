@@ -1,11 +1,11 @@
 ## Detta är min första bloggpost
 
-#Här skriver jag lite innehåll/content
+# Här skriver jag lite innehåll/content
 
 Portfolio Career, ett engelskt begrepp
 <br>
 <br>
-##(Portföljkarriär låter väääldiiigt tråååkigt, mer om det längre ned)
+## (Portföljkarriär låter väääldiiigt tråååkigt, mer om det längre ned)
 <br>
 Men läs vidare om ett för mig helt nytt begrepp som jag upptäckte av en slump när jag läste the Guardian
 
