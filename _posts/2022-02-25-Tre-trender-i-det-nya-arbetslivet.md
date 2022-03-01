@@ -1,17 +1,13 @@
 ## Tre trender i det nya arbetslivet
-Många människor kämpar för att hitta en karriären ska räcka livet ut och skapa lycka och framgång
-Men vad är chansen för detta? Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
+Många människor kämpar för att hitta en karriär som ska räcka livet ut och skapa lycka och framgång. Men vad är chansen för detta? 
+Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
 
-En förändring i samhället som vi ser är att att fler försöker skapa sig en egen väg igenom livet - allt från att cykelpendla grönt till jobb till att skaffa ett jobb som känns mer autentiskt.
+En förändring i samhället som vi ser är att att fler försöker skapa sig en egen väg igenom livet - allt ifrån att för miljön cykelpendla och äta grönt till att skaffa ett jobb som känns mer autentiskt. Och det är gruppen millennials som börjar sätta dagordningen. 
+Den gruppen som kallas millennials prioriterar till en större grad frihet och flexibilitet framför ett till synes säkert företagsjobb.
 
-### 30 - 40 åringarna
-Det är gruppen millennials börjar sätta dagordningen. De som kallas gruppen millennials prioriterar till en större grad frihet och flexibilitet framför ett till synes säkert företagsjobb.
-<br>
-Till gruppen millennials är personer som är födda från 1983 till och med 1994. Det märks markanta skillnader hos dem jämfört med tidigare generationers inställning till arbete. Forskning visar att denna grupp är mer benägen att sätta faktorer som flexibilitet, frihet och möjlighet till personlig utveckling framför trygghet och högre lön.
+### Millenials (30 - 40 åringarna)
+Till gruppen millennials är personer som är födda från 1983 till och med 1994. Det märks markanta skillnader hos dem jämfört med tidigare generationers inställning till arbete. Forskning visar att denna grupp är mer benägen att sätta faktorer som flexibilitet, frihet och möjlighet till personlig utveckling framför trygghet och högre lön (Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakomraden/arbetsgivarsamverkan/flexibilitet-viktigare-an-lon-for-unga_1004939.html). Och det är tre trender som syns och det ärt dessa jag skall gå in på lite djupare.
 
-Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakomraden/arbetsgivarsamverkan/flexibilitet-viktigare-an-lon-for-unga_1004939.html).
-
-<br>
 ### Tre trender i det nya arbetslivet
 
 *"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*
