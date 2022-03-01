@@ -6,8 +6,10 @@ En förändring i samhället som vi ser är att att fler försöker skapa sig en
 <br>
 Den gruppen som kallas millennials prioriterar till en större grad frihet och flexibilitet framför ett till synes säkert företagsjobb.
 
+
 ### En tendens bland Millenials (30 - 40 åringarna)
 Till gruppen millennials är personer som är födda från 1983 till och med 1994. Det märks en markant skillnad hos dem jämfört med tidigare generationers inställning till arbete. Forskning visar att denna grupp är mer benägen att prioritera faktorer som flexibilitet, frihet och möjlighet till personlig utveckling framför annars kända begrepp som trygghet och högre lön (Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakomraden/arbetsgivarsamverkan/flexibilitet-viktigare-an-lon-for-unga_1004939.html).
+
 
 
 ### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet
