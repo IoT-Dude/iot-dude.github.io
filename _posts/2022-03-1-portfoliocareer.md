@@ -52,5 +52,18 @@ Caroline Castrillon[Forbes](https://www.forbes.com/sites/carolinecastrillon/2019
 
 Tillfredsställelse på jobbet
 En portfolio career kan ge en flexibilitet och möjligheter på ett helt annat sätt jämfört med ett vanligt jobb. Särskilt om man är lagd åt det multidisciplinära hållet, bra på ett par saker men riktigt styv på en grej.
+<br>
+### Det enda som är konstant är förändring
+Kliche jag vet men arbetslivet är delvis ett lotteri. Vi lever i en föränderlig (arbets)miljö och det är svårt att få till en bra karriär med kompetens och tillfredsställelse hela vägen ut.
+<br>
+Att kombinera kompetens och köra på flera karriärvägar kan ge mer trygghet och är ett effektivt sätt att hålla sig intellektuellt smidig. Dock, tänk på att  arbetsrelaterade depressioner är något som trendar i Sverige, och det är då viktigt att disponera sin tid rätt när man för mycket arbetsuppgifter som måste lösas.
+
+### Det nya normala?
+Även om denna arbetsstil kan verka okonventionell för vissa, kommer den i allt högre grad att bli normen när fler människor upptäcker fördelarna med att faktiskt skapa den karriär de förtjänar.
+<br>
+För 75 år sedan kunde man börja på den lokala sågen och jobba kvar till sin pension, stämpla ut och gå hem och dö,  men så ser det inte ut idag - om du inte tar ansvar (äganderätten) till dit liv och karriär, kommer någon annan att göra det.
+<br>
+Kanske en portföljkarriär kan vara det rätta?
+
 
 #Patrik.
