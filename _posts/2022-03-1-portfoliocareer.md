@@ -44,9 +44,9 @@ Konstnär, musiker, artist, rörmokare eller på annat sätt hoppar omkring på 
 
 Fördelar och nackdelar
 Det finns ju självklart en del nackdelar med att ständigt behöva ligga på och söka jobb, man måste ha mycket "pågång" och det kan vara vådligt att få ekonomin att gå runt på ett sätt man vant sig vid som löntagare - men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. Den personliga utvecklingen sker bit-för-bit.
-
-### Jack of all trails master of quite a lot
 <br>
+### Jack of all trails master of quite a lot
+
 Man kan också se det som Caroline Castrillon beskriver i en artikel på tidningen Forbes, ett sätt att arbeta på om man är lagd åt det multidisciplinära hållet. Min egna tolkning  jack of all trails master of quite a lot.
 
 Caroline Castrillon[Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec).
@@ -73,90 +73,60 @@ Till gruppen millennials är personer som är födda från 1983 till och med 199
 
 Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakomraden/arbetsgivarsamverkan/flexibilitet-viktigare-an-lon-for-unga_1004939.html).
 
-
+<br>
 ### Tre trender i det nya arbetslivet
 
-*"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*, skriver Nanna Gillberg i rapporten Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg
-Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
+*"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*, skriver Nanna Gillberg i rapporten [Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf), Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
 
-Nanna Gillberg[Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf)
+<br>
+### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet:
 
-
-Något om nämns i Gillbergs rapport är Tre trender i det globaliserade och digitaliserade arbetslivet
-
-----
-
-Kunskapssammanställning 2018:2
-Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg
-Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
-
-Nanna Gillberg
-https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf
-
-
-
-## Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet:
-flexibilisering
+####flexibilisering
+<br>
     konkurrenskraft
 
-individualisering och informalisering
+#### individualisering och informalisering
+<br>
     informella kriterier får ökad betydelse för tillgång till och framgång på arbetsmarknaden.
+    <br>
     Organisering sker med flexibilitet för ögonen, ofta i nätverk och projekt, där förmågan att anpassa sig till och fungera socialt (passa in) i
     olika situationer blir viktig.
+    <br>
     Sociala nätverk, socialt kapital och social kompetens inkorporeras i kompetensbegreppet och får betydelse i rekryteringsprocesser.
     
-byråkratisering
+#### byråkratisering
+<br>
     En Mottrend, byråkratiseringen av arbetsmiljön är trend som i huvudsak går i motsatt riktning.
+    <br>
     Flexibiliserings-, individualiserings- och informaliseringsdiskurserna betonar kreativitet och innovation genom självbestämmande och flexibilitet, medan byråkratiseringsdiskursen poängterar efterlevnad av centralt formulerade standarder, målstyrning och nyckeltal.
 
 
-## Åt vilket håll
-konsekvensen av New Public Management/Två sidor av samma mynt och hur porföljkarriären mer börjar bli ett tydligt mönster 
+### Åt vilket håll?
+<br>
+Konsekvensen av New Public Management/Två sidor av samma mynt och hur porföljkarriären mer börjar bli ett tydligt mönster 
 Individualisering och byråkratisering kan sägas representera konsekvensen av New Public Management organisering.
-
+<br>
 New Public Management[New Public Management](https://en.wikipedia.org/wiki/New_Public_Management)
-
+<br>
 I likhet med övriga tre utvecklingslinjer kan byråkratiseringen hänföras till arbetslivets digitalisering och ökade globalisering.
 Digitaliseringen möjliggör och medverkar till utökad dokumentation, kontroll och övervakning, och växande global konkurrens innebär att det svenska arbetslivet ställs inför krav på kontinuerliga effektivitets- och produktivitetshöjningar.
 New Public Management och dess styrning är ett försök att tillmötesgå sådana krav, liksom ökad dokumentation, slimmade organisationer och implementering av verksamhetsstrategier såsom lean inom till exempel tillverkningsindustrin och sjukvården.
 
 
 I dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft
-
-----
-Q:
-Bisyssla 
-Håller alla på med extraknäck vid sidan om?
-hur många vill lämna traditionell anställning för att bli sin egen chef?
-Vad säger SCB?
-Kombinatör, kombinerar fast anst med bisyssla?
-Eget Ftg
-
-https://www.youtube.com/watch?v=Rw4QqMF6fcU
-
-Jag har inga bra siffror på hur det ser ut idag efter COVID-19 börjat ebba ut men detta fenomen backas upp av en nyligen genomförd studie som avslöjar att cbcbcbcfhfhfhf    24 miljoner amerikanska arbetare vill lämna traditionell anställning för att bli sin egen chef 2021.
-
-COVID-19
-Tillfällig snagg in the rugg vi har en nedåtperiod i vissa branscher men på det hela taget
-
-----
-
-Analys
+<br>
+### Analys
 
 Arbetsmilöjöverket
 
 Individuasliseringstrenden vs byråkrati/ökad formalisering och standardisering, kontroll, dokumentation och fokus på mätbara
 mål. Den nya vågen av byråkrati bygger på systematiska planerings-,styr- och kontrollverktyg, men till skillnad från föregående versioner
-presenteras den med hjälp av managementidéer och -terminologi
+presenteras den med hjälp av managementidéer och terminologi
 
 https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf
 Gillberg, N., Nya sätt att organisera arbete, 2018:2, s. 21.
 
-Självklart finns ett intresse av att tillåta bisysslor eftersom dessa verkar både stimulerande och utvecklande för den anställda och för deras kompetens.
-Detta påstående kan även ses i den bredare kontexten som återges genom Gillbergs forskning som nämnt ovan
-
-Nya sätt att organisera sitt arbete
-Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning.
+### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
 I arbetslivet märks denna individualiseringstrend bland annat genom nätverkande och portföljkarriärer.
 Enligt forskaren ses arbetstagaren som en produkt på arbetsmarknaden.
 Mot denna bakgrund kan man följaktligen anta att bisysslor kommer öka i framtiden, detta kan förstås som en följd av den enskilda arbetstagarens behov av utvecklingsmöjligheter som kan möta förväntningarna på den kontinuerliga kompetensutvecklingen.
@@ -165,7 +135,7 @@ Gillberg beskriver detta fenomen som att ”Var och en är sin egen lyckas smed,
 Med detta sagt menar jag dock att vägen till individuellt självförverkligande  individuellt självförverkligande genom flexibla inställningar till arbeten innebär olika utmaningar    hel del utmaningar
 
 
-Den nya drömmen - Är Portföljgigget samma som  egenföretagande?    // The american dream????
+### Den nya drömmen - Är Portföljgigget samma som  egenföretagande?
 
 Ökningen av egenföretagande i kombination med en spirande gigekonomin i europa gör portföljkarriären till ett alternativ för många men är det realistiskt?
 
@@ -183,6 +153,7 @@ Behöver inte vara men kan förenkla situationen.
 Portföljkarriär vägen till lycka och framgång (och alla blir glada på slutet)?
 
 Det finns en viss typ av personlighet som attraheras av att arbeta på det här sättet.
+<br>
 Barbara Sher, bästsäljarförfattaren till Refuse to Choose, kallar dem "Scanners".
 En av de mest grundläggande egenskaperna hos en skanner är intensiv nyfikenhet i många orelaterade ämnen - de är intresserade av allt.
 En annan term som används för att beskriva denna typ av person är en multipotentialit.
