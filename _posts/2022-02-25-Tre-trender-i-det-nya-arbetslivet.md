@@ -16,8 +16,9 @@ Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakom
 
 *"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*, skriver Nanna Gillberg i rapporten [Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf), Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
 
-<br>
+
 ### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet:
+
 
 #### flexibilisering av arbetskraften
     konkurrenskraft
@@ -47,6 +48,7 @@ Men i dagens arbetsliv framhålls flexibilitet som något som skapar konkurrensk
 <br>
 
 ### Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör
+
 #### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
 I arbetslivet märks denna individualiseringstrend bland annat genom nätverkande och portföljkarriärer.
 Enligt Gillberg ses arbetstagaren som en produkt på arbetsmarknaden.
