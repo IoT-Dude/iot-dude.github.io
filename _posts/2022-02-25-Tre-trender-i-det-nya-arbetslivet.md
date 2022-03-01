@@ -1,17 +1,15 @@
-
-### Samma jobb livet ut?
-Många människor kämpar för att hitta en karriären ska räcka livet ut och skapa lycka och framgång.
+## Tre trender i det nya arbetslivet
+Många människor kämpar för att hitta en karriären ska räcka livet ut och skapa lycka och framgång
 Men vad är chansen för detta? Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
 
+### Samma jobb livet ut?
 
-Personlig utveckling framför trygghet och högre lön
+### Personlig utveckling framför trygghet och högre lön
 <br>   
 En förändring i samhället som vi ser är att att fler försöker skapa sig en egen väg igenom livet - allt från att cykelpendla grönt till jobb till att skaffa ett jobb som känns mer autentiskt.
 
-30 - 40 åringarna
-<br>
-Det är gruppen millennials börjar sätta dagordningen
-De som kallas gruppen millennials prioriterar till en större grad frihet och flexibilitet framför ett till synes säkert företagsjobb.
+### 30 - 40 åringarna
+Det är gruppen millennials börjar sätta dagordningen. De som kallas gruppen millennials prioriterar till en större grad frihet och flexibilitet framför ett till synes säkert företagsjobb.
 <br>
 Till gruppen millennials är personer som är födda från 1983 till och med 1994. Det märks markanta skillnader hos dem jämfört med tidigare generationers inställning till arbete. Forskning visar att denna grupp är mer benägen att sätta faktorer som flexibilitet, frihet och möjlighet till personlig utveckling framför trygghet och högre lön.
 
