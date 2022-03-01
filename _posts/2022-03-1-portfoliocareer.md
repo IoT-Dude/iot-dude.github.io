@@ -1,5 +1,5 @@
 ## Portfolio Career
-### jack of all trades master of none, varför åka i baksätet när man kan köra själv?
+### Jack of all trades master of none, varför åka i baksätet när man kan köra själv?
 
 
 *Vilka är fördelarna med en portföljkarriär?
