@@ -31,15 +31,15 @@ Samantha Clarke (The Guardian; advising on navigating transitions and change)
 <br>
 Det hade säkert varit intressant men jag tyckte att det lät lite dyrt 99£
 
-
+<br>
 ### Vad är en Portföljkarriär?
 Citat:
 * A portfolio career is a working style where you combine multiple streams of income—often creating a mix of full or part-time employment, freelancing or working as a consultant. For example, you could combine consulting with part-time work, developing your own product or service and freelance writing.
 
 <br>
-### Hoppjerka - naivt, risk att skjuta sig själv i foten, konkurs? Jajjamensan!
+### Portföljkarriär - Hoppjerka - samma sak?
 
-Konstnär, musiker, artist, rörmokare eller på annat sätt hoppar omkring på flera projekt istället för att bara "gå till jobbet" - det är så man tvingas jobba för att få en inkomst.
+Konstnär, musiker, artist, rörmokare eller på annat sätt hoppar omkring på flera projekt istället för att bara "gå till jobbet".
 
 Fördelar och nackdelar
 Det finns ju självklart en del nackdelar med att ständigt behöva ligga på och söka jobb, man måste ha mycket "pågång" och det kan vara vådligt att få ekonomin att gå runt på ett sätt man vant sig vid som löntagare - men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. Den personliga utvecklingen sker bit-för-bit.
@@ -51,6 +51,6 @@ Man kan också se det som Caroline Castrillon beskriver i en artikel på tidning
 Caroline Castrillon[Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec).
 
 Tillfredsställelse på jobbet
-En portfolio career kan ge en flexibilitet och möjligheter på ett helt annat sätt jämfört med ett vanligt jobb 
+En portfolio career kan ge en flexibilitet och möjligheter på ett helt annat sätt jämfört med ett vanligt jobb. Särskilt om man är lagd åt det multidisciplinära hållet, bra på ett par saker men riktigt styv på en grej.
 
 #Patrik.
