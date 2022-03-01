@@ -14,7 +14,9 @@ Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakom
 <br>
 ### Tre trender i det nya arbetslivet
 
-*"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*, skriver Nanna Gillberg i rapporten [Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf), Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
+*"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*
+
+ skriver Nanna Gillberg i rapporten [Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf), Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
 
 
 ### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet:
