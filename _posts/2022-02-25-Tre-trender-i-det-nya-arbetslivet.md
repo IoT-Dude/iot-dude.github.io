@@ -19,8 +19,7 @@ Till gruppen millennials är personer som är födda från 1983 till och med 199
 
 
 #### flexibilisering av arbetskraften
-I dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft och den nya vågen av New Public Management byråkrati[New Public Management](https://en.wikipedia.org/wiki/New_Public_Management) bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
-
+I dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft, och den nya vågen av [New Public Management](https://en.wikipedia.org/wiki/New_Public_Management)  byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
 
 
 #### individualisering och informalisering
@@ -41,7 +40,7 @@ Individualisering och byråkratisering kan sägas representera konsekvensen av N
 Digitaliseringen möjliggör och medverkar till utökad dokumentation, kontroll och övervakning, och växande global konkurrens innebär att det svenska arbetslivet ställs inför krav på kontinuerliga effektivitets- och produktivitetshöjningar. New Public Management och dess styrning är ett försök att tillmötesgå sådana krav, liksom ökad dokumentation, slimmade organisationer och implementering av verksamhetsstrategier såsom lean inom till exempel tillverkningsindustrin och sjukvården.
 <br>
 Men i dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft och den nya vågen av byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
-<br>
+<br>New Public Management
 
 ### Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör
 
