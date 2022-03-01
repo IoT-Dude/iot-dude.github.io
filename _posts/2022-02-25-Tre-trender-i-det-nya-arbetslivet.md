@@ -2,9 +2,7 @@
 Många människor kämpar för att hitta en karriären ska räcka livet ut och skapa lycka och framgång
 Men vad är chansen för detta? Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
 
-### Samma jobb livet ut?
-
-### Personlig utveckling framför trygghet och högre lön
+### Personlig utveckling framför trygghet och högre lön - Samma jobb livet ut?
 <br>   
 En förändring i samhället som vi ser är att att fler försöker skapa sig en egen väg igenom livet - allt från att cykelpendla grönt till jobb till att skaffa ett jobb som känns mer autentiskt.
 
