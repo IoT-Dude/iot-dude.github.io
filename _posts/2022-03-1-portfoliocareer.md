@@ -1,4 +1,5 @@
-## Portfolio Career - jack of all trades master of none, varför åka i baksätet när man kan köra själv?
+## Portfolio Career
+### jack of all trades master of none, varför åka i baksätet när man kan köra själv?
 
 
 *Vilka är fördelarna med en portföljkarriär?
@@ -50,37 +51,32 @@ Man kan också se det som Caroline Castrillon beskriver i en artikel på tidning
 
 Caroline Castrillon[Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec).
 
-https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec
-
-
 Tillfredsställelse på jobbet
 En portfolio career kan ge en flexibilitet och möjligheter på ett helt annat sätt jämfört med ett vanligt jobb 
 
 
-## Samma jobb livet ut?
+### Samma jobb livet ut?
 Många människor kämpar för att hitta en karriären ska räcka livet ut och skapa lycka och framgång.
 Men vad är chansen för detta? Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
 
 
 Personlig utveckling framför trygghet och högre lön - ny trend
+<br>      bbbrrr
 En förändring i samhället som vi ser är att att fler försöker skapa sig en egen väg igenom livet - allt från att cykelpendla grönt till jobb till att skaffa ett jobb som känns mer autentiskt.
 
 30 - 40 åringarna
+<br>
 Det är gruppen millennials börjar sätta dagordningen
 De som kallas gruppen millennials prioriterar till en större grad frihet och flexibilitet framför ett till synes säkert företagsjobb.
+<br>
 Till gruppen millennials är personer som är födda från 1983 till och med 1994. Det märks markanta skillnader hos dem jämfört med tidigare generationers inställning till arbete. Forskning visar att denna grupp är mer benägen att sätta faktorer som flexibilitet, frihet och möjlighet till personlig utveckling framför trygghet och högre lön.
 
 Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakomraden/arbetsgivarsamverkan/flexibilitet-viktigare-an-lon-for-unga_1004939.html).
 
 
-## Tre trender i det nya arbetslivet
+### Tre trender i det nya arbetslivet
 
-* "Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. " *
-
-skriver Nanna Gillberg i rapporten
-
-Kunskapssammanställning 2018:2
-Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg
+*"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*, skriver Nanna Gillberg i rapporten Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg
 Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
 
 Nanna Gillberg[Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf)
