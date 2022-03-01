@@ -1,4 +1,4 @@
-## En tendens och tre utvecklingslinjer framträdere i organiseringen av det nya arbetslivet
+## En tendens och tre utvecklingslinjer framträder i organiseringen av det nya arbetslivet
 Många människor kämpar för att hitta en karriär som ska räcka livet ut och skapa lycka och framgång. Men vad är chansen för detta? 
 Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
 
