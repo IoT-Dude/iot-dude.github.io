@@ -63,7 +63,8 @@ Att kombinera kompetens och köra på flera karriärvägar kan ge mer trygghet o
 <br>
 För 75 år sedan kunde man börja på den lokala sågen och jobba kvar till sin pension, stämpla ut och gå hem och dö. Men så ser det inte ut idag - om du inte tar ansvar (äganderätten) till dit liv och karriär, kommer någon annan att göra det.
 <br>
-Kanske en portföljkarriär kan vara det rätta?
+
+Kanske en portföljkarriär kan vara något för dig?
 <br>
-<br>
+
 #Patrik.
