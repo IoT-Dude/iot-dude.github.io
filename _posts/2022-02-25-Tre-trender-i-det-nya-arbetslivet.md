@@ -1,4 +1,4 @@
-## En tendens och tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet
+## En tendens och tre utvecklingslinjer framträdere i organiseringen av det nya arbetslivet
 Många människor kämpar för att hitta en karriär som ska räcka livet ut och skapa lycka och framgång. Men vad är chansen för detta? 
 Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
 
@@ -9,34 +9,29 @@ Den gruppen som kallas millennials prioriterar till en större grad frihet och f
 ### En tendens bland Millenials (30 - 40 åringarna)
 Till gruppen millennials är personer som är födda från 1983 till och med 1994. Det märks en markant skillnad hos dem jämfört med tidigare generationers inställning till arbete. Forskning visar att denna grupp är mer benägen att prioritera faktorer som flexibilitet, frihet och möjlighet till personlig utveckling framför annars kända begrepp som trygghet och högre lön (Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakomraden/arbetsgivarsamverkan/flexibilitet-viktigare-an-lon-for-unga_1004939.html).
 
-### Tre utvecklingslinjer i det nya arbetslivet
 
 *"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*
 
  skriver Nanna Gillberg i rapporten [Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf), Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
 
 
-### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet:
-
+### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet
 
 #### flexibilisering av arbetskraften
-    konkurrenskraft
+Konkurrenskraft
 
 #### individualisering och informalisering
-    informella kriterier får ökad betydelse för tillgång till och framgång på arbetsmarknaden.
-    <br>
-    Organisering sker med flexibilitet för ögonen, ofta i nätverk och projekt, där förmågan att anpassa sig till och fungera socialt (passa in) i
-    olika situationer blir viktig.
-    <br>
-    Sociala nätverk, socialt kapital och social kompetens inkorporeras i kompetensbegreppet och får betydelse i rekryteringsprocesser.
+Informella kriterier får ökad betydelse för tillgång till och framgång på arbetsmarknaden.
+Organisering sker med flexibilitet för ögonen, ofta i nätverk och projekt, där förmågan att anpassa sig till och fungera socialt (passa in) i
+olika situationer blir viktig.
+Sociala nätverk, socialt kapital och social kompetens inkorporeras i kompetensbegreppet och får betydelse i rekryteringsprocesser.
     
 #### byråkratisering
-    En Mottrend, byråkratiseringen av arbetsmiljön är trend som i huvudsak går i motsatt riktning.
-    <br>
-    Flexibiliserings-, individualiserings- och informaliseringsdiskurserna betonar kreativitet och innovation genom självbestämmande och flexibilitet, medan byråkratiseringsdiskursen poängterar efterlevnad av centralt formulerade standarder, målstyrning och nyckeltal.
+En Mottrend, byråkratiseringen av arbetsmiljön är trend som i huvudsak går i motsatt riktning.
+Flexibiliserings-, individualiserings- och informaliseringsdiskurserna betonar kreativitet och innovation genom självbestämmande och flexibilitet, medan byråkratiseringsdiskursen poängterar efterlevnad av centralt formulerade standarder, målstyrning och nyckeltal.
 
 
-### Flexibilitet - Åt vilket håll?
+### Flexibilitet - åt vilket håll?
 <br>
 Konsekvensen av New Public Management[New Public Management](https://en.wikipedia.org/wiki/New_Public_Management)/Två sidor av samma mynt och hur porföljkarriären mer börjar bli ett tydligt mönster 
 Individualisering och byråkratisering kan sägas representera konsekvensen av New Public Management organisering. I likhet med övriga utvecklingslinjer kan byråkratiseringen direkt hänföras till arbetslivets digitalisering och ökade globalisering.
