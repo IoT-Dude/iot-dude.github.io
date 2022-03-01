@@ -2,8 +2,6 @@
 Många människor kämpar för att hitta en karriären ska räcka livet ut och skapa lycka och framgång
 Men vad är chansen för detta? Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
 
-### Personlig utveckling framför trygghet och högre lön - Samma jobb livet ut?
-<br>   
 En förändring i samhället som vi ser är att att fler försöker skapa sig en egen väg igenom livet - allt från att cykelpendla grönt till jobb till att skaffa ett jobb som känns mer autentiskt.
 
 ### 30 - 40 åringarna
@@ -22,11 +20,9 @@ Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakom
 ### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet:
 
 #### flexibilisering av arbetskraften
-<br>
     konkurrenskraft
 
 #### individualisering och informalisering
-<br>
     informella kriterier får ökad betydelse för tillgång till och framgång på arbetsmarknaden.
     <br>
     Organisering sker med flexibilitet för ögonen, ofta i nätverk och projekt, där förmågan att anpassa sig till och fungera socialt (passa in) i
@@ -35,7 +31,6 @@ Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakom
     Sociala nätverk, socialt kapital och social kompetens inkorporeras i kompetensbegreppet och får betydelse i rekryteringsprocesser.
     
 #### byråkratisering
-<br>
     En Mottrend, byråkratiseringen av arbetsmiljön är trend som i huvudsak går i motsatt riktning.
     <br>
     Flexibiliserings-, individualiserings- och informaliseringsdiskurserna betonar kreativitet och innovation genom självbestämmande och flexibilitet, medan byråkratiseringsdiskursen poängterar efterlevnad av centralt formulerade standarder, målstyrning och nyckeltal.
@@ -82,8 +77,7 @@ En av de mest grundläggande egenskaperna hos en skanner är intensiv nyfikenhet
 En annan term som används för att beskriva denna typ av person är en multipotentialit.
 Multipotentialitet är en pedagogisk och psykologisk term som hänvisar till förmågan och preferensen hos en person, särskilt en med stark intellektuell eller konstnärlig nyfikenhet, att utmärka sig inom två eller flera olika områden.
 
-#Jag ser det som specialist vs generalist, och har ofta sett mig som en specialist men kanske är jag en driven generalist?
-
+### Personlig utveckling framför trygghet och högre lön - Samma jobb livet ut?
 För att avgöra om man vill jobba på det här sättet, börja med att ställa dig själv dessa frågor:
 +Slits jag mellan flera alternativ gällande min karriär/framtid och har svårt att bestämma mig?
 +Har jag ofta många idéer för projekt eller företag som surrar runt i huvudet?
@@ -92,6 +86,7 @@ För att avgöra om man vill jobba på det här sättet, börja med att ställa 
 #Portfolio carreer - bygg en portfoli av egna alster/verk/projekt.
 #Portföljkarriär - portfölj, kostym, kontor, inomhus hela dagen, föreskrift över vart man måste pparkera sin bil och pantade mellanchefer som har problem med att öppna en excel-fil... Kort sagt Boring AB.
 <br>
+
 Om man svarar ja på en eller flera av dessa frågor så kan det vara så att man kanske ska bygga sig en egen portfolio och "gå till jobbet".
 <br>
 
