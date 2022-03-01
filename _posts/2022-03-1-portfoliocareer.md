@@ -1,33 +1,33 @@
-## Portfolio Career - jack of all trades master of none, eller varför åka i baksätet när man kan köra själv?
+## Portfolio Career - jack of all trades master of none, varför åka i baksätet när man kan köra själv?
 
 
 *Vilka är fördelarna med en portföljkarriär?
 Om du vet att du kan något, oavsett vad, är osannolikt att ett vanligt jobb kan ge samma tillfredsställelse, tillväxt och mångsidighet som du förtjänar.*
 
-//Vart fan står jag i livet och vart åt vill jag?
-
 Portfolio Career, ett engelskt begrepp som översatt till svenska låter väldigt tråkigt - Portföljkarriär
+<>br
 Men läs vidare om ett begrepp som jag upptäckte av en slump.
 
 ## Portfolio Career
 Det var ett event anordnat av tidningen the Guardian
 
-the Guardian Masterclasses [the Guardian](https://membership.theguardian.com/event/how-to-build-a-portfolio-career-an-evening-class-with-samantha-clarke-205007672467?INTCMP=gdnwb_copts_merchhgh_mstrs_masterclasses_online_business).
+the Guardian Masterclasses [the Guardian Masterclasses](https://membership.theguardian.com/event/how-to-build-a-portfolio-career-an-evening-class-with-samantha-clarke-205007672467?INTCMP=gdnwb_copts_merchhgh_mstrs_masterclasses_online_business).
 
-## How to build a portfolio career: An evening class with Samantha Clarke
+### How to build a portfolio career: An evening class with Samantha Clarke
 Wednesday 9 February 2022, 6.30pm–9pm GMT
 £99 plus £4.79 booking fee 
 
-OBS! Detta datum har redan varit
+(OBS! Detta datum har redan varit!)
 
 
 Pictures länkning
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://media.guim.co.uk/54d3103691e0c2887a345a4e5b84834a24fc4836/0_86_960_576/500.jpg)
 
 
 Samantha Clarke (The Guardian; advising on navigating transitions and change)
     Via Future Trends
 
+<br>
 Det hade säkert varit intressant men jag tyckte att det lät lite dyrt 99£
 
 
@@ -37,13 +37,15 @@ Citat:
 https://www.forbes.com › carolinecastrillon › 2019/09/15 *
 
 
-Hoppjerka - naivt, risk att skjuta sig själv i foten, konkurs? Jajjamensan!
+### Hoppjerka - naivt, risk att skjuta sig själv i foten, konkurs? Jajjamensan!
+<br>
 Konstnär, musiker, artist, rörmokare eller på annat sätt hoppar omkring på flera projekt istället för att bara "gå till jobbet" - det är så man tvingas jobba för att få en inkomst.
 
 Fördelar och nackdelar
 Det finns ju självklart en del nackdelar med att ständigt behöva ligga på och söka jobb, man måste ha mycket "pågång" och det kan vara vådligt att få ekonomin att gå runt på ett sätt man vant sig vid som löntagare - men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. Den personliga utvecklingen sker bit-för-bit.
 
-Jack of all trails master of quite a lot
+### Jack of all trails master of quite a lot
+<br>
 Man kan också se det som Caroline Castrillon beskriver i en artikel på tidningen Forbes, ett sätt att arbeta på om man är lagd åt det multidisciplinära hållet. Min egna tolkning  jack of all trails master of quite a lot.
 
 Caroline Castrillon[Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec).
