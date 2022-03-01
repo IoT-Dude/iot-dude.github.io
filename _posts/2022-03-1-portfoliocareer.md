@@ -6,7 +6,7 @@
 Om du vet att du kan något, oavsett vad, är osannolikt att ett vanligt jobb kan ge samma tillfredsställelse, tillväxt och mångsidighet som du förtjänar.*
 
 Portfolio Career, ett engelskt begrepp som översatt till svenska låter väldigt tråkigt - Portföljkarriär
-<>br
+<br>
 Men läs vidare om ett begrepp som jag upptäckte av en slump.
 
 ## Portfolio Career
@@ -34,12 +34,11 @@ Det hade säkert varit intressant men jag tyckte att det lät lite dyrt 99£
 
 ### Vad är en Portföljkarriär?
 Citat:
-* A portfolio career is a working style where you combine multiple streams of income—often creating a mix of full or part-time employment, freelancing or working as a consultant. For example, you could combine consulting with part-time work, developing your own product or service and freelance writing.15 Sept 2019
-https://www.forbes.com › carolinecastrillon › 2019/09/15 *
+* A portfolio career is a working style where you combine multiple streams of income—often creating a mix of full or part-time employment, freelancing or working as a consultant. For example, you could combine consulting with part-time work, developing your own product or service and freelance writing.
 
-
-### Hoppjerka - naivt, risk att skjuta sig själv i foten, konkurs? Jajjamensan!
 <br>
+### Hoppjerka - naivt, risk att skjuta sig själv i foten, konkurs? Jajjamensan!
+
 Konstnär, musiker, artist, rörmokare eller på annat sätt hoppar omkring på flera projekt istället för att bara "gå till jobbet" - det är så man tvingas jobba för att få en inkomst.
 
 Fördelar och nackdelar
