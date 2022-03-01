@@ -81,7 +81,7 @@ Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakom
 <br>
 ### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet:
 
-####flexibilisering
+#### flexibilisering av arbetskraften
 <br>
     konkurrenskraft
 
@@ -101,56 +101,39 @@ Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakom
     Flexibiliserings-, individualiserings- och informaliseringsdiskurserna betonar kreativitet och innovation genom självbestämmande och flexibilitet, medan byråkratiseringsdiskursen poängterar efterlevnad av centralt formulerade standarder, målstyrning och nyckeltal.
 
 
-### Åt vilket håll?
+### Flexibilitet - Åt vilket håll?
 <br>
-Konsekvensen av New Public Management/Två sidor av samma mynt och hur porföljkarriären mer börjar bli ett tydligt mönster 
-Individualisering och byråkratisering kan sägas representera konsekvensen av New Public Management organisering.
+Konsekvensen av New Public Management[New Public Management](https://en.wikipedia.org/wiki/New_Public_Management)/Två sidor av samma mynt och hur porföljkarriären mer börjar bli ett tydligt mönster 
+Individualisering och byråkratisering kan sägas representera konsekvensen av New Public Management organisering. I likhet med övriga utvecklingslinjer kan byråkratiseringen direkt hänföras till arbetslivets digitalisering och ökade globalisering.
 <br>
-New Public Management[New Public Management](https://en.wikipedia.org/wiki/New_Public_Management)
+Digitaliseringen möjliggör och medverkar till utökad dokumentation, kontroll och övervakning, och växande global konkurrens innebär att det svenska arbetslivet ställs inför krav på kontinuerliga effektivitets- och produktivitetshöjningar. New Public Management och dess styrning är ett försök att tillmötesgå sådana krav, liksom ökad dokumentation, slimmade organisationer och implementering av verksamhetsstrategier såsom lean inom till exempel tillverkningsindustrin och sjukvården.
 <br>
-I likhet med övriga tre utvecklingslinjer kan byråkratiseringen hänföras till arbetslivets digitalisering och ökade globalisering.
-Digitaliseringen möjliggör och medverkar till utökad dokumentation, kontroll och övervakning, och växande global konkurrens innebär att det svenska arbetslivet ställs inför krav på kontinuerliga effektivitets- och produktivitetshöjningar.
-New Public Management och dess styrning är ett försök att tillmötesgå sådana krav, liksom ökad dokumentation, slimmade organisationer och implementering av verksamhetsstrategier såsom lean inom till exempel tillverkningsindustrin och sjukvården.
-
-
-I dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft
+Men i dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft och den nya vågen av byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
 <br>
-### Analys
 
-Arbetsmilöjöverket
-
-Individuasliseringstrenden vs byråkrati/ökad formalisering och standardisering, kontroll, dokumentation och fokus på mätbara
-mål. Den nya vågen av byråkrati bygger på systematiska planerings-,styr- och kontrollverktyg, men till skillnad från föregående versioner
-presenteras den med hjälp av managementidéer och terminologi
-
-https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf
-Gillberg, N., Nya sätt att organisera arbete, 2018:2, s. 21.
-
-### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
+### Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör
+#### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
 I arbetslivet märks denna individualiseringstrend bland annat genom nätverkande och portföljkarriärer.
-Enligt forskaren ses arbetstagaren som en produkt på arbetsmarknaden.
-Mot denna bakgrund kan man följaktligen anta att bisysslor kommer öka i framtiden, detta kan förstås som en följd av den enskilda arbetstagarens behov av utvecklingsmöjligheter som kan möta förväntningarna på den kontinuerliga kompetensutvecklingen.
-Gillberg beskriver detta fenomen som att ”Var och en är sin egen lyckas smed, förväntas ha ett driv och vara en entreprenör”.
-
+Enligt Gillberg ses arbetstagaren som en produkt på arbetsmarknaden.
+<br>
+*"Mot denna bakgrund kan man följaktligen anta att bisysslor kommer öka i framtiden, detta kan förstås som en följd av den enskilda arbetstagarens behov av utvecklingsmöjligheter som kan möta förväntningarna på den kontinuerliga kompetensutvecklingen."*
+Gillberg beskriver detta fenomen som att ”Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör”.
+<br>
 Med detta sagt menar jag dock att vägen till individuellt självförverkligande  individuellt självförverkligande genom flexibla inställningar till arbeten innebär olika utmaningar    hel del utmaningar
 
 
 ### Den nya drömmen - Är Portföljgigget samma som  egenföretagande?
 
-Ökningen av egenföretagande i kombination med en spirande gigekonomin i europa gör portföljkarriären till ett alternativ för många men är det realistiskt?
+Ökningen av egenföretagande i kombination med en spirande gigekonomin i europa gör portföljkarriären till ett alternativ för många, men är det realistiskt?
 
-Portfoliocareer ej portfölj - strömmar av drömmar?
-
-Man vill idag ha mer kontroll över hur och varför man arbetar och en portföljkarriär ger dem det och mer av detta.
+Man vill idag ha mer kontroll över hur och varför man arbetar och en portföljkarriär ger den individuella människan detta.
+<br>
 Det är alltså ett arbetssätt där man kombinerar flera inkomster/strömmar – ofta skapar en blandning av hel- eller deltidsanställning, frilansande eller att arbeta som konsult.
 Man kombinerar rådgivning med deltidsarbete, utvecklar sina egen produkter eller tjänster och frilansar på olika sätt.
 Det handlar om  eget ansvar, självförvaltning, där jag själv bestämmer när jag jobbar och hur mycket jag är värd.
 
-Ett eget företag helt enkelt?
-Behöver inte vara men kan förenkla situationen.
 
-
-Portföljkarriär vägen till lycka och framgång (och alla blir glada på slutet)?
+### Portföljkarriär vägen till lycka och framgång (och alla blir glada på slutet)?
 
 Det finns en viss typ av personlighet som attraheras av att arbeta på det här sättet.
 <br>
@@ -168,14 +151,18 @@ För att avgöra om man vill jobba på det här sättet, börja med att ställa 
 +Tycker jag att tanken på att sätta mig på ett kontor och klättra på företagsstegen resten av mitt liv är helt ofattbar?
 #Portfolio carreer - bygg en portfoli av egna alster/verk/projekt.
 #Portföljkarriär - portfölj, kostym, kontor, inomhus hela dagen, föreskrift över vart man måste pparkera sin bil och pantade mellanchefer som har problem med att öppna en excel-fil... Kort sagt Boring AB.
-
+<br>
 Om man svarar ja på en eller flera av dessa frågor så kan det vara så att man kanske ska bygga sig en egen portfolio och "gå till jobbet".
+<br>
 
-
-Det enda som är konstant är förändring
+### Det enda som är konstant är förändring
 Kliche jag vet men arbetslivet är delvis ett lotteri, vi lever i en föränderlig (arbets)miljö och det är svårt att få till en bra karriär med kompetens och tillfredsställelse hela vägen ut. Tänk så många det är som blir utbrända varje år - arbetsrelaterad depression är något som trendar i Sverige.
+<br>
 Att kombinera kompetens och köra på flera karriärvägar kan ge mer trygghet och är ett effektivt sätt att hålla sig intellektiuellt smidig - dock tänk på att arbeta för mycket också är en väg till den arbetsrelaterade depressionen som trendar i Sverige....
 
 Även om denna arbetsstil kan verka okonventionell för vissa, kommer den i allt högre grad att bli normen när fler människor upptäcker fördelarna med att faktiskt skapa den karriär de förtjänar.
 För 75 år sedan kunde man börja på den lokala sågen och jobba kvar till sin pension, stämpla ut och gå hem och dö,  men så ser det inte ut idag - om du inte tar ansvar (äganderätten) till dit liv och karriär, kommer någon annan att göra det.
+<br>
+Kanske en portföljkarriär kan vara det rätta?
 
+#Patrik.
