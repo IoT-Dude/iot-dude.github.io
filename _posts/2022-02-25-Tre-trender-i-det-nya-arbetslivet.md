@@ -18,41 +18,39 @@ Till gruppen millennials är personer som är födda från 1983 till och med 199
  skriver Nanna Gillberg i rapporten [Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf), Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
 
 
-#### flexibilisering av arbetskraften
+#### Flexibilisering av arbetskraften
 I dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft, och den nya vågen av [New Public Management](https://en.wikipedia.org/wiki/New_Public_Management)  byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
 
 
-#### individualisering och informalisering
+#### Individualisering och informalisering
 Informella kriterier får ökad betydelse för tillgång till och framgång på arbetsmarknaden.
 Organisering sker med flexibilitet för ögonen, ofta i nätverk och projekt, där förmågan att anpassa sig till och fungera socialt (passa in) i
 olika situationer blir viktig.
 Sociala nätverk, socialt kapital och social kompetens inkorporeras i kompetensbegreppet och får betydelse i rekryteringsprocesser.
     
-#### byråkratisering
+#### Byråkratisering
 En Mottrend, byråkratiseringen av arbetsmiljön är trend som i huvudsak går i motsatt riktning.
 Flexibiliserings-, individualiserings- och informaliseringsdiskurserna betonar kreativitet och innovation genom självbestämmande och flexibilitet, medan byråkratiseringsdiskursen poängterar efterlevnad av centralt formulerade standarder, målstyrning och nyckeltal.
 
 
 ### Flexibilitet - åt vilket håll?
-Konsekvensen av /Två sidor av samma mynt och hur porföljkarriären mer börjar bli ett tydligt mönster 
-Individualisering och byråkratisering kan sägas representera konsekvensen av New Public Management organisering. I likhet med övriga utvecklingslinjer kan byråkratiseringen direkt hänföras till arbetslivets digitalisering och ökade globalisering.
-<br>
+Konsekvensen av individualisering och byråkratisering kan sägas representera konsekvensen av New Public Management organisering ute på arbetsplatserna. I likhet med övriga utvecklingslinjer kan byråkratiseringen direkt hänföras till arbetslivets digitalisering och ökade globalisering.
+
 Digitaliseringen möjliggör och medverkar till utökad dokumentation, kontroll och övervakning, och växande global konkurrens innebär att det svenska arbetslivet ställs inför krav på kontinuerliga effektivitets- och produktivitetshöjningar. New Public Management och dess styrning är ett försök att tillmötesgå sådana krav, liksom ökad dokumentation, slimmade organisationer och implementering av verksamhetsstrategier såsom lean inom till exempel tillverkningsindustrin och sjukvården.
 <br>
-Men i dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft och den nya vågen av byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
-<br>New Public Management
+Men i dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft och den nya vågen av New Public Management byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
+
 
 ### Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör
-
-#### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
 I arbetslivet märks denna individualiseringstrend bland annat genom nätverkande och portföljkarriärer.
 Enligt Gillberg ses arbetstagaren som en produkt på arbetsmarknaden.
 <br>
 *"Mot denna bakgrund kan man följaktligen anta att bisysslor kommer öka i framtiden, detta kan förstås som en följd av den enskilda arbetstagarens behov av utvecklingsmöjligheter som kan möta förväntningarna på den kontinuerliga kompetensutvecklingen."*
 Gillberg beskriver detta fenomen som att ”Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör”.
 <br>
-Med detta sagt menar jag dock att vägen till individuellt självförverkligande  individuellt självförverkligande genom flexibla inställningar till arbeten innebär olika utmaningar    hel del utmaningar
 
+#### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
+Kort sagt, individuellt självförverkliga genom flexibla inställning till arbeten innebär hel del utmaningar ...
 
 ### Den nya drömmen - Är Portföljgigget samma som  egenföretagande?
 
