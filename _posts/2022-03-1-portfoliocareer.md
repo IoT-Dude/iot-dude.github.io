@@ -32,7 +32,7 @@ Samantha Clarke (The Guardian; advising on navigating transitions and change)
 Det hade säkert varit intressant, men jag tyckte att  99£ lät lite dyrt. Och lika intressant som föreläsningen låter, lika intressant är själva begreppet Portfolio Career.
 
 ### Vad är en Portföljkarriär?
-* "A portfolio career is a working style where you combine multiple streams of income—often creating a mix of full or part-time employment, freelancing or working as a consultant. For example, you could combine consulting with part-time work, developing your own product or service and freelance writing." *
+*"A portfolio career is a working style where you combine multiple streams of income—often creating a mix of full or part-time employment, freelancing or working as a consultant. For example, you could combine consulting with part-time work, developing your own product or service and freelance writing."*
 
 
 ### Portföljkarriär - Hoppjerka - samma sak?
