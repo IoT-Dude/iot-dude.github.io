@@ -30,7 +30,7 @@ Sociala nätverk, socialt kapital och social kompetens inkorporeras i kompetensb
 En Mottrend, byråkratiseringen av arbetsmiljön är trend som i huvudsak går i motsatt riktning.
 Flexibiliserings-, individualiserings- och informaliseringsdiskurserna betonar kreativitet och innovation genom självbestämmande och flexibilitet, medan byråkratiseringsdiskursen poängterar efterlevnad av centralt formulerade standarder, målstyrning och nyckeltal.
 
-
+<br>
 ### Flexibilitet - åt vilket håll?
 Konsekvensen av individualisering och byråkratisering kan sägas representera konsekvensen av New Public Management organisering ute på arbetsplatserna. I likhet med övriga utvecklingslinjer kan byråkratiseringen direkt hänföras till arbetslivets digitalisering och ökade globalisering.
 
@@ -46,6 +46,7 @@ Enligt Gillberg ses arbetstagaren som en produkt på arbetsmarknaden.
 <br>
 *"Mot denna bakgrund kan man följaktligen anta att bisysslor kommer öka i framtiden, detta kan förstås som en följd av den enskilda arbetstagarens behov av utvecklingsmöjligheter som kan möta förväntningarna på den kontinuerliga kompetensutvecklingen."*
 Gillberg beskriver detta fenomen som att ”Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör”.
+
 <br>
 
 #### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
@@ -58,22 +59,21 @@ Kort sagt, individuellt självförverkliga genom flexibla inställning till arbe
 
 Man vill idag ha mer kontroll över hur och varför man arbetar och en portföljkarriär ger den individuella människan detta.
 <br>
-Det är alltså ett arbetssätt där man kombinerar flera inkomster/strömmar – ofta skapar en blandning av hel- eller deltidsanställning, frilansande eller att arbeta som konsult.
-Man kombinerar rådgivning med deltidsarbete, utvecklar sina egen produkter eller tjänster och frilansar på olika sätt.
-Det handlar om  eget ansvar, självförvaltning, där jag själv bestämmer när jag jobbar och hur mycket jag är värd.
+Det blir alltså ett arbetssätt där man kombinerar flera inkomster/strömmar – ofta skapas en blandning av hel- eller deltidsanställning, frilansande eller att arbeta som konsult. Man kombinerar rådgivning med deltidsarbete, utvecklar sina egen produkter eller tjänster och frilansar på olika sätt.
+
+Det kan fungera för vissa men inte för alla - det handlar om  eget ansvar, självförvaltning, där man själv bestämmer när man jobbar och hur mycket man är värd.
 
 
-### Portföljkarriär vägen till lycka och framgång (och alla blir glada på slutet)?
-
+### Portföljkarriär - viss typ av personlighet?
 Det finns en viss typ av personlighet som attraheras av att arbeta på det här sättet.
 <br>
 Barbara Sher, bästsäljarförfattaren till Refuse to Choose, kallar dem "Scanners".
 En av de mest grundläggande egenskaperna hos en skanner är intensiv nyfikenhet i många orelaterade ämnen - de är intresserade av allt.
-En annan term som används för att beskriva denna typ av person är en multipotentialit.
-Multipotentialitet är en pedagogisk och psykologisk term som hänvisar till förmågan och preferensen hos en person, särskilt en med stark intellektuell eller konstnärlig nyfikenhet, att utmärka sig inom två eller flera olika områden.
+En annan term som används för att beskriva denna typ av person är en multipotentialitet.
+Multipotentialitet är en pedagogisk och psykologisk term som hänvisar till förmågan och preferensen hos en person, särskilt en med stark intellektuell eller konstnärlig nyfikenhet, att parallellt utmärka sig inom två eller flera olika områden.
 
 ### Personlig utveckling framför trygghet och högre lön - Samma jobb livet ut?
-För att avgöra om man vill jobba på det här sättet, börja med att ställa dig själv dessa frågor:
+För att avgöra om man vill jobba på det här sättet, kan det vara bra att ställa dig själv dessa frågor:
 +Slits jag mellan flera alternativ gällande min karriär/framtid och har svårt att bestämma mig?
 +Har jag ofta många idéer för projekt eller företag som surrar runt i huvudet?
 +Tycker jag om att dyka in i ett ämne, jobb eller karriär för ett tag och sedan snabbt blir distraherad av något annat?
