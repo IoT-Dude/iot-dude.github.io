@@ -1,4 +1,4 @@
-Data analysis and Social Dynamics
+# Data analysis and Social Dynamics
 
 Patrik Ackell is the IoT-Dude
 <br>
