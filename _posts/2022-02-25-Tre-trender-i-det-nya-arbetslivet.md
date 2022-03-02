@@ -43,16 +43,16 @@ Men i dagens arbetsliv framhålls flexibilitet som något som skapar konkurrensk
 ### Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör
 I arbetslivet märks denna individualiseringstrend bland annat genom nätverkande och portföljkarriärer.
 Enligt Gillberg ses arbetstagaren som en produkt på arbetsmarknaden.
-<br>
+
 *"Mot denna bakgrund kan man följaktligen anta att bisysslor kommer öka i framtiden, detta kan förstås som en följd av den enskilda arbetstagarens behov av utvecklingsmöjligheter som kan möta förväntningarna på den kontinuerliga kompetensutvecklingen."*
 Gillberg beskriver detta fenomen som att ”Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör”.
 
-<br>
+
 
 #### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
 Kort sagt, individuellt självförverkliga genom flexibla inställning till arbeten innebär hel del utmaningar ...
 
-<br>
+
 ### Den nya drömmen - Är portföljgigget samma som  egenföretagande?
 
 Ökningen av egenföretagande i kombination med en spirande gigekonomin i europa gör portföljkarriären till ett alternativ för många, men är det realistiskt?
@@ -80,7 +80,8 @@ För att avgöra om man vill jobba på det här sättet, kan det vara bra att st
 +Tycker jag att tanken på att sätta mig på ett kontor och klättra på företagsstegen resten av mitt liv är helt ofattbar?
 #Portfolio carreer - bygg en portfoli av egna alster/verk/projekt.
 #Portföljkarriär - portfölj, kostym, kontor, inomhus hela dagen, föreskrift över vart man måste pparkera sin bil och pantade mellanchefer som har problem med att öppna en excel-fil... Kort sagt Boring AB.
-<br>
+
+
 
 Om man svarar ja på en eller flera av dessa frågor så kan det vara så att man kanske ska bygga sig en egen portfolio och "gå till jobbet".
 <br>
