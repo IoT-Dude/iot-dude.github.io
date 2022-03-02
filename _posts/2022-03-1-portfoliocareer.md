@@ -29,34 +29,33 @@ Samantha Clarke (The Guardian; advising on navigating transitions and change)
     Via Future Trends
 
 <br>
-Det hade säkert varit intressant men jag tyckte att det lät lite dyrt 99£
+Det hade säkert varit intressant, men jag tyckte att  99£ lät lite dyrt. Och lika intressant som föreläsningen låter, lika intressant är själva begreppet Portfolio Career.
 
 <br>
 ### Vad är en Portföljkarriär?
-Citat:
 * A portfolio career is a working style where you combine multiple streams of income—often creating a mix of full or part-time employment, freelancing or working as a consultant. For example, you could combine consulting with part-time work, developing your own product or service and freelance writing.
 
 <br>
 ### Portföljkarriär - Hoppjerka - samma sak?
 
-Konstnär, musiker, artist, rörmokare eller på annat sätt hoppar omkring på flera projekt istället för att bara "gå till jobbet".
+Konstnär, musiker, artist, rörmokare eller på annat sätt att man hoppar omkring på flera olika projekt elelr jobb istället för att bara "gå till jobbet".
 
 Fördelar och nackdelar
-Det finns ju självklart en del nackdelar med att ständigt behöva ligga på och söka jobb, man måste ha mycket "pågång" och det kan vara vådligt att få ekonomin att gå runt på ett sätt man vant sig vid som löntagare - men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. Den personliga utvecklingen sker bit-för-bit.
+<br>
+Det finns ju självklart en del nackdelar med att ständigt behöva ligga på och söka jobb, man måste ha mycket "pågång" och det kan vara vådligt att få ekonomin att gå runt på ett sätt man vant sig vid som löntagare. 
+Men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. Den personliga utvecklingen sker bit-för-bit.
 <br>
 ### Jack of all trails master of quite a lot
+Man kan också se det som Caroline Castrillon beskriver i en artikel på tidningen Forbes, ett sätt att arbeta på om man är lagd åt det multidisciplinära hållet (Caroline Castrillon)[Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec).
 
-Man kan också se det som Caroline Castrillon beskriver i en artikel på tidningen Forbes, ett sätt att arbeta på om man är lagd åt det multidisciplinära hållet. Min egna tolkning  jack of all trails master of quite a lot.
-
-Caroline Castrillon[Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec).
-
-Tillfredsställelse på jobbet
+Jack of all trails master of quite a lot - tillfredsställelse på jobbet/livet?
 En portfolio career kan ge en flexibilitet och möjligheter på ett helt annat sätt jämfört med ett vanligt jobb. Särskilt om man är lagd åt det multidisciplinära hållet, bra på ett par saker men riktigt styv på en grej.
 <br>
 ### Det enda som är konstant är förändring
-Kliche jag vet men arbetslivet är delvis ett lotteri. Vi lever i en föränderlig (arbets)miljö och det är svårt att få till en bra karriär med kompetens och tillfredsställelse hela vägen ut.
+En kliche jag vet, men arbetslivet är delvis ett lotteri. Vi lever i en föränderlig (arbets)miljö och det är svårt att få till en bra karriär med kompetens och tillfredsställelse hela vägen ut.
 <br>
-Att kombinera kompetens och köra på flera karriärvägar kan ge mer trygghet och är ett effektivt sätt att hålla sig intellektuellt smidig. Dock, tänk på att  arbetsrelaterade depressioner är något som trendar i Sverige, och det är då viktigt att disponera sin tid rätt när man för mycket arbetsuppgifter som måste lösas.
+Att kombinera kompetens och köra på flera karriärvägar kan ge mer trygghet och är ett effektivt sätt att hålla sig intellektuellt smidig. 
+Dock, tänk på att  arbetsrelaterade depressioner är något som trendar i Sverige, och det är då viktigt att disponera sin tid rätt när man för mycket arbetsuppgifter som måste lösas.
 
 ### Det nya normala?
 Även om denna arbetsstil kan verka okonventionell för vissa, kommer den i allt högre grad att bli normen när fler människor upptäcker fördelarna med att faktiskt skapa den karriär de förtjänar.
