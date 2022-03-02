@@ -43,7 +43,8 @@ Konstnär, musiker, artist, rörmokare eller på annat sätt att man hoppar omkr
 
 Det finns ju självklart en del nackdelar med att ständigt behöva ligga på och söka jobb, man måste ha mycket "pågång" och det kan vara vådligt att få ekonomin att gå runt på ett sätt man vant sig vid som löntagare. 
 Men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. 
-Den personliga utvecklingen sker bit-för-bit.
+<br>
+Den personliga utvecklingen sker bit-för-bit, man bestämmer själv farten.
 <br>
 ### Jack of all trails master of quite a lot
 Man kan också se det som Caroline Castrillon beskriver i en artikel i tidningen [Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec) , ett sätt att arbeta på om man är lagd åt det multidisciplinära hållet..
