@@ -55,9 +55,9 @@ En portfolio career kan ge en flexibilitet och möjligheter på ett helt annat s
 ### Det enda som är konstant är förändring
 En kliche jag vet, men arbetslivet är delvis ett lotteri. Vi lever i en föränderlig (arbets)miljö och det är svårt att få till en bra karriär med kompetens och tillfredsställelse hela vägen ut.
 <br>
-Att kombinera kompetens och köra på flera karriärvägar kan ge mer trygghet och är ett effektivt sätt att hålla sig intellektuellt smidig. 
+Att kombinera sin kompetens och köra på flera karriärvägar samtidigt kan ge mer trygghet och är ett effektivt sätt att hålla sig intellektuellt smidig. 
 <br>
-Dock, tänk på att  arbetsrelaterade depressioner är något som trendar i Sverige, och det är då viktigt att disponera sin tid rätt när man för mycket arbetsuppgifter som måste lösas.
+Dock, tänk på att  arbetsrelaterade depressioner är något som trendar i Sverige, och det är då viktigt att disponera sin tid rätt när man har för mycket arbetsuppgifter som måste lösas.
 
 ### Det nya normala?
 Även om denna arbetsstil kan verka okonventionell för vissa, kommer den i allt högre grad att bli normen när fler människor upptäcker fördelarna med att faktiskt skapa den karriär de förtjänar.
