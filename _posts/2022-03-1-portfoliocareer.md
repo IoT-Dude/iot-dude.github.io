@@ -45,7 +45,7 @@ Det finns ju självklart en del nackdelar med att ständigt behöva ligga på oc
 Men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. Den personliga utvecklingen sker bit-för-bit.
 <br>
 ### Jack of all trails master of quite a lot
-Man kan också se det som (Caroline Castrillon beskriver i en artikel i tidningen)[Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec) , ett sätt att arbeta på om man är lagd åt det multidisciplinära hållet..
+Man kan också se det som Caroline Castrillon beskriver i en artikel i tidningen [Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec) , ett sätt att arbeta på om man är lagd åt det multidisciplinära hållet..
 
 Jack of all trails master of quite a lot - tillfredsställelse på jobbet/livet?
 En portfolio career kan ge en flexibilitet och möjligheter på ett helt annat sätt jämfört med ett vanligt jobb. Särskilt om man är lagd åt det multidisciplinära hållet, bra på ett par saker men riktigt styv på en grej.
