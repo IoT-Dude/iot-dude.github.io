@@ -1,4 +1,4 @@
-## En tendens och tre utvecklingslinjer framträder i organiseringen av det nya arbetslivet
+## Spaning: Det nya arbetslivet, i organiseringen framträder en tendens och tre utvecklingslinjer 
 Många människor kämpar för att hitta en karriär som ska räcka livet ut och skapa lycka och framgång. Men vad är chansen för detta? 
 Hur många kan ärligt säga: "Oj vilket fantastiskt bra arbetsliv jag har haft och så mycket nytt och intressant jag lärt mig!" ?
 
@@ -10,25 +10,23 @@ Den gruppen som kallas millennials prioriterar till en större grad frihet och f
 ### En tendens bland Millenials (30 - 40 åringarna)
 Till gruppen millennials är personer som är födda från 1983 till och med 1994. Det märks en markant skillnad hos dem jämfört med tidigare generationers inställning till arbete. Forskning visar att denna grupp är mer benägen att prioritera faktorer som flexibilitet, frihet och möjlighet till personlig utveckling framför annars kända begrepp som trygghet och högre lön (Svenskt Näringsliv [Svenskt Näringsliv](https://www.svensktnaringsliv.se/sakomraden/arbetsgivarsamverkan/flexibilitet-viktigare-an-lon-for-unga_1004939.html).
 
-
+<br>
 
 ### Tre utvecklingslinjer som är framträdande i organiseringen av det nya arbetslivet
-*"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter. "*
-
- skriver Nanna Gillberg i rapporten [Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf), Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
+*"Traditionellt har organiseringen i arbetslivet utgått från antagandet att arbetstagare har tillsvidareanställning på heltid hos en arbetsgivare som tillhandahåller lokaler där arbetstagarna under reglerad arbetstid utför sina arbetsuppgifter."*, skriver Nanna Gillberg i rapporten [Kunskapssammanställning 2018:2 Nya sätt att organisera arbete – betydelsen för arbetsmiljö och hälsa, Nanna Gillberg](https://www.av.se/globalassets/filer/publikationer/kunskapssammanstallningar/nya-satt-att-organisera-arbete-betydelsen-for-arbetsmiljo-och-halsa_2018_2.pdf), Gothenburg Research Institute, Handelshögskolan, Göteborgs universitet
 
 
-#### Flexibilisering av arbetskraften
-I dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft, och den nya vågen av [New Public Management](https://en.wikipedia.org/wiki/New_Public_Management)  byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
+#### I - III Flexibilisering av arbetskraften
+I dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft, och den nya vågen av [New Public Management](https://en.wikipedia.org/wiki/New_Public_Management)  byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg. Men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
 
 
-#### Individualisering och informalisering
+#### II - III Individualisering och informalisering
 Informella kriterier får ökad betydelse för tillgång till och framgång på arbetsmarknaden.
 Organisering sker med flexibilitet för ögonen, ofta i nätverk och projekt, där förmågan att anpassa sig till och fungera socialt (passa in) i
 olika situationer blir viktig.
 Sociala nätverk, socialt kapital och social kompetens inkorporeras i kompetensbegreppet och får betydelse i rekryteringsprocesser.
     
-#### Byråkratisering
+#### III - III Byråkratisering
 En Mottrend, byråkratiseringen av arbetsmiljön är trend som i huvudsak går i motsatt riktning.
 Flexibiliserings-, individualiserings- och informaliseringsdiskurserna betonar kreativitet och innovation genom självbestämmande och flexibilitet, medan byråkratiseringsdiskursen poängterar efterlevnad av centralt formulerade standarder, målstyrning och nyckeltal.
 
@@ -40,6 +38,7 @@ Digitaliseringen möjliggör och medverkar till utökad dokumentation, kontroll 
 <br>
 Men i dagens arbetsliv framhålls flexibilitet som något som skapar konkurrenskraft och den nya vågen av New Public Management byråkrati bygger på systematiska planerings-, styr- och kontrollverktyg, men till skillnad från föregående versioner presenteras den med hjälp av managementidéer och terminologi
 
+<br>
 
 ### Var och en är sin egen lyckas med, förväntas ha ett driv och vara en entreprenör
 I arbetslivet märks denna individualiseringstrend bland annat genom nätverkande och portföljkarriärer.
@@ -52,7 +51,8 @@ Gillberg beskriver detta fenomen som att ”Var och en är sin egen lyckas med, 
 #### Nya sätt att organisera sitt arbete - Marknadens krav på entreprenörskap som nyckeln till tillväxt och sysselsättning
 Kort sagt, individuellt självförverkliga genom flexibla inställning till arbeten innebär hel del utmaningar ...
 
-### Den nya drömmen - Är Portföljgigget samma som  egenföretagande?
+<br>
+### Den nya drömmen - Är portföljgigget samma som  egenföretagande?
 
 Ökningen av egenföretagande i kombination med en spirande gigekonomin i europa gör portföljkarriären till ett alternativ för många, men är det realistiskt?
 
