@@ -42,7 +42,8 @@ Konstnär, musiker, artist, rörmokare eller på annat sätt att man hoppar omkr
 ### Fördelar och nackdelar
 
 Det finns ju självklart en del nackdelar med att ständigt behöva ligga på och söka jobb, man måste ha mycket "pågång" och det kan vara vådligt att få ekonomin att gå runt på ett sätt man vant sig vid som löntagare. 
-Men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. Den personliga utvecklingen sker bit-för-bit.
+Men samtidigt, så har man då chansen att få jobba med bara det man själv vill, bara de klienter man själv vill jobba med och bara det man själv är nyfiken på. 
+Den personliga utvecklingen sker bit-för-bit.
 <br>
 ### Jack of all trails master of quite a lot
 Man kan också se det som Caroline Castrillon beskriver i en artikel i tidningen [Forbes](https://www.forbes.com/sites/carolinecastrillon/2019/09/15/why-its-time-to-consider-a-portfolio-career/?sh=bb6d4e6652ec) , ett sätt att arbeta på om man är lagd åt det multidisciplinära hållet..
@@ -54,6 +55,7 @@ En portfolio career kan ge en flexibilitet och möjligheter på ett helt annat s
 En kliche jag vet, men arbetslivet är delvis ett lotteri. Vi lever i en föränderlig (arbets)miljö och det är svårt att få till en bra karriär med kompetens och tillfredsställelse hela vägen ut.
 <br>
 Att kombinera kompetens och köra på flera karriärvägar kan ge mer trygghet och är ett effektivt sätt att hålla sig intellektuellt smidig. 
+<br>
 Dock, tänk på att  arbetsrelaterade depressioner är något som trendar i Sverige, och det är då viktigt att disponera sin tid rätt när man för mycket arbetsuppgifter som måste lösas.
 
 ### Det nya normala?
