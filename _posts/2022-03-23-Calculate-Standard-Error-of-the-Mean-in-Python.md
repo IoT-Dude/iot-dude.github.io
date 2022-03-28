@@ -20,8 +20,8 @@ n: sample size
 I will explain two methods you can use to calculate the standard error of the mean for a dataset in Python.
 Note that both methods produce the exact same results.
 
-sem() function from the SciPy Stats library.    https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.sem.html
-std() function from NumPy.     https://numpy.org/doc/stable/reference/generated/numpy.std.html
+sem() function from the SciPy Stats library (https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.sem.html)
+std() function from the NumPy library (https://numpy.org/doc/stable/reference/generated/numpy.std.html)
 
 
 ## Method 1: Use SciPy
@@ -34,12 +34,13 @@ The following code shows how to use this function:
 from scipy.stats import sem
 
 #define dataset 
+<br>
 data = [3, 4, 4, 5, 7, 8, 12, 14, 14, 15, 17, 19, 22, 24, 24, 24, 25, 28, 28, 29]
 
 #calculate standard error of the mean 
 sem(data)
 
-2.00145
+2.001447
 
 The standard error of the mean turns out to be 2.001447.
 
@@ -56,9 +57,11 @@ The following code shows how to do so:
 import numpy as np
 
 #define dataset
+<br>
 data = np.array([3, 4, 4, 5, 7, 8, 12, 14, 14, 15, 17, 19, 22, 24, 24, 24, 25, 28, 28, 29])
 
 #calculate standard error of the mean 
+<br>
 np.std(data, ddof=1) / np.sqrt(np.size(data))
 
 2.001447
@@ -70,6 +73,7 @@ Once again, the standard error of the mean turns out to be 2.001447.
 
 The standard error of the mean is simply a measure of how spread out values are around the mean. 
 There are two things to keep in mind when interpreting the standard error of the mean:
+
 
 1. The larger the standard error of the mean, the more spread out values are around the mean in a dataset.
 
