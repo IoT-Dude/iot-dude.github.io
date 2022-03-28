@@ -21,6 +21,7 @@ I will explain two methods you can use to calculate the standard error of the me
 Note that both methods produce the exact same results.
 
 sem() function from the SciPy Stats library (https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.sem.html)
+<br>
 std() function from the NumPy library (https://numpy.org/doc/stable/reference/generated/numpy.std.html)
 
 
