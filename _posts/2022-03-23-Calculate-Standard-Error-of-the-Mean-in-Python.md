@@ -76,7 +76,7 @@ The standard error of the mean is simply a measure of how spread out values are 
 There are two things to keep in mind when interpreting the standard error of the mean:
 
 
-1. The larger the standard error of the mean, the more spread out values are around the mean in a dataset.
+### 1. The larger the standard error of the mean, the more spread out values are around the mean in a dataset.
 
 To illustrate this, consider if we change the last value in the previous dataset to a much larger number:
 
@@ -92,7 +92,7 @@ sem(data)
 
 Notice how the standard error jumps from 2.001447 to 6.978265. This is an indication that the values in this dataset are more spread out around the mean compared to the previous dataset.
 
-2. As the sample size increases, the standard error of the mean tends to decrease.
+### 2. As the sample size increases, the standard error of the mean tends to decrease.
 
 To illustrate this, consider the standard error of the mean for the following two datasets:
 
