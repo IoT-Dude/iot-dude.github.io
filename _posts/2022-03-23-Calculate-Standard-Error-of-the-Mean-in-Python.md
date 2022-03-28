@@ -3,15 +3,20 @@
 # How to Calculate the Standard Error of the Mean in Python
 
 The standard error of the mean is a way to measure how the spread out values are in a dataset.
+<br>
 It is calculated as:
 
-Standard error of the mean = s / √n
+### Standard error of the mean = s / √n
 
 where:
 
 s: sample standard deviation
+<br>
 n: sample size
 
+
+
+## Two methods
 I will explain two methods you can use to calculate the standard error of the mean for a dataset in Python.
 Note that both methods produce the exact same results.
 
@@ -19,7 +24,7 @@ sem() function from the SciPy Stats library.    https://docs.scipy.org/doc/scipy
 std() function from NumPy.     https://numpy.org/doc/stable/reference/generated/numpy.std.html
 
 
-Method 1: Use SciPy
+## Method 1: Use SciPy
 
 The first way to calculate the standard error of the mean is to use the sem() function from the SciPy Stats library.
 
@@ -39,7 +44,7 @@ sem(data)
 The standard error of the mean turns out to be 2.001447.
 
 
-Method 2: Use NumPy
+## Method 2: Use NumPy
 
 Another way to calculate the standard error of the mean for a dataset is to use the std() function from NumPy.
 
@@ -61,9 +66,10 @@ np.std(data, ddof=1) / np.sqrt(np.size(data))
 Once again, the standard error of the mean turns out to be 2.001447.
 
 
-How to Interpret the Standard Error of the Mean
+## How to Interpret the Standard Error of the Mean
 
-The standard error of the mean is simply a measure of how spread out values are around the mean. There are two things to keep in mind when interpreting the standard error of the mean:
+The standard error of the mean is simply a measure of how spread out values are around the mean. 
+There are two things to keep in mind when interpreting the standard error of the mean:
 
 1. The larger the standard error of the mean, the more spread out values are around the mean in a dataset.
 
