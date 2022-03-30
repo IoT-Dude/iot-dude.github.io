@@ -4,8 +4,10 @@ Vi undersöker hur den historiska omsättningen och vinsten har sett ut i USA me
 <br>
 Totalt ca 25K datapunkter och rafflande kurvor!
 <br>
-[Test](https://wired.com)
+[Demo av ett dataset](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Fortune500_demo.html)
 <br>
-[Test II](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Fortune500_demo.html)
+[Demo av ett dataset ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Fortune500_demo.ipynb)
+
+
 
 
