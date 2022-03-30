@@ -4,7 +4,6 @@ Vi undersöker hur den historiska omsättningen och vinsten har sett ut i USA me
 <br>
 Totalt ca 25K datapunkter och rafflande kurvor!
 <br>
-[https://github.com/IoT-Dude/blogg_mtrl/blob/main/Fortune500_demo.html] (https://github.com/IoT-Dude/blogg_mtrl/blob/main/Fortune500_demo.html).
-
+[Fortune500_demo] (https://github.com/IoT-Dude/iot-dude.github.io/blob/main/_includes/Fortune500_demo.html)
 
 
