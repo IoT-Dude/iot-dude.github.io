@@ -15,5 +15,6 @@ Andra och tredje plats gick till Nederländerna och Tyskland, som står för 13%
 <br>
 Drygt fyra procent av Rysslands oljeexport gick till USA. Tidigare i April 2022 denna månad förbjöd Washington dock import av rysk olja och gas till USA, i ett försök att beröva Moskva intäkter efter dess invasion av Ukraina; intressant är att förbudet också matchades av Storbritanien (U.K.), men EU följde inte efter denna avveckling av rysk oljeimport.
 <br>
-![This is an image]
-(https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_exploding_LNG_export_RS_till_world.png
+
+(https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_exploding_LNG_export_RS_till_world.png)
+<img src="https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_exploding_LNG_export_RS_till_world.png"
