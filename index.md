@@ -1,4 +1,5 @@
-# Data analysis and Social Dynamics
+# Reflections: Regurgitated, Rehashed, Researched 
+## Data analysis and Social Dynamics
 
 Patrik Ackell is the IoT-Dude
 <br>
