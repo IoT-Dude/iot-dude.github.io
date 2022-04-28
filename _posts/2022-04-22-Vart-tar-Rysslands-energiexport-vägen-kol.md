@@ -13,7 +13,4 @@ När kriget rasar i Ukraina föll Rysslands kolexport till Asien till 1,8 miljon
 <br>
 OECD Europe var destinationen för cirka 32 % av den ryska kolexporten förra året, med Tyskland återigen rankad som toppdestination (8,5 %). Dessutom gick cirka 5,5 % av den ryska kolexporten 2021 till Ukraina.
 
-
-<br>
-<br>
-![Image description](https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_rysk_kol.png)
+![Piechart Kol](https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_rysk_kol.png)
