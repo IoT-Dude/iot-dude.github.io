@@ -1,6 +1,6 @@
 # Data analysis and Social Dynamics
 
-## Reflections: regurgitated, rehashed, researched 
+### Reflections: regurgitated, rehashed, researched 
 
 Patrik Ackell is the IoT-Dude
 <br>
