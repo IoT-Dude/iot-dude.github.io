@@ -1,5 +1,4 @@
-# Konsekvensanalys - Rysslands energiexport och EU områdets nära framtid, baserat på Rysslands krig i Ukraina, med Fokus på LNG
-
+# Konsekvensanalys med Fokus på LNG - Rysslands krig i Ukraina, dess energiexport och EU områdets nära framtid
 Rysslands krig i Ukraina och konsekvenserna av detta har drivit upp energipriserna världen över, vilket gör att länder från Europa till Asien har svårt att anpassa sig.
 <br>
 Färsk data från U.S.A. Energy Information Administration (EIA) och World Integrated Trade Solution (WITS) visar vilka länder som importerar mest rysk olja, gas och kol.
