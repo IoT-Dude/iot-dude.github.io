@@ -1,3 +1,11 @@
+Analys: Patrik Ackell 2022
+
+Endast förarbetet i denna analys är publicerat.
+<br>
+Arbetet är gjort med fokus på vilka industrier som skulle få problem om energipriset skulle stiga avsevärt över normalpris, och om detta skulle kunna ses som en fördel vid framtida investering i aktiekmarknaden i europaområdet.
+<br>
+<br>
+<br>
 # Konsekvensanalys med Fokus på LNG - Rysslands krig i Ukraina, dess energiexport och EU områdets nära framtid
 Rysslands krig i Ukraina och konsekvenserna av detta har drivit upp energipriserna världen över, vilket gör att länder från Europa till Asien har svårt att anpassa sig.
 <br>
