@@ -27,6 +27,5 @@ Globala effekter och konjunkturnedgång
 Det skulle också kunna bli prissättningskonsekvenser och andrahandseffekter för de fattigare länderna i regionen EU vilket kan komma att få stora effekter (inte bara på nationell), nivå, både för industrin och samhället i stort.
 <br>
 EU skulle därför behöva ta till åtgärder på efterfrågesidan, vilket kan komma visa sig vara smärtsamt för olika länder. Detta kommer att väcka frågor om hur man rättvist delar bördan. Svåra och kostsamma beslut skulle behöva fattas för att hantera situationen på ett ordnat sätt.
-<br>
-<br>
-![Image description](https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_exploding_LNG_export_RS_till_world.png)
+
+![Piechart World LNG](https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_exploding_LNG_export_RS_till_world.png)
