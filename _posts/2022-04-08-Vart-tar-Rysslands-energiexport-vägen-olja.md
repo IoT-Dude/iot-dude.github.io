@@ -14,7 +14,6 @@ Bland enskilda länder var Kina den främsta destinationen för rysk råolja och
 Andra och tredje plats gick till Nederländerna och Tyskland, som står för 13% respektive 10%. Tillsammans mottog de två nästan hälften av den ryska råoljan och kondensatet som exporterades till Europa förra året.
 <br>
 Drygt fyra procent av Rysslands oljeexport gick till USA. Tidigare i April 2022 denna månad förbjöd Washington dock import av rysk olja och gas till USA, i ett försök att beröva Moskva intäkter efter dess invasion av Ukraina; intressant är att förbudet också matchades av Storbritanien (U.K.), men EU följde inte efter denna avveckling av rysk oljeimport.
-<br>
-<br>
-![Image description](https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_olja.png)
+
+![Piechart Olja](https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_olja.png)
 
