@@ -7,7 +7,8 @@ Arbetet är gjort med fokus på vilka industrier som skulle få problem om energ
 <br>
 <br>
 # 2022-04-29 
-# Konsekvensanalys av EU områdets nära framtid, dess möjliga brist på LNG och Rysslands krig i Ukraina
+# Konsekvensanalys av EU områdets nära framtid
+# Möjlig brist på LNG pga Rysslands krig i Ukraina
 
 Rysslands krig i Ukraina och konsekvenserna av detta har drivit upp energipriserna världen över, vilket gör att länder från Europa till Asien har svårt att anpassa sig.
 <br>
