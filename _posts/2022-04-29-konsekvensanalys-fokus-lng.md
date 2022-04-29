@@ -7,7 +7,8 @@ Arbetet är gjort med fokus på vilka industrier som skulle få problem om energ
 <br>
 <br>
 # Konsekvensanalys med Fokus på LNG - Rysslands krig i Ukraina, dess energiexport och EU områdets nära framtid
-## 2022-04-29-konsekvensanalys-med-fokus-lng.md
+
+## 2022-04-29 Konsekvensanalys med fokus brist på LNG
 Rysslands krig i Ukraina och konsekvenserna av detta har drivit upp energipriserna världen över, vilket gör att länder från Europa till Asien har svårt att anpassa sig.
 <br>
 Färsk data från U.S.A. Energy Information Administration (EIA) och World Integrated Trade Solution (WITS) visar vilka länder som importerar mest rysk olja, gas och kol.
