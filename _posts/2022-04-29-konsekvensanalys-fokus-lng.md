@@ -20,18 +20,18 @@ Konsekvenserna av den ryska energiexporten till EU om exporten helt skulle stopp
 
 Rysslands krig i Ukraina och konsekvenserna av detta har drivit upp energipriserna världen över, vilket gör att länder från Europa till Asien har svårt att anpassa sig. Fram till hösten 2022 kommer EU sannolikt att kunna överleva storskaliga störningar i rysk energiförsörjning (främst LNG), baserat på en kombination av ökad import av LNG ifrån andra länder än ryssland (i den begränsade utsträckning detta är tekniskt möjligt) och åtgärder på efterfrågesidan såsom inskränkningar av industrigas.
 
-Ställtider kostar
+### Ställtider kostar
 <br>
 Detta kommer att bli en ökad kostnad för EU:s ekonomi och kan till och med leda till att vissa länder som är mer exponerade för rysk energi (framför allt gas), och mindre sammankopplade med andra EU-länder, kommer att bli tvingade att vidta nödåtgärder.
 <br>
 Om ett stopp för rysk import skulle förlängas in i de kommande vintrarna skulle det bli svårare för EU att klara sig. På utbudssidan finns viss ledig importkapacitet tillgänglig men för att nå den skala som krävs för att helt ersätta ryska volymer skulle det i bästa fall vara mycket dyrt och i värsta fall fysiskt omöjligt.
 
-Begränsande faktorer
+### Begränsande faktorer
 <br>
 Begränsande faktorer inkluderar globala kapacitetsbegränsningar för kondensering, befintliga skyldigheter (ingångna leveransavtal) på den nuvarande marknaden för LNG och överväganden om kommersiella möjligheter i producerande länder i samband med att omdistribuera transporter från Asien.
 <br>
 <br>
-Globala effekter och konjunkturnedgång
+### Globala effekter och konjunkturnedgång
 <br>
 Det skulle också kunna bli prissättningskonsekvenser och andrahandseffekter för de fattigare länderna i regionen EU vilket kan komma att få stora effekter (inte bara på nationell), nivå, både för industrin och samhället i stort.
 <br>
