@@ -29,8 +29,7 @@ Om ett stopp för rysk import skulle förlängas in i de kommande vintrarna skul
 ### Begränsande faktorer
 <br>
 Begränsande faktorer inkluderar globala kapacitetsbegränsningar för kondensering, befintliga skyldigheter (ingångna leveransavtal) på den nuvarande marknaden för LNG och överväganden om kommersiella möjligheter i producerande länder i samband med att omdistribuera transporter från Asien.
-<br>
-<br>
+
 ### Globala effekter och konjunkturnedgång
 <br>
 Det skulle också kunna bli prissättningskonsekvenser och andrahandseffekter för de fattigare länderna i regionen EU vilket kan komma att få stora effekter (inte bara på nationell), nivå, både för industrin och samhället i stort.
