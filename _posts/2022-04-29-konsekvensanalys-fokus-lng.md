@@ -37,3 +37,5 @@ Det skulle också kunna bli prissättningskonsekvenser och andrahandseffekter f�
 EU skulle därför behöva ta till åtgärder på efterfrågesidan, vilket kan komma visa sig vara smärtsamt för olika länder. Detta kommer att väcka frågor om hur man rättvist delar bördan. Svåra och kostsamma beslut skulle behöva fattas för att hantera situationen på ett ordnat sätt.
 
 ![Piechart World LNG](https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_exploding_LNG_export_RS_till_world.png)
+
+![Piechart World LNG](https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/piechart_exploding_LNG_export_RS_till_world.png)
