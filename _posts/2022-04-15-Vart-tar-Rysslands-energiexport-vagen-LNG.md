@@ -23,4 +23,4 @@ Men 2021 gick nästan en femtedel av Rysslands totala gasexport (19 %) enbart ti
 <br>
 Endast 6 % av den ryska gasexporten gick till Kina och 8 % till Vitryssland.
 
-![Piechart LNG](https://github.com/IoT-Dude/blogg_mtrl/blob/main/piechart_rysk_LNG.png)
+![Piechart LNG](https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/piechart_rysk_LNG.png)
