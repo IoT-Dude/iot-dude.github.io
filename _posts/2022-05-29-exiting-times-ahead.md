@@ -1,15 +1,16 @@
-# Exiting Times Ahead
+# Exiting Times ahead - dark skies for the Swedish tech-sector
 
 Is this the the Dotcom Bubble 2.0?
 
-Just recently swedish Klarna laid off 700 employees world wide - 10 percert. But the problem is much bigger than Klarna. It looks dark for the Swedish tech sector.
+Just recently swedish Klarna laid off 700 employees world wide - 10 percent. But the problem is much bigger than Klarna. It looks dark for the Swedish tech sector.
 
 The stock market has fallen 20 percent since the start of 2022 and the worst performer is the recently high-flying tech sector.
 The price falls in many companies are reminiscent of the slaughter when the dotcom bubble burst in the beginning of 2000.
 It is obvious that the market is not repeating itself, but it is similar.
 
 Particularly hard hit - both now and last time year 2000 - are the tech companies that are not yet making any money.
-The major bank Goldman Sachs has an index of tech companies that do not generate profits and this has plummeted by two thirds since the price record in November 2021.
+<br>
+The market leading bank Goldman Sachs has an index of tech companies that do not generate profits and this has plummeted by two thirds since the price record in November 2021.
 
 ## Burn-rate to survive
 These companies strategy has largely been based on an somewhat updated version of the 1999 investment model. You fill it with as much money as one has to burn off to survive, and become the big survivor one on the market.
@@ -19,6 +20,7 @@ A good example is the swedish music service Spotify. It has really be counted am
 Still, the stock, which is listed on the New York Stock Exchange, has collapsed. The price is now 70 percent lower than at the peak in November and 25 percent lower than when the company was listed in April 2018.
 
 The fall of Spotify is not so much based on cracked illusions of a future market as the more profane realization that not much grows forever. And it is becoming increasingly difficult for streaming services such as Spotify to keep costs down if you want to stay on the market.
+<br>
 The film service Netflix report, the first quarter of 2022, was a big bucket of ice water for the streaming companies. Netflix showed for the first time
 a declining number of subscribers and the loss of those who have been customers for more than three years was particularly large. The Netflix share plummeted by 40 percent on the report and is now down 73 percent since the peak in November.
 
