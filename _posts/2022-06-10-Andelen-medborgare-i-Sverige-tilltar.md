@@ -2,12 +2,10 @@
 # Andelen medborgare i Sverige tilltar
 Befolkningsökning per län från 1991 till 2021
 
-<br>
 Andelen medborgare i Sverige har ökat, dels beroende på invandring men också på att vi har en av norra europas största nativitet.
-<br>
-<br>
+
 Jag har konstruerat en graf över invånartätheten i varje län i Sverige över tid. 
-<br>
+
 Till vår hjälp har jag använt data från SCB och Python.
 Plottningen nedan visa befolkningsökning per län från 1991 till 2021.
 
