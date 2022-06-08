@@ -13,5 +13,5 @@ Plottningen nedan visa befolkningsökning per län från 1991 till 2021.
 <br>
 <br>
 
-![Lineplot Befolkning_lan](https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/Befolkningsökning_per_lan_1991_till_2021.png)
+![Lineplot Befolkning](https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/Befolkningsökning_per_lan_1991_till_2021.png)
 
