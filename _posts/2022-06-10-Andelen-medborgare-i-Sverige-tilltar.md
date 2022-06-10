@@ -1,5 +1,5 @@
 2022-06-10
-# Andelen medborgare i Sverige tilltar
+Andelen medborgare i Sverige tilltar
 
 Befolkningsökning per län från 1991 till 2021
 
