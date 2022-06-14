@@ -1,3 +1,7 @@
 # Test ny tool chain distribution
 
-https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/chi_square_test%20.md
+md ligger i annabn silo via Google Cloud
+
+[till annan md](https://github.com/IoT-Dude/blogg_mtrl/blob/main/chi_square_test%20.md)
+
+
