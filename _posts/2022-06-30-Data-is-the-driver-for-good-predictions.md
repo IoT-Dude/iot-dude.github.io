@@ -2,7 +2,9 @@
 
 # Data is the driver for good predictions
 <br>
-To make good predictions, you need data that contains features with predictive power. The data should have the following characteristics:
+To make good predictions, you need data that contains features with predictive power. 
+<br>
+The data should have the following characteristics:
 
 ### Abundant
 The more relevant and useful examples in your dataset, the better your model will be.
