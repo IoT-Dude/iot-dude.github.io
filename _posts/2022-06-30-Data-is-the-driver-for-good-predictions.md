@@ -1,8 +1,8 @@
-20220630
+2022-06-30
 
 # Data is the driver for good predictions
 
-To make good predictions, you need data that contains features with predictive power. 
+To make good predictions, you need data that contains features with predictive power.
 
 The data should have the following characteristics:
 
@@ -24,6 +24,5 @@ In large datasets it is inevitable that some labels will have incorrect values, 
 ### Representative
 The datasets should be as representative of the real world as possible. In other words, the datasets should accurately reflect the events, user behaviors, and/or the phenomena of the real world being modeled.
 Training on unrepresentative datasets can cause poor performance when the model is asked to make real-world predictions.
-
 
 If you can not get the data you need in the required format, your model will make poor predictions.
