@@ -1,4 +1,3 @@
-
 2022-07-08
 
 ### NumPy Intro
@@ -18,4 +17,4 @@ Run the following code cell to import the NumPy module:
 import numpy as np 
 
 
-v1.2
+v1.3
