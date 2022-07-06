@@ -7,6 +7,7 @@ To make good predictions, you need data that contains features with predictive p
 The data should have the following characteristics:
 
 ### Abundant
+Available in large quantities.
 The more relevant and useful examples in your dataset, the better your model will be.
 
 ### Consistent and reliable
