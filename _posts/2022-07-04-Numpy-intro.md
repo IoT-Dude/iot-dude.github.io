@@ -1,13 +1,8 @@
-2022-07-vv
+2022-07-04
 
-### NumPy Intro
-
-This material is Copylefted from 2020 Google LLC Machine Learning Crash Course(but quite good so I am using it). 
-
-
-## NumPy
+# NumPy Intro
 NumPy is a Python library for creating and manipulating vectors and matrices.
-This  is not an exhaustive tutorial on NumPy, rather, just enough to use NumPy.
+This  is not an exhaustive tutorial on NumPy, rather, just enough on how to use NumPy.
 
 
 ## Import NumPy module
@@ -15,7 +10,6 @@ This  is not an exhaustive tutorial on NumPy, rather, just enough to use NumPy.
 Run the following code cell to import the NumPy module:
 
 import numpy as np 
-
 
 
 
@@ -99,14 +93,14 @@ print(random_integers_between_150_and_300)
 
 Your goal is to create a simple dataset consisting of a single feature and a label as follows:
 
-    Assign a sequence of integers from 6 to 20 (inclusive) to a NumPy array named feature.
-    Assign 15 values to a NumPy array named label such that:
+Assign a sequence of integers from 6 to 20 (inclusive) to a NumPy array named feature.
+Assign 15 values to a NumPy array named label such that:
 
-   label = (3)(feature) + 4
+label = (3)(feature) + 4
 
 For example, the first value for label should be:
 
-  label = (3)(6) + 4 = 22
+label = (3)(6) + 4 = 22
 
 feature = np.arange(6, 21) # write your code here
 
@@ -183,4 +177,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.1
+v1.2
