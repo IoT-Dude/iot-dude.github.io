@@ -17,18 +17,16 @@ Run the following code cell to import the NumPy module:
 
 Call np.array to create a NumPy matrix with your own hand-picked values. For example, the following call to np.array creates an 8-element vector:
 
-one_dimensional_array = np.array([1.2, 2.4, 3.5, 4.7, 6.1, 7.2, 8.3, 9.5])
-
-print(one_dimensional_array)
+<em>one_dimensional_array = np.array([1.2, 2.4, 3.5, 4.7, 6.1, 7.2, 8.3, 9.5])</em>
+<em>print(one_dimensional_array)</em>
 
 [1.2 2.4 3.5 4.7 6.1 7.2 8.3 9.5]
 
 
 You can also use np.array to create a two-dimensional matrix. To create a two-dimensional matrix, specify an extra layer of square brackets. For example, the following call creates a 3x2 matrix:
 
-two_dimensional_array = np.array([[6, 5], [11, 7], [4, 8]])
-
-print(two_dimensional_array)
+<em>two_dimensional_array = np.array([[6, 5], [11, 7], [4, 8]])</em>
+<em>print(two_dimensional_array)</em>
 
 [[ 6  5]
  [11  7]
@@ -40,9 +38,8 @@ Populate arrays with sequences of numbers
 <br>
 ## Populate an array with a sequence of numbers:
 
-sequence_of_integers = np.arange(5, 12)
-
-print(sequence_of_integers)
+<em>sequence_of_integers = np.arange(5, 12)</em>
+<em>print(sequence_of_integers)</em>
 
 [ 5  6  7  8  9 10 11]
 
@@ -53,9 +50,8 @@ Notice that np.arange generates a sequence that includes the lower bound (5) but
 
 NumPy provides various functions to populate matrices with random numbers across certain ranges. For example, np.random.randint generates random integers between a low and high value. The following call populates a 6-element vector with random integers between 50 and 100.
 
-random_integers_between_50_and_100 = np.random.randint(low=50, high=101, size=(6))
-
-print(random_integers_between_50_and_100)
+<em>random_integers_between_50_and_100 = np.random.randint(low=50, high=101, size=(6))</em>
+<em>print(random_integers_between_50_and_100)</em>
 
 [54 99 80 93 99 77]
 
@@ -63,9 +59,8 @@ Note that the highest generated integer np.random.randint is one less than the h
 
 To create random floating-point values between 0.0 and 1.0, call np.random.random. For example:
 
-random_floats_between_0_and_1 = np.random.random([6])
-
-print(random_floats_between_0_and_1) 
+<em>random_floats_between_0_and_1 = np.random.random([6])</em>
+<em>print(random_floats_between_0_and_1)</em>
 
 [0.96096426 0.39609994 0.79568561 0.43593043 0.87265427 0.61238418]
 
@@ -75,17 +70,15 @@ print(random_floats_between_0_and_1)
 
 If you want to add or subtract two vectors or matrices, linear algebra requires that the two operands have the same dimensions. Furthermore, if you want to multiply two vectors or matrices, linear algebra imposes strict rules on the dimensional compatibility of operands. Fortunately, NumPy uses a trick called broadcasting to virtually expand the smaller operand to dimensions compatible for linear algebra. For example, the following operation uses broadcasting to add 2.0 to the value of every item in the vector created in the previous code cell:
 
-random_floats_between_2_and_3 = random_floats_between_0_and_1 + 2
-
-print(random_floats_between_2_and_3)
+<em>random_floats_between_2_and_3 = random_floats_between_0_and_1 + 2</em>
+<em>print(random_floats_between_2_and_3)</em>
 
 [2.96096426 2.39609994 2.79568561 2.43593043 2.87265427 2.61238418]
 
 The following operation also relies on broadcasting to multiply each cell in a vector by 3:
 
-random_integers_between_150_and_300 = random_integers_between_50_and_100 * 3
-
-print(random_integers_between_150_and_300)
+<em>random_integers_between_150_and_300 = random_integers_between_50_and_100 * 3</em>
+<em>print(random_integers_between_150_and_300)</em>
 
 [162 297 240 279 297 231]
 
@@ -180,4 +173,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.23
+v1.24
