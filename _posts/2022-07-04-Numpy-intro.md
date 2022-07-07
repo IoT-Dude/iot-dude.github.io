@@ -10,6 +10,7 @@ This  is not an exhaustive tutorial on NumPy, rather, just enough on how to use 
 Run the following code cell to import the NumPy module:
 
 <em>import numpy as np</em>
+<pre>import numpy as np</pre>
 
 
 <br>
@@ -173,4 +174,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.24
+v1.25
