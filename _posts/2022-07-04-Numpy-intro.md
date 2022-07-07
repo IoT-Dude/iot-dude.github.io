@@ -13,7 +13,7 @@ import numpy as np
 
 
 
-
+<br>
 ## Populate arrays with specific numbers
 
 Call np.array to create a NumPy matrix with your own hand-picked values. For example, the following call to np.array creates an 8-element vector:
@@ -38,7 +38,7 @@ print(two_dimensional_array)
 To populate a matrix with all zeroes, call np.zeros. To populate a matrix with all ones, call np.ones.
 Populate arrays with sequences of numbers
 
-
+<br>
 ## You can populate an array with a sequence of numbers:
 
 sequence_of_integers = np.arange(5, 12)
@@ -177,4 +177,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.2
+v1.21
