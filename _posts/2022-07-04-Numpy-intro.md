@@ -39,7 +39,7 @@ To populate a matrix with all zeroes, call np.zeros. To populate a matrix with a
 Populate arrays with sequences of numbers
 
 <br>
-## You can populate an array with a sequence of numbers:
+## Populate an array with a sequence of numbers:
 
 sequence_of_integers = np.arange(5, 12)
 
@@ -48,7 +48,9 @@ print(sequence_of_integers)
 [ 5  6  7  8  9 10 11]
 
 Notice that np.arange generates a sequence that includes the lower bound (5) but not the upper bound (12).
-Populate arrays with random numbers
+
+
+## Populate arrays with random numbers
 
 NumPy provides various functions to populate matrices with random numbers across certain ranges. For example, np.random.randint generates random integers between a low and high value. The following call populates a 6-element vector with random integers between 50 and 100.
 
@@ -69,7 +71,7 @@ print(random_floats_between_0_and_1)
 [0.96096426 0.39609994 0.79568561 0.43593043 0.87265427 0.61238418]
 
 
-
+<br>
 ## Mathematical Operations on NumPy Operands
 
 If you want to add or subtract two vectors or matrices, linear algebra requires that the two operands have the same dimensions. Furthermore, if you want to multiply two vectors or matrices, linear algebra imposes strict rules on the dimensional compatibility of operands. Fortunately, NumPy uses a trick called broadcasting to virtually expand the smaller operand to dimensions compatible for linear algebra. For example, the following operation uses broadcasting to add 2.0 to the value of every item in the vector created in the previous code cell:
@@ -89,6 +91,7 @@ print(random_integers_between_150_and_300)
 [162 297 240 279 297 231]
 
 
+<br>
 ## Task 1: Create a Linear Dataset
 
 Your goal is to create a simple dataset consisting of a single feature and a label as follows:
@@ -127,6 +130,7 @@ label = (feature * 3) + 4
 print(label)
 
 
+<br>
 ## Task 2: Add Some Noise to the Dataset
 
 To make your dataset a little more realistic, insert a little random noise into each element of the label array you already created. To be more precise, modify each value assigned to label by adding a different random floating-point value between -2 and +2.
@@ -177,4 +181,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.21
+v1.22
