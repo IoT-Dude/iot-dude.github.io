@@ -85,42 +85,21 @@ The following operation also relies on broadcasting to multiply each cell in a v
 
 
 <br>
-## Task 1: Create a Linear Dataset
+## Create a Linear Dataset
 
-Your goal is to create a simple dataset consisting of a single feature and a label as follows:
+To create a simple dataset consisting of a single feature and a single label, do as follows:
 
 Assign a sequence of integers from 6 to 20 (inclusive) to a NumPy array named feature.
 Assign 15 values to a NumPy array named label such that:
 
-label = (3)(feature) + 4
-
-For example, the first value for label should be:
-
-label = (3)(6) + 4 = 22
-
-feature = np.arange(6, 21) # write your code here
-
-print(feature)
-
-# label = (3)(6) + 4 = 22  är (3*6) + 4
-
-label = (3 * feature) + 4   # write your code here
-
-print(label)
+<pre>feature = np.arange(6, 21)</pre>
+<pre>print(feature)</pre>
+<pre>label = (feature * 3) + 4</pre>
+<pre>print(label)</pre>
 
 [ 6  7  8  9 10 11 12 13 14 15 16 17 18 19 20]
 [22 25 28 31 34 37 40 43 46 49 52 55 58 61 64]
 
-
-wwwwitle Double-click to see a possible solution to Task 1.
-
-feature = np.arange(6, 21)
-
-print(feature)
-
-label = (feature * 3) + 4
-
-print(label)
 
 
 <br>
@@ -174,4 +153,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.27
+v1.28
