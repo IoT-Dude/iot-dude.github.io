@@ -4,7 +4,7 @@
 NumPy is a Python library for creating and manipulating vectors and matrices.
 This  is not an exhaustive tutorial on NumPy, rather, just enough on how to use NumPy.
 
-This is not written in an editor but in a Jupyter Notebok https://jupyter.org/
+This is not written in an editor but in a [Jupyter Notebook](https://jupyter.org/)
 
 
 ## Import NumPy module
@@ -116,13 +116,10 @@ To be more precise, modify each value assigned to label by adding a different ra
 
 Don't rely on broadcasting. Instead, create a noise array having the same dimension as label.
 
-
-## P other ways
-
-<pre>noise = np.random.uniform(low=-2, high=2, size=(15))</pre>
-<pre>print(noise)</pre>
-<pre>label = label + noise    # write your code here</pre>
-<pre>print(label)</pre>
+<pre>noise = np.random.uniform(low=-2, high=2, size=(15))
+print(noise)
+label = label + noise 
+print(label)</pre>
 
 [ 0.07522686  0.78460896  1.89837997 -0.45187456  0.66152759  0.38899877
  -1.58159291  1.75080164 -1.53598879 -0.84622127 -1.08731479 -0.12682767
@@ -153,4 +150,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.30
+v1.31
