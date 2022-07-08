@@ -174,4 +174,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.25
+v1.26
