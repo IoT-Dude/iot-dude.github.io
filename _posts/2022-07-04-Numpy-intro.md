@@ -4,6 +4,13 @@
 NumPy is a Python library for creating and manipulating vectors and matrices.
 This  is not an exhaustive tutorial on NumPy, rather, just enough on how to use NumPy.
 
+This is not written in an editor but in a Jupyter Notebbok https://jupyter.org/
+
+In Machine Learning two common concepts is <b>Feature</b> andLabel</b>.
+Feature is an input variable used in making predictions and label is in supervised learning, the "answer" or "result" portion of an example. 
+
+Each example in a labeled dataset consists of one or more features and a label. For instance, in a housing dataset, the features might include the number of bedrooms, the number of bathrooms, and the age of the house, while the label might be the house's price. In a spam detection dataset, the features might include the subject line, the sender, and the email message itself, while the label would probably be either "spam" or "not spam."
+
 
 ## Import NumPy module
 
@@ -89,8 +96,9 @@ The following operation also relies on broadcasting to multiply each cell in a v
 
 To create a simple dataset consisting of a single feature and a single label, do as follows:
 
-Assign a sequence of integers from 6 to 20 (inclusive) to a NumPy array named feature.
-Assign 15 values to a NumPy array named label such that:
+
+
+Assign a sequence of integers from 6 to 20 (inclusive) to a NumPy array named feature and assign 15 values to a NumPy array named label:
 
 <pre>feature = np.arange(6, 21)</pre>
 <pre>print(feature)</pre>
@@ -153,4 +161,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.28
+v1.29
