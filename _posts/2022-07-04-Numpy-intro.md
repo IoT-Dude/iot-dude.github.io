@@ -4,12 +4,7 @@
 NumPy is a Python library for creating and manipulating vectors and matrices.
 This  is not an exhaustive tutorial on NumPy, rather, just enough on how to use NumPy.
 
-This is not written in an editor but in a Jupyter Notebbok https://jupyter.org/
-
-In Machine Learning two common concepts is <b>Feature</b> andLabel</b>.
-Feature is an input variable used in making predictions and label is in supervised learning, the "answer" or "result" portion of an example. 
-
-Each example in a labeled dataset consists of one or more features and a label. For instance, in a housing dataset, the features might include the number of bedrooms, the number of bathrooms, and the age of the house, while the label might be the house's price. In a spam detection dataset, the features might include the subject line, the sender, and the email message itself, while the label would probably be either "spam" or "not spam."
+This is not written in an editor but in a Jupyter Notebok https://jupyter.org/
 
 
 ## Import NumPy module
@@ -92,11 +87,14 @@ The following operation also relies on broadcasting to multiply each cell in a v
 
 
 <br>
-## Create a Linear Dataset
+## Create a linear dataset
+
+In Machine Learning two common concepts is <b>Feature</b> and <b>Label</b>.
+Feature is an input variable used in making predictions and label is in supervised learning, the "answer" or "result" portion of an example. 
+
+Each example in a labeled dataset consists of one or more features and a label. For instance, in a housing dataset, the features might include the number of bedrooms, the number of bathrooms, and the age of the house, while the label might be the house's price.
 
 To create a simple dataset consisting of a single feature and a single label, do as follows:
-
-
 
 Assign a sequence of integers from 6 to 20 (inclusive) to a NumPy array named feature and assign 15 values to a NumPy array named label:
 
@@ -111,22 +109,20 @@ Assign a sequence of integers from 6 to 20 (inclusive) to a NumPy array named fe
 
 
 <br>
-## Task 2: Add Some Noise to the Dataset
+## Add Some noise to the Dataset
 
-To make your dataset a little more realistic, insert a little random noise into each element of the label array you already created. To be more precise, modify each value assigned to label by adding a different random floating-point value between -2 and +2.
+To make your dataset a little more realistic, insert a little random noise into each element of the label array already created. 
+To be more precise, modify each value assigned to label by adding a different random floating-point value between -2 and +2.
 
 Don't rely on broadcasting. Instead, create a noise array having the same dimension as label.
 
 
 ## P other ways
 
-noise = np.random.uniform(low=-2, high=2, size=(15))    # write your code here
-
-print(noise)
-
-label = label + noise    # write your code here
-
-print(label)
+<pre>noise = np.random.uniform(low=-2, high=2, size=(15))</pre>
+<pre>print(noise)</pre>
+<pre>label = label + noise    # write your code here</pre>
+<pre>print(label)</pre>
 
 [ 0.07522686  0.78460896  1.89837997 -0.45187456  0.66152759  0.38899877
  -1.58159291  1.75080164 -1.53598879 -0.84622127 -1.08731479 -0.12682767
@@ -136,18 +132,14 @@ print(label)
  57.7286994  63.34011848 66.588743  ]
 
 
-wwww
+Another way is to write:
 
-​
-
-
+<pre>
 noise = (np.random.random([15]) * 4) - 2
-
 print(noise)
-
 label = label + noise 
-
 print(label)
+</pre>
 
 [ 1.45685299  1.72357467 -1.87316479  0.21432152  0.83833136 -1.1253276
   1.03632451 -0.75470276 -1.43310608 -1.53560591  0.72934407 -0.84020332
@@ -161,4 +153,4 @@ print(label)
 NumPy is quite nifty!
 
 
-v1.29
+v1.30
