@@ -49,19 +49,18 @@ The second argument identifies the names of the two columns.
 
 <pre>my_dataframe = pd.DataFrame(data=my_data, columns=my_column_names)</pre>
 
-​
 
 ### Print the entire DataFrame
 
 <pre>print(my_dataframe)</pre>
 
-   temperature  activity<br>
+
+temperature activity <br>
 0            0         3<br>
 1           10         7<br>
 2           20         9<br>
 3           30        14<br>
 4           40        15<br>
-
 
 
 
