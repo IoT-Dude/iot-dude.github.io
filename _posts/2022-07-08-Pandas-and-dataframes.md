@@ -65,6 +65,32 @@ temperature activity <br>
 
 
 
+## Adding a new column to a DataFrame
+
+You may add a new column to an existing pandas DataFrame just by assigning values to a new column name. For example, the following code creates a third column named adjusted in my_dataframe:
+
+### Create a new column named adjusted.
+
+<pre>
+my_dataframe["adjusted"] = my_dataframe["activity"] + 2
+</pre>
+​
+
+### Print the entire DataFrame
+<pre>
+print(my_dataframe)
+</pre>
+   temperature  activity  adjusted
+0            0         3         5
+1           10         7         9
+2           20         9        11
+3           30        14        16
+4           40        15        17
 
 
-v1.1
+
+
+
+
+
+v1.2
