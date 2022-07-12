@@ -80,12 +80,12 @@ my_dataframe["adjusted"] = my_dataframe["activity"] + 2
 <pre>
 print(my_dataframe)
 </pre>
-   temperature  activity  adjusted
-0            0         3         5
-1           10         7         9
-2           20         9        11
-3           30        14        16
-4           40        15        17
+   temperature  activity  adjusted<br>
+0            0         3         5<br>
+1           10         7         9<br>
+2           20         9        11<br>
+3           30        14        16<br>
+4           40        15        17<br>
 
 
 
@@ -93,4 +93,4 @@ print(my_dataframe)
 
 
 
-v1.2
+v1.3
