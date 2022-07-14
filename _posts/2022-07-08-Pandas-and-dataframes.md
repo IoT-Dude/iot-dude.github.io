@@ -64,6 +64,41 @@ temperature activity <br>
 
 
 
+<table>
+    <tr>
+	 <th>Row</th>
+       	 <th>temperature</th>
+      	  <th>activity</th>
+   </tr>
+   <tr>
+	<td>0</td>
+	<td>0</td>
+	<td>3</td>
+   </tr>
+   <tr>
+	<td>1</td>
+    	<td>10</td>
+    	<td>7</td>
+    </tr>
+    <tr>
+	<td>2</td>
+	<td>20</td>
+	<td>9</td>
+    </tr>
+    <tr>
+	<td>3</td>
+    	<td>30</td>
+    	<td>14</td>
+    </tr>
+    <tr>
+	<td>4</td>
+    	<td>40</td>
+    	<td>15</td>
+    </tr>
+</table> 
+
+
+
 
 ## Adding a new column to a DataFrame
 
@@ -93,4 +128,4 @@ print(my_dataframe)
 
 
 
-v1.3
+v1.4
