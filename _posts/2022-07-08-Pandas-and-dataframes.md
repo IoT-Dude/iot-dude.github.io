@@ -54,7 +54,6 @@ The second argument identifies the names of the two columns.
 
 <pre>print(my_dataframe)</pre>
 
-
 temperature activity <br>
 0            0         3<br>
 1           10         7<br>
@@ -62,6 +61,15 @@ temperature activity <br>
 3           30        14<br>
 4           40        15<br>
 
+
+<samp>
+temperature activity <br>
+0            0         3<br>
+1           10         7<br>
+2           20         9<br>
+3           30        14<br>
+4           40        15<br>
+</samp>
 
 
 <table>
@@ -128,4 +136,4 @@ print(my_dataframe)
 
 
 
-v1.4
+v1.5
