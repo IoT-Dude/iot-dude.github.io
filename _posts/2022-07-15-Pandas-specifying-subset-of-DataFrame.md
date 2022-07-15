@@ -3,28 +3,21 @@
 
 Pandas provide multiples ways to isolate specific rows, columns, slices or cells in a DataFrame.
 
+<pre>
 print("Rows #0, #1, and #2:")
-
 print(my_dataframe.head(3), '\n')
 
-​
-
 print("Row #2:")
-
 print(my_dataframe.iloc[[2]], '\n')
 
-​
-
 print("Rows #1, #2, and #3:")
-
 print(my_dataframe[1:4], '\n')
 
-​
-
 print("Column 'temperature':")
-
 print(my_dataframe['temperature'])
+</pre>
 
+<samp>
 Rows #0, #1, and #2:
    temperature  activity  adjusted
 0            0         3         5
@@ -48,6 +41,6 @@ Column 'temperature':
 3    30
 4    40
 Name: temperature, dtype: int64
+</samp>
 
-
-v1.0
+v1.1
