@@ -54,128 +54,133 @@ wwwwww
 Do the following:
 
 Create an 3x4 (3 rows x 4 columns) pandas DataFrame in which the columns are named Eleanor, Chidi, Tahani, and Jason.
+<br>
 Populate each of the 12 cells in the DataFrame with a random integer between 0 and 100.
 
 
-Output the following:
-the entire DataFrame
-the value in the cell of row #1 of the Eleanor column
+Output must be the following:
+<br>
+The entire DataFrame
+<br>
+The value in the cell of row #1 of the Eleanor column
+<br>
 Create a fifth column named Janet, which is populated with the row-by-row sums of Tahani and Jason.
-
-To complete this task, it helps to know the NumPy basics covered in the NumPy UltraQuick Tutorial.
 
 
 ### A 3x4 NumPy array.
 
-#my_data = np.array([[0, 3], [10, 7], [20, 9], [30, 14]])
-
+<pre>
+my_data = np.array([[0, 3], [10, 7], [20, 9], [30, 14]])
 my_data = np.random.randint(low=0, high=101, size=(3, 4))
-
-​
+</pre>
 
 ### Create a Python list that holds the names of the two columns.
 
+<pre>
 my_column_names = ['Eleanor' , 'Chidi', 'Tahani', 'Jason']
-
-​
+</pre>
 
 ### Create a DataFrame.
-
+<pre>
 df = pd.DataFrame(data=my_data, columns=my_column_names)
-
-​
+</pre>
 
 ### Print the entire DataFrame
-
+<pre>
 print(df)
-
-   Eleanor  Chidi  Tahani  Jason
-0       91     25      62     86
-1       96     36      83     34
+</pre>
+<samp>
+   Eleanor  Chidi  Tahani  Jason<br>
+0       91     25      62     86<br>
+1       96     36      83     34<br>
 2       32     29      72     17
-
+</samp>
+  
+<pre>
 print(df.iloc[[1]]['Eleanor'])
-
+</pre>
+<samp>
 1    96
 Name: Eleanor, dtype: int64
+</samp>
 
+<pre>
 print(df['Eleanor'][1])
+</pre>
 
+<samp>
 96
+</samp>
+
 
 ### Create a fifth column named Janet, which is populated with the row-by-row sums of Tahani and Jason.
 
+<pre>
 df['Janet'] = df['Tahani'] + df['Jason']
-
 print(df) 
+</pre>
 
-   Eleanor  Chidi  Tahani  Jason  Janet
-0       91     25      62     86    148
-1       96     36      83     34    117
+<samp>
+   Eleanor  Chidi  Tahani  Jason  Janet<br>
+0       91     25      62     86    148<br>
+1       96     36      83     34    117<br>
 2       32     29      72     17     89
+</samp>
 
-#@title Double-click for a solution to Task 1.
-
-​
 
 ### Create a Python list that holds the names of the four columns.
-
+<pre>
 my_column_names = ['Eleanor', 'Chidi', 'Tahani', 'Jason']
-
-​
+</pre>
 
 ### Create a 3x4 numpy array, each cell populated with a random integer.
-
+<pre>
 my_data = np.random.randint(low=0, high=101, size=(3, 4))
-
-​
+</pre>
 
 ### Create a DataFrame.
-
+<pre>
 df = pd.DataFrame(data=my_data, columns=my_column_names)
-
-​
+</pre>
 
 ### Print the entire DataFrame
-
+<pre>
 print(df)
-
-​
+</pre>
 
 ### Print the value in row #1 of the Eleanor column.
-
+/pre>
 print("\nSecond row of the Eleanor column: %d\n" % df['Eleanor'][1])
+</pre>
 
-​
-
-### Create a column named Janet whose contents are the sum
-
-### of two other columns.
-
+### Create a column named Janet whose contents are the sum of two other columns.
+<pre>
 df['Janet'] = df['Tahani'] + df['Jason']
+</pre>
 
-​
 
 ### Print the enhanced DataFrame
-
+<pre>
 print(df)
+</pre>
 
-   Eleanor  Chidi  Tahani  Jason
-0       74     58      20     95
-1       65     70      52     61
-2      100     41      69      8
-
-Second row of the Eleanor column: 65
-
-   Eleanor  Chidi  Tahani  Jason  Janet
-0       74     58      20     95    115
-1       65     70      52     61    113
-2      100     41      69      8     77
-
-
+<samp>
+   Eleanor  Chidi  Tahani  Jason<br>
+0       74     58      20     95<br>
+1       65     70      52     61<br>
+2      100     41      69      8<br>
+<br>
+Second row of the Eleanor column: 65<br>
+<br>
+   Eleanor  Chidi  Tahani  Jason  Janet<br>
+0       74     58      20     95    115<br>
+1       65     70      52     61    113<br>
+2      100     41      69      8     77<br>
+</samp>
 
 
 
 
 <br>
-v1.4
+<br>
+v1.5
