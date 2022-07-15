@@ -46,5 +46,5 @@ Column 'temperature':<br>
 Name: temperature, dtype: int64
 </samp>
 
-
-v1.2
+<br>
+v1.3
