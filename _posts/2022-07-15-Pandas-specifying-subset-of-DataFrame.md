@@ -18,29 +18,32 @@ print(my_dataframe['temperature'])
 </pre>
 
 <samp>
-Rows #0, #1, and #2:
-   temperature  activity  adjusted
-0            0         3         5
-1           10         7         9
-2           20         9        11 
+Rows #0, #1, and #2:<br>
+   temperature  activity  adjusted<br>
+0            0         3         5<br>
+1           10         7         9<br>
+2           20         9        11<br> 
 
-Row #2:
-   temperature  activity  adjusted
-2           20         9        11 
+   
+Row #2:<br>
+   temperature  activity  adjusted<br>
+2           20         9        11 <br>
 
-Rows #1, #2, and #3:
-   temperature  activity  adjusted
-1           10         7         9
-2           20         9        11
-3           30        14        16 
+   
+Rows #1, #2, and #3:<br>
+   temperature  activity  adjusted<br>
+1           10         7         9<br>
+2           20         9        11<br>
+3           30        14        16 <br>
 
-Column 'temperature':
-0     0
-1    10
-2    20
-3    30
-4    40
+   
+Column 'temperature':<br>
+0     0<br>
+1    10<br>
+2    20<br>
+3    30<br>
+4    40<br>
 Name: temperature, dtype: int64
 </samp>
 
-v1.1
+v1.2
