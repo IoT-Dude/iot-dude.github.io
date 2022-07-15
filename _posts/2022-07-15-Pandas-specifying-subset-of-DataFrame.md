@@ -23,20 +23,23 @@ Rows #0, #1, and #2:<br>
 0            0         3         5<br>
 1           10         7         9<br>
 2           20         9        11<br> 
-
+</samp>
    
+<samp>   
 Row #2:<br>
    temperature  activity  adjusted<br>
 2           20         9        11 <br>
-
+</samp>
    
+<samp>   
 Rows #1, #2, and #3:<br>
    temperature  activity  adjusted<br>
 1           10         7         9<br>
 2           20         9        11<br>
 3           30        14        16 <br>
-
+</samp>
    
+<samp>   
 Column 'temperature':<br>
 0     0<br>
 1    10<br>
@@ -46,7 +49,6 @@ Column 'temperature':<br>
 Name: temperature, dtype: int64
 </samp>
 
-wwwwww
 
 
 ## How to create a DataFrame
@@ -183,4 +185,4 @@ Second row of the Eleanor column: 65<br>
 
 <br>
 <br>
-v1.5
+v1.6
