@@ -1,4 +1,4 @@
-ChiSquareTest using Python
+ChixSquarexTest using Python
 
 
-v1.1
+v1.2
