@@ -6,20 +6,24 @@ Three swedish hockey teams
 
 The chi square test is used to test the models created for categorical variables. That is, it is another classical hypothesis test that we encounter a lot in statistics. This test is a statistical version of facts vs expectations. We have a theory, an expectation about an event and we have also observed some sample, now we want to test them.
 
+<br>
 ## We can apply the chi square test in two ways:
 
 1. Goodness of Fit Test: We have one categorical variable. We want to examine how well our sample reflects the entire population.
 2. Test of Independence: We have two categorical variable. We want to check if there is a relationship between these two.
 
+<br>
 ## The formula
 ![chi_square_20220613.png](attachment:583c5f10-6b7b-4507-9618-826c80902127.png)
 
 The value of chi square is the sum of squares of the difference between observed values minus expected values divided by expectation. c is degree of freedom.
 
+<br>
 ## Goodness of Fit
 
 Let’s say we ask 100 people in sweden with the promise of buying a beer and asked them which team they are supporting. According to the somwe sort of research, we already knew that the rate of people supporting Brynäs 45 percent.  Frölunda was 35 percent and Björklöven was 20. This is our expectation. On the other hand, when we look at the samples, our observation is as follows respectively: 54, 38 and 8.
 
+<br>
 <h2>Data Table</h2>
 
 <table>
@@ -65,14 +69,14 @@ print(chiSquareValue)
 Our chi square value for degree of two is 9.26 and for 0.05 confidence level, our critical value is 5.991. Chi square table link here. 
 https://people.richland.edu/james/lecture/m170/tbl-chi.html
 
-If our value is greater than critical value, we can reject null hypotheses, and yes, in this case we reject the null and accept the alternate which means that dkdkdkdkdkdkd   the Swiss were wrong!
+If our value is greater than critical value, we can reject null hypotheses, and yes, in this case we reject the null and accept the alternate.
 
 Test of Independence
 
 Actually same thing but there is one more variable. So, let’s add one more to our example above. We noticed that our 100 ishockeyfriends in the pub which we where asking were consuming 2 types of beer; Pilsner and Lager. We wonder if there is a relation between the hockey team and the choice of beer type. We collect the sample again.
 Beer
 
-
+<br>
 <h2>Data Table</h2>
 
 <table>
@@ -115,6 +119,7 @@ For example we can calculate the expected value of Brynäs fans who love to drin
 <br>
 E = (54 * 43) / 100 = 23.2. So let’s calculate all the expected values:
 
+<br>
 <h2>Data Table</h2>
 
 <table>
@@ -177,4 +182,4 @@ Calculated value 16.75 is again greater than critical value, therefore we reject
 
 
 
-v1.1
+v1.2
