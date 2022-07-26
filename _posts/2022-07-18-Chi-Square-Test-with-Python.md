@@ -1,7 +1,7 @@
 2022-07-18
 
-# Chi Square Test with Python
+# Before Chi Square Test with Python
 Really!
 
 
-v1.0
+v1.1
