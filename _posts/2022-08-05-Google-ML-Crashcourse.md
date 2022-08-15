@@ -1,4 +1,4 @@
-Google ML Crashcourse Big Picture
+# Google ML Crashcourse Big Picture
 
 
-v1.0
+v1.1
