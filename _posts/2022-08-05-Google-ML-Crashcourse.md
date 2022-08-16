@@ -1,4 +1,4 @@
-# Google ML Crashcourse
+# Google ML Crashcourse Review
 
 All in all, it is not a bad idea to pursue this course: This course is free and a good way to reign in various topics on has learned over the years in comp sci, math and engineering and shove it to AI- and machine learning land.
 
@@ -27,4 +27,4 @@ A great online crash course with focus on the key concepts.
 
 
 
-v1.3
+v1.4
