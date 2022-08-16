@@ -1,6 +1,6 @@
 # Google ML Fairness Reflections 
 
-## This is important stuff - there are some pitfalls to be aware of
+This is important stuff - some pitfalls to be aware of
 
 Fairness is a generic concept not restricted to AI. Any decision-making system can exhibit bias towards certain factors and thus, needs to be evaluated for fairness. Fairness here is tested by verifying if the bias is valid as per pre-established ethical principles.
 The legal definition of fairness is around the disparate treatment of and disparate impact to certain unpledged groups based on protected attributes like gender, race, religion, color, age, and more.
@@ -41,4 +41,4 @@ by
 https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue
 
 
-v1.1
+v1.2
