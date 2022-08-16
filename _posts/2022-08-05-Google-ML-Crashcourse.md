@@ -21,7 +21,7 @@ The course content is designed in such a way that each module has a combination 
 The playground exercises wast probably the best part of the course. The playground exercises where great plug and play exercises which helped in understanding the concepts in a intuitive manner and the programming exercises were fun and informative.
 
 ## Learning Outcome
-I have studier some AI before, I have a interest and tinkered a bit but not really made anything of it. So it was fun to connect the course with statistics, linear algebra and other math topics; plus programing.
+I have studied some AI before, I have a interest and tinkered a bit but not really made anything of it. So it was fun to connect the course with statistics, linear algebra and other math topics; plus programing.
 
 ## Final verdict
 A great online crash course with focus on the key concepts.
