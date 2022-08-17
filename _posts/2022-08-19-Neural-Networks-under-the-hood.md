@@ -8,7 +8,11 @@ Deep neural networks, it is quite challenging to understand what a neural networ
 I have found a good blog post that i would like to recommend: ![Olahs blog](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 
+(http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+
+
 Enjoy!
 
 
-v1.0
+v1.1
