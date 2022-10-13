@@ -11,8 +11,12 @@ I have found a good blog post that i would like to recommend: ![Olahs blog](http
 (http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 
+[Olahs blog II](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+
+
 
 Enjoy!
 
 
-v1.1
+v1.2
