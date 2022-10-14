@@ -5,10 +5,10 @@
 Data and AI is big nowadays and there where many intresting topics at Google Cloud NEXT22.
 
 
-I haven't sift through everything (yet) but here is one i found interesting: 
+I haven't sift through everything (yet) but here is one i found somewhat meagre but still interesting: 
 
-What's next for data analysts and data scientists 
-https://cloud.withgoogle.com/next/catalog?session=ANA204&utm_source=copylink&utm_medium=social
+### [What's next for data analysts and data scientists](https://cloud.withgoogle.com/next/catalog?session=ANA204&utm_source=copylink&utm_medium=social)
+
 (Analyze • ANA204    What's next for data analysts and data scientists)
 
 With: 
@@ -21,4 +21,4 @@ This session shows how Google Data Cloud can transform decision making and turn 
 https://cloud.withgoogle.com/next/catalog?session=ANA204&utm_source=copylink&utm_medium=social
 
 
-v1.2
+v1.3
