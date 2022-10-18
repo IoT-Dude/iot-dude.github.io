@@ -1,8 +1,8 @@
-# Jung and archetypes
+# Jungs psychological analysis toolkit: archetypes
 
 The psychologist Carl Jung theorized that humans use symbols and symbolism for a more easily understanding of complex concepts - for description and understanding. As a result of his research, he noted: “There are forms or images of a collective nature which occur practically all over the earth as constituents of myths and at the same time, as individual products of unconscious.” (Psychology of the Unconscious, C. G. Jung, Courier Corporation, 2012).
 
-Jung called these "forms or images of a collective nature", "constituents of myths" and "individual products of unconscious.” archetypes.
+Jung called these ("forms or images of a collective nature"), ("constituents of myths") and ("individual products of unconscious.”) archetypes.
 
 imprinted and hardwired
 <br>
