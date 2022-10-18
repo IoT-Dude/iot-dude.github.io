@@ -4,7 +4,7 @@ The psychologist Carl Jung theorized that humans use symbols and symbolism for a
 
 Jung called these ("forms or images of a collective nature"), ("constituents of myths") and ("individual products of unconscious.”) archetypes.
 
-imprinted and hardwired
+Imprinted and hardwired
 <br>
 These archetypes are imprinted and hardwired into our psyches, in his work, Jung theorized that over the course of all time, certain paths to greater understanding for people remain both recognizable and timeless. And that these paths to greater understanding should be categorized. Further, that these categories exhibit personality traits that are easily understood.
 
@@ -14,8 +14,8 @@ Archetypes, personality traits and cathegories can be quantified, and when prope
 
 ### Hypothesis: having enough data and crunching power one can make an inference engine useful in social dynamic environments.
 <br>
-As it applies to brand, the idea of archetypes is fairly universal (that's a discussion of its own) and may be effective also as a tool also for other knowledge actors working with leads trying to focus the knowledge effort(such as academia etc).
-This proposition is made as a basis for reasoning, without any assumption of its truth, a supposition made on the basis of limited evidence as a starting point for further investigation.
+As it could be applied to a brand, the idea of archetypes is fairly universal and may be effective also as a tool also for other knowledge actors working with leads trying to focus the knowledge effort(such as academia etc).
+This hypothesis is a proposition made as a basis for reasoning, without any assumption of truth, a supposition made on the basis of limited evidence as a starting point for further investigation.
 
 
 To start with, in Jungs psychological analysis toolkit there are twelve basic archetypes:
