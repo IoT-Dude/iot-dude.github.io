@@ -1,6 +1,4 @@
-2022-10-14
-
-# T G I F and Data
+Thank the Gif It's Friday
 
 
-v1.1
+v1.2
