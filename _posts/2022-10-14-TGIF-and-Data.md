@@ -1,7 +1,8 @@
 
 # Can AI change the analyst business model?
 
-Case study TGI Fridays
+<br>
+(Case study TGI Fridays)
 <br>
 As an example - let's have a look at TGI Fridays which uses location services to provide value for its franchise partners
 
