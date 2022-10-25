@@ -22,8 +22,8 @@ Gartner has some ideas presented in its annual predictions for strategic tech tr
 Something that stands out for me are the keyword Applied Observability and the prediction of marketing phasing out the use of social media individual data.
 
 <br>
-More about that later!
+More about that in my next post!
 
 
 
-v1.4
+v1.5
