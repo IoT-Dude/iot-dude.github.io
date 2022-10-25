@@ -22,7 +22,7 @@ To start with, in Jungs psychological analysis toolkit there are twelve basic ar
 <br>
 The Innocent
 <br>
-Everyman
+The Everyman
 <br>
 The Hero
 <br>
