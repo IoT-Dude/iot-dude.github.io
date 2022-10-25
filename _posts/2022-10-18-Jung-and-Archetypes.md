@@ -20,11 +20,33 @@ This hypothesis is a proposition made as a basis for reasoning, without any assu
 
 To start with, in Jungs psychological analysis toolkit there are twelve basic archetypes:
 <br>
-The Innocent, Everyman, Hero, Outlaw, Explorer, Creator, Ruler, Magician, Lover, Caregiver, Jester, and the Sage.
+The Innocent
+<br>
+Everyman
+<br>
+The Hero
+<br>
+The Outlaw
+<br>
+The Explorer
+<br>
+The Creator
+<br>
+The Ruler
+<br>
+The Magician
+<br>
+The Lover
+<br>
+The Caregiver
+<br>
+The Jester
+<br>
+The Sage
 
 
 In my next post I will put down some short notes on each of them
 
 
 
-v1.1
+v1.2
