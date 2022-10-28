@@ -15,7 +15,7 @@ The company is 55.5% female and 36.9% ethnic minorities. Despite its diversity i
 TGI Fridays has great employee retention with staff members usually staying with the company for 3.4 years.
 
 
-Location data as a source of advantage but how will it be in the future?
+### Source of advantage, location data - future outlook
 <br>
 Gartner has some ideas presented in its annual predictions for strategic tech trends in the coming year.
 <br>
@@ -26,4 +26,4 @@ More about that in my next post!
 
 
 
-v1.5
+v1.6
