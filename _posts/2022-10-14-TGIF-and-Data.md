@@ -16,7 +16,6 @@ TGI Fridays has great employee retention with staff members usually staying with
 
 
 ### Source of advantage, location data - future outlook
-<br>
 Gartner has some ideas presented in its annual predictions for strategic tech trends in the coming year.
 <br>
 Something that stands out for me are the keyword Applied Observability and the prediction of marketing phasing out the use of social media individual data.
