@@ -1,4 +1,4 @@
-# Can AI change the analyst business model?    Part II-II
+# Will AI change the analyst business model?    Part II-II
 
 
 
