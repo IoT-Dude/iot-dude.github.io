@@ -1,5 +1,5 @@
 
-# Can AI change the analyst business model?    Part I-II
+# Will AI change the analyst business model?    Part I-II
 
 <br>
 (Case study TGI Fridays)
@@ -25,4 +25,4 @@ More about that in my next post!
 
 
 
-v1.6
+v1.7
