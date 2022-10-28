@@ -3,19 +3,20 @@
 
 Gartner, the prestigious tech research and consulting firm has released its annual predictions for strategic tech trends in the coming year.
 
-Short from Forbes:
-Gartner från Forbes
-https://www.forbes.com/sites/peterhigh/2022/10/19/gartners-top-10-strategic-tech-trends-for-2023/?sh=7bd465534cb4
+Link to report:
+<br>
+<br>
 
 ## Applied Observability and Phasing out Social Media Data
 Two things that stands out for me are the keyword Applied Observability and the prediction of marketing phasing out the use of social media individual data.
 
-### Applied Observability - from reacting to proactive meassures
+### 1. Applied Observability - from reacting to proactive meassures
 The path to data-driven decision making includes a shift from monitoring and reacting to data to proactively applying that data in an orchestrated and integrated way across the enterprise.
 Doing so can shorten the time it takes to reach critical decisions while also facilitating faster, more accurate planning.
-Gartner notes observable data as an organization's "most precious monetizable asset" and encourages leaders to seek use cases and business capabilities in which this data can deliver competitive advantage.
+<br>
+Gartner notes observable data as an organizations most precious monetizable asset, and encourages leaders to seek use cases and business capabilities in which this data can deliver competitive advantage.
 
-### Social media has less to say today - the phasing out of individual data scraping
+### 2. Social media has less to say today - the phasing out of individual data scraping
 Gartner predicts a phasing out of marketing that uses social media sites data about individuals, but how will that change, and now adays when adaptive to AI can change after being deployed beig in use of organizations?
 
 
@@ -30,15 +31,16 @@ The company is 55.5% female and 36.9% ethnic minorities. Despite its diversity i
 TGI Fridays has great employee retention with staff members usually staying with the company for 3.4 years.
 
 
-### As Source of advantage, location data - future outlook
+### location data as a source of advantage - future outlook
 Location data as a source of advantage
 TGI Fridays is one such restaurant chain that has learned to use location intelligence to its advantage. They have learned to harnessing the power of location data, as well as the challenges and opportunities that lie ahead.
 
 Location data has become a valuable resource for restaurants looking to target potential customers in specific areas. This data can provide analytics and attribution for marketing strategies, with opportunities to drive performance on a more granular level.
 
 ### Location data is important for a businesses
-In the past year, They have incorporated a larger percentage of the budget into social media marketing, and location data has been a real game changer.
-In a franchise system, your franchisees are always trying to figure out how the brands spending affects their restaurant directly. Social location data can demonstrate how the money works more efficiently at a local level.
+In the past year, The compamy has incorporated a larger percentage of the budget into social media marketing, and location data has been a real game changer.
+<br
+In a franchise system, the franchisees are always trying to figure out how the brands spending affects their restaurant directly. Social location data can demonstrate how the money works more efficiently at a local level.
 
 
 ### Some of the practices in place
@@ -61,12 +63,10 @@ Advertisers need to be very careful in deciding when and where to utilize locati
 Consumers are aware of value proposition, and when data collection is done right, it is done with explicit consumer consent.
 That is a signal that they are open to this type of marketing. 
 
-## Going back to Gartners report of future  predictions for strategic tech trends in the coming year - how else can analysys marketers deliver actionable data?
+## Gartners report of future <b>predictions for strategic tech trends in the coming year</b> shows how analyst and marketers can comtinue to deliver actionable data
 
 ### Increased accuracy is important.
-In an organization there is plenty of data, and being smart about how to use it helps how to place it is of the uttermost priority. the data is the organizations most precious monetizable asset and to understand what data you are going to take in and how to refine it, that is where the challenge for analysts and marketers exists.
-
-As stated earlier in this article Applied Observability - from reacting to proactive meassures - will be more important in the future. From monitoring and reacting to data to proactively applying that data in an orchestrated and integrated way across the enterprise for decision making.
+In an organization there is plenty of data, and being smart about how to use it helps how to place it is of the uttermost priority. the data is the organizations most precious monetizable asset and to understand what data you are going to take in and how to refine it, that is where the challenge for analysts and marketers exists and next step is to further enhance the analysis with AI-driven mehods.
 
 
-v1.3
+v1.4
