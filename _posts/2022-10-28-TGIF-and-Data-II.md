@@ -3,7 +3,9 @@
 
 Gartner, the prestigious tech research and consulting firm has released its annual predictions for strategic tech trends in the coming year.
 
-Link to report:
+
+<br>
+[Gartner report: Gartner Top 10 Strategic Technology Trends 2023](Link to report:https://www.gartner.com/en/articles/gartner-top-10-strategic-technology-trends-for-2023)
 <br>
 <br>
 
@@ -69,4 +71,4 @@ That is a signal that they are open to this type of marketing.
 In an organization there is plenty of data, and being smart about how to use it helps how to place it is of the uttermost priority. the data is the organizations most precious monetizable asset and to understand what data you are going to take in and how to refine it, that is where the challenge for analysts and marketers exists and next step is to further enhance the analysis with AI-driven mehods.
 
 
-v1.4
+v1.5
