@@ -10,9 +10,9 @@ En klassisk problemlösningsteknik, även känd som morfologisk analys - en gans
 
 Ta ett problem eller en fråga som skall lösas, t ex att analysera ett företags vinster.
 <br>
-    Bryt ner det i logiskt uttömmande delar, t.ex. "intäkter" och "kostnader".
-    <br>
-        Bryt sedan ner varje gren ytterligare i dess beståndsdelar, t.ex. intäkter blir pris * kvantitet.
+Bryt ner det i logiskt uttömmande delar, t.ex. "intäkter" och "kostnader"
+<br>
+Bryt sedan ner varje gren ytterligare i dess beståndsdelar, t.ex. intäkter blir pris * kvantitet.
 
 Följ denna process rekursivt, bryt ned varje del i ytterligare mindre komponenter. 
 <br>
