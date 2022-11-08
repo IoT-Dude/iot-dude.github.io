@@ -68,7 +68,9 @@ That is a signal that they are open to this type of marketing.
 ## Gartners report of future <b>predictions for strategic tech trends in the coming year</b> shows how analyst and marketers can comtinue to deliver actionable data
 
 ### Increased accuracy is important.
-In an organization there is plenty of data, and being smart about how to use it helps how to place it is of the uttermost priority. the data is the organizations most precious monetizable asset and to understand what data you are going to take in and how to refine it, that is where the challenge for analysts and marketers exists and next step is to further enhance the analysis with AI-driven mehods.
+In an organization there is plenty of data, and being smart about how to use it is of the uttermost priority. 
+<br>
+The data is the organizations most precious monetizable asset. To understand WHAT data you are going to take in and HOW to refine it, that is where the challenge for analysts and marketers exists. Next step is to further enhance the analysis with AI-driven mehods.
 
 
-v1.5
+v1.6
