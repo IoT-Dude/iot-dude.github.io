@@ -1,0 +1,9 @@
+# JAAP (Jung Archetypes Analytical Project Text-Mining-II-II)
+
+Nov 18, 2022 PA
+
+
+Jung Archetypes Analytical Project Text Mining II-II, a continuation of last weeks project ...
+
+
+v1.0
