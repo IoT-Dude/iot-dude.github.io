@@ -2,7 +2,7 @@
 
 Nov 18, 2022 PA
 
-Jung Archetypes Analytical Project Text Mining II-II, a continuation of last weeks project, building context...
+Jung Archetypes Analytical Project Text Mining II-III, a continuation of last weeks project, building context...
 
 <br>
 # Text Classification with Python and Scikit-Learn
