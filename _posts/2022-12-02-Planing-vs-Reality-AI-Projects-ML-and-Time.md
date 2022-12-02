@@ -1,8 +1,9 @@
 # It is impossible to estimate time for programming projects!
 
 <b>This is a TGIF reflection</b>
+<br>
 (AI Projects ML and Time, planing vs reality in (AI) projects, ML etc ...)
-
+<br>
 
 How to learn to make better estimates?
 It seems like it is nearly impossible to get close to a good time estimate on coding and delivery of projects because there are so many any number of issues and things not first anticipated.
