@@ -11,12 +11,13 @@ It seems like it is nearly impossible to get close to a good time estimate on co
 
 How close can we be expected to reasonably estimate?
 <br>
-Kan ban, Gant charts etc to map out hours and weeks, bugs done and bugs solved, urrk ...
+Kan Ban, Gant charts etc to map out hours and weeks, bugs done and bugs solved, urrk ...
 
 <br>
 <b>The more I break down a task, the more reliable the final estimate will be.</b>
 <br>
 The effect is twofold: first, over- and under-estimate errors will tend to cancel each other out more, and second, to perform the breakdown you end up thinking about the work in more detail, improving the overall accuracy.
+<br>
 It is still not perfect, but if done well at least gets you in the ballpark.
 
 <br>
