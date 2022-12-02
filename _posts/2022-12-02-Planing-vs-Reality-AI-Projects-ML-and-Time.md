@@ -14,7 +14,7 @@ How close can we be expected to reasonably estimate?
 Kan ban, Gant charts etc to map out hours and weeks, bugs done and bugs solved, urrk ...
 
 <br>
-The more I break down a task, the more reliable the final estimate will be. 
+<b>The more I break down a task, the more reliable the final estimate will be.</b>
 <br>
 The effect is twofold: first, over- and under-estimate errors will tend to cancel each other out more, and second, to perform the breakdown you end up thinking about the work in more detail, improving the overall accuracy.
 It is still not perfect, but if done well at least gets you in the ballpark.
