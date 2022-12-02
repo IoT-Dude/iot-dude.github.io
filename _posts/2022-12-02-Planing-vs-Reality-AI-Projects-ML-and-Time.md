@@ -6,13 +6,17 @@
 <br>
 
 How to learn to make better estimates?
-It seems like it is nearly impossible to get close to a good time estimate on coding and delivery of projects because there are so many any number of issues and things not first anticipated.
+<br>
+It seems like it is nearly impossible to get close to a good time estimate on coding and delivery of projects because there are so many number of issues and things not first anticipated.
 
 How close can we be expected to reasonably estimate?
-Gant charts etc to map out hours and weeks, bugs done and bugs solved...
+<br>
+Kan ban, Gant charts etc to map out hours and weeks, bugs done and bugs solved, urrk ...
 
 <br>
-The more I break down a task, the more reliable the final estimate will be. The effect is twofold: first, over- and under-estimate errors will tend to cancel each other out more, and second, to perform the breakdown you end up thinking about the work in more detail, improving the overall accuracy.
+The more I break down a task, the more reliable the final estimate will be. 
+<br>
+The effect is twofold: first, over- and under-estimate errors will tend to cancel each other out more, and second, to perform the breakdown you end up thinking about the work in more detail, improving the overall accuracy.
 It is still not perfect, but if done well at least gets you in the ballpark.
 
 <br>
@@ -26,4 +30,4 @@ They are two different things
 All in all, beware of giving an estimate with too much precision, especially early on in a project.
 
 
-v1.1
+v1.2
