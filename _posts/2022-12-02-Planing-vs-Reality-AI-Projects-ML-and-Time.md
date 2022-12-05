@@ -21,7 +21,8 @@ The effect is twofold: first, over- and under-estimate errors will tend to cance
 It is still not perfect, but if done well at least gets you in the ballpark.
 
 <br>
-Estimate or a target?
+<br>
+<b>Estimate</b> or <b>Target</b>?
 <br>
 Estimate: How long will it take to implement these features?
 <br>
@@ -33,4 +34,4 @@ They are two different things
 All in all, beware of giving an estimate with too much precision, especially early on in a project.
 
 
-v1.4
+v1.5
