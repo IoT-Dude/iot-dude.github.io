@@ -21,7 +21,6 @@ The effect is twofold: first, over- and under-estimate errors will tend to cance
 It is still not perfect, but if done well at least gets you in the ballpark.
 
 <br>
-<br>
 <b>Estimate</b> or <b>Target</b>?
 <br>
 Estimate: How long will it take to implement these features?
