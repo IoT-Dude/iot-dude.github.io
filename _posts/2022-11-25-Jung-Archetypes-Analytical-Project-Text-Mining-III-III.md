@@ -17,7 +17,7 @@ Scikit-learn, (also known as sklearn), is a free software machine learning libra
 
 ## Random Forest algorithm (Demo III-III)
 
-Another demo of how the basics of text analysis works by using ipynb and 
+Another demo of how the basics of text analysis works by using ipynb, Python and Scikit-Learn
 
 ----
 
@@ -26,17 +26,17 @@ Another demo of how the basics of text analysis works by using ipynb and
 
 The Random Forest algorithm is one of the most flexible, powerful and widely-used algorithms for classification and regression, built as an ensemble of Decision Trees.
 
-If you aren't familiar with these - no worries, we'll cover all of these concepts.
+If you aren not familiar with these - no worries, we will cover all of the concepts.
 
-In this in-depth hands-on guide, we'll build an intuition on how decision trees work, how ensembling boosts individual classifiers and regressors, what random forests are and build a random forest classifier and regressor using Python and Scikit-Learn, through an end-to-end mini-project, and answer a research question.
+In this in-depth hands-on guide, we will build an intuition on how decision trees work, how ensembling boosts individual classifiers and regressors, what random forests are and build a random forest classifier and regressor using Python and Scikit-Learn, through an end-to-end mini-project, and answer a research question.
 
-Consider that you're are currently part of a research group that is analysing data about women. The group has collected 100 data records and wants to be able to organize those initial records by dividing the women into categories: being or not pregnant, and living in rural or urban areas. The researchers want to understand how many women would be in each category.
+Consider that you are are currently part of a research group that is analysing data about women. The group has collected 100 data records and wants to be able to organize those initial records by dividing the women into categories: being or not pregnant, and living in rural or urban areas. The researchers want to understand how many women would be in each category.
 
 There is a computational structure that does exactly that, it is the tree structure. By using a tree structure, you will be able to represent the different divisions for each category.
 Decision Trees
 
 
-### How do you populate the nodes of a tree? This is where decision trees come into focus.
+### How do you populate the nodes of a tree? (This is where decision trees come into focus)
 
 First, we can divide the records by pregnancy, after that, we can divide them by living in urban or rural areas. Notice, that we could do this in a different order, dividing initially by what area the women live and after by their pregnancy status. From this, we can see that the tree has an inherent hierarchy. Besides organizing information, a tree organizes information in a hierarchical manner - the order that the information appears matters and leads to different trees as a result.
 
@@ -90,7 +90,7 @@ Joining decision trees together yields significant performance boosts compred to
 
 Given wide-scale usage, libraries like Scikit-Learn have implemented wrappers for RandomForestRegressors and RandomForestClassifiers, built on top of their own decision tree implementations, to allow researchers to avoid building their own ensembles.
 
-Let's dive into random forests!
+
 ### How the Random Forest Algorithm Works
 
 The following are the basic steps involved when executing the random forest algorithm:
@@ -113,4 +113,4 @@ With an intuition on how trees work, and an understanding of Random Forests - th
 fkfkfkfkfkfkfkf
 
 
-v1.1
+v1.2
