@@ -24,6 +24,7 @@ It is still not perfect, but if done well at least gets you in the ballpark.
 Estimate or a target?
 <br>
 Estimate: How long will it take to implement these features?
+<br>
 Target: How many features can I implement by this date?
 
 They are two different things
@@ -32,4 +33,4 @@ They are two different things
 All in all, beware of giving an estimate with too much precision, especially early on in a project.
 
 
-v1.3
+v1.4
