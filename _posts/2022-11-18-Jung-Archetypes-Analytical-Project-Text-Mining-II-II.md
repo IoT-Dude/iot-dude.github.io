@@ -20,4 +20,4 @@ It features various classification, regression and clustering algorithms includi
 
 [Another demo of how the basics of text analysis works by using ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/JOOP_Sentiment_POC_20221121_FINAL.ipynb)
 
-v1.4
+v1.5
