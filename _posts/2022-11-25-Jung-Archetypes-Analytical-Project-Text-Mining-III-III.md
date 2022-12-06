@@ -17,7 +17,7 @@ Scikit-learn, (also known as sklearn), is a free software machine learning libra
 
 ## Random Forest algorithm (Demo III-III)
 
-Another demo of how the basics of text analysis works by using ipynb, Python and Scikit-Learn
+Another demo of how the basics of text analysis works by using Python and Scikit-Learn
 
 ----
 
@@ -26,13 +26,13 @@ Another demo of how the basics of text analysis works by using ipynb, Python and
 
 The Random Forest algorithm is one of the most flexible, powerful and widely-used algorithms for classification and regression, built as an ensemble of Decision Trees.
 
-If you aren not familiar with these - no worries, we will cover all of the concepts.
-
-In this in-depth hands-on guide, we will build an intuition on how decision trees work, how ensembling boosts individual classifiers and regressors, what random forests are and build a random forest classifier and regressor using Python and Scikit-Learn, through an end-to-end mini-project, and answer a research question.
+In project I will build an intuition on how decision trees work, how ensembling boosts individual classifiers and regressors, what random forests are and build a random forest classifier and regressor using Python and Scikit-Learn, through an end-to-end project, and answer a research question.
 
 Consider that you are are currently part of a research group that is analysing data about women. The group has collected 100 data records and wants to be able to organize those initial records by dividing the women into categories: being or not pregnant, and living in rural or urban areas. The researchers want to understand how many women would be in each category.
 
-There is a computational structure that does exactly that, it is the tree structure. By using a tree structure, you will be able to represent the different divisions for each category.
+There is a computational structure that does exactly that, it is the tree structure. By using a tree structure, one will be able to represent the different divisions for each category.
+
+
 Decision Trees
 
 
@@ -113,4 +113,4 @@ With an intuition on how trees work, and an understanding of Random Forests - th
 fkfkfkfkfkfkfkf
 
 
-v1.2
+v1.3
