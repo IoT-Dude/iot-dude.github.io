@@ -56,6 +56,8 @@ By looking at the image above, we can see that the answers to the questions of e
 
 This is the essense of decision trees in, done in a manual manner. Using Machine Learning, we can construct a model that constructs this tree automatically for us, in such a way to maximize the accuracy of the final decisions.
 
+
+
 Note: there are several types of trees in Computer Science, such as binary trees, general trees, AVL trees, splay trees, red black trees, b-trees, etc. Here, we are focusing on giving a general idea of what is a decision tree. If it depends on the answer of a yes or no question for each node and thus each node has at most two children, when sorted so that the "smaller" nodes are on the left, this classifies decision trees as binary trees.
 
 In the previous examples, observe how the tree could either classify new data as participant or non participant, or the questions could also be changed to - "how many are participants?", "how many are pregnant?", "how many live in a rural area?"- leading us to find the quantity of pregnant participants that live in a rural area.
@@ -110,7 +112,7 @@ With an intuition on how trees work, and an understanding of Random Forests - th
 
 
 
-fkfkfkfkfkfkfkf
+
 
 
 v1.3
