@@ -1,23 +1,10 @@
 
 # Google has same strategy as china: let 1000 flowers bloom
 
-Sometimes you don't se things as it is until someone else shout out the obvious, and the author of this piece is Jackie Bavaro, thanks Jackie!
+Sometimes you don't se things as it is until someone explains the obvious, such as this blog article written by Jackie Bavaro, thanks Jackie!
 
 
 ["Hot Take: Google has a company strategy, not a product strategy. Or, Why Google keeps killing products" by Jackie Bavaro](https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy)
-
-
-
-
-
-https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy
-
-
-
-
-[](https://github.com/IoT-Dude/blogg_mtrl/blob/main/TextMiningBasics_Jung_Nov_16_Final.ipynb)
-
-
 
 
 ### Googles company strategy - Let 1000 flowers bloom
@@ -38,8 +25,9 @@ Fail fast and release often is probably a good strategy to  create a successfull
 But it is a bit sad to see all the products that has been [axed in the name of good financial progress](https://killedbygoogle.com/)
 
 
+
 https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy
 
 
 
-v1.4
+v1.5
