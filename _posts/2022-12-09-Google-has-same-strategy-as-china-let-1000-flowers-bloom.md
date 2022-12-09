@@ -3,7 +3,21 @@
 
 Sometimes you don't se things as it is until someone else shout out the obvious, and the author of this piece is Jackie Bavaro, thanks Jackie!
 
+
+["Hot Take: Google has a company strategy, not a product strategy. Or, Why Google keeps killing products" by Jackie Bavaro](https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy)
+
+
+
+
+
 https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy
+
+
+
+
+[](https://github.com/IoT-Dude/blogg_mtrl/blob/main/TextMiningBasics_Jung_Nov_16_Final.ipynb)
+
+
 
 
 ### Googles company strategy - Let 1000 flowers bloom
@@ -28,4 +42,4 @@ https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy
 
 
 
-v1.2
+v1.3
