@@ -35,11 +35,11 @@ Because it’s the products that have an impact on peoples lives, not the compan
 ### The way forward: Fail fast and release often.
 Fail fast and release often is probably a good strategy to  create a successfull product. It is the product that have the potential to be the silver bullit in a company - not the company in itself.
 
-But it is a bit sad to see all the products that has been axed in the name of good financial progress
-https://killedbygoogle.com/
+But it is a bit sad to see all the products that has been [axed in the name of good financial progress](https://killedbygoogle.com/)
+
 
 https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy
 
 
 
-v1.3
+v1.4
