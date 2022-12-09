@@ -20,7 +20,8 @@ I havn’t really until now realized that the product strategy is way more impor
 Because it’s the <b>products</b> that have an impact on peoples lives, not the company. As a consumer it is the products we use that is important and not the company.
 
 ### The way forward: "Fail fast, release often and kill early"
-Fail fast, release often is something I hear many say (and it seems smart to do many releases instead of one or two every year) but to have a company strategy where part of the successfull business process is to quickly kill of a product, I haven't really seen that before as a decisive method to success. 
+"Fail fast, release often", is something I hear many say (and it seems smart to do many releases instead of one or two every year) but to have a company strategy where part of the successfull business process is to quickly kill of a product, I haven't really seen that before as a decisive method to success. 
+<br>
 But of course: it is the product that have the potential to be the silver bullit in a company - not the company in itself.
 
 It is just so sad to see all the products that has been [axed in the name of good financial progress](https://killedbygoogle.com/)
