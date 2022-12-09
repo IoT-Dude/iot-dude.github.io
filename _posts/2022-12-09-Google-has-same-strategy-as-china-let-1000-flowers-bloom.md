@@ -1,7 +1,7 @@
 
 # Google has same strategy as china: let 1000 flowers bloom
 
-Sometimes you don't se things as it is until someone explains the obvious, such as this blog article written by Jackie Bavaro, thanks Jackie!
+Sometimes you don't se things as it is, until someone explains the obvious, such as this blog article written by Jackie Bavaro, thanks Jackie!
 
 
 ["Hot Take: Google has a company strategy, not a product strategy. Or, Why Google keeps killing products" by Jackie Bavaro](https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy)
