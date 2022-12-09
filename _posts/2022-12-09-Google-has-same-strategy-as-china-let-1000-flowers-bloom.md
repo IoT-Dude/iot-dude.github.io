@@ -22,7 +22,7 @@ Because it’s the <b>products</b> that have an impact on peoples lives, not the
 ### The way forward: "Fail fast, release often and kill early"
 "Fail fast, release often", is something I hear many say (and it seems smart to do many releases instead of one or two every year) but to have a company strategy where part of the successfull business process is to quickly kill of a product, I haven't really seen that before as a decisive method to success. 
 <br>
-But of course: it is the product that have the potential to be the silver bullit in a company - not the company in itself.
+But of course: it is <b>the product</b> that have the potential to be the silver bullit in a company - not the company in itself.
 
 It is just so sad to see all the products that has been [axed in the name of good financial progress](https://killedbygoogle.com/)
 
@@ -32,4 +32,4 @@ https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy
 
 
 
-v1.6
+v1.7
