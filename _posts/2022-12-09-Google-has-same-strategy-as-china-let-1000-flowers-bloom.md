@@ -17,12 +17,13 @@ The lack of a product strategy is behind many of Googles shortlived products, pr
 
 
 I havn’t really until now realized that the product strategy is way more important and influential of the outcome than having a company strategy.
-Because it’s the products that have an impact on peoples lives, not the company. As a consumer it is the products we use that is important and not the company.
+Because it’s the <b>products</b> that have an impact on peoples lives, not the company. As a consumer it is the products we use that is important and not the company.
 
-### The way forward: Fail fast and release often.
-Fail fast and release often is probably a good strategy to  create a successfull product. It is the product that have the potential to be the silver bullit in a company - not the company in itself.
+### The way forward: "Fail fast, release often and kill early"
+Fail fast, release often is something I hear many say (and it seems smart to do many releases instead of one or two every year) but to have a company strategy where part of the successfull business process is to quickly kill of a product, I haven't really seen that before as a decisive method to success. 
+But of course: it is the product that have the potential to be the silver bullit in a company - not the company in itself.
 
-But it is a bit sad to see all the products that has been [axed in the name of good financial progress](https://killedbygoogle.com/)
+It is just so sad to see all the products that has been [axed in the name of good financial progress](https://killedbygoogle.com/)
 
 
 
@@ -30,4 +31,4 @@ https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy
 
 
 
-v1.5
+v1.6
