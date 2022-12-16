@@ -22,21 +22,26 @@ Otherwise it is down to domainwise searches like data related to climate, Railro
 
 ### With the growing popularity
 With the growing popularity in the area of AI and ML, Google now has a working search engine that aims to help researchers and data scientists to have a quick and easy access to data which otherwise is difficult without a network of professional connections.
-Individuals, institutions or organisations who wish to publish their data online need to include metadata tags in their web pages. Like description of that data, , project names, names of the creators, date of publishing, terms of usage, the source of data collected etc. This information is then indexed by Google Dataset Search. The aim is to make data easy discoverable while keeping it where it is. 
 
 ### Guidelines for contributors
-Google has made a specific set of guidelines for the users to follow, which makes it easy and convenient to understand the content of their pages. Google encourages dataset providers, large and small to adopt this common standard so that all datasets are a part of this robust ecosystem.  
+Google has made a specific set of guidelines for the users to follow, which makes it easy and convenient to understand the content of their pages. Google encourages dataset providers, large and small to adopt this common standard so that all datasets are a part of this robust ecosystem.
+<br>
+Individuals, institutions or organisations who wish to publish their data online need to include metadata tags in their web pages. Like description of that data, projectname, names of the creators, date of publishing, terms of usage, the source of data collected etc. 
+<br>
+This information is then indexed by Google Dataset Search. The aim is to make data easy discoverable while keeping it where it is. 
+
 
 ### What I like so far:
-It is the only dataset search engine so far. It seems to be a one stop solution for all data needs. Google Dataset Search sources and locates all data that is freely available. 
 <br>
-It promotes open data culture - it brings free data together. It contributes towards the open data movement.
+* It is the only dataset search engine so far. It seems to be a one stop solution for all data needs. Google Dataset Search sources and locates all data that is freely available. 
+
+* It promotes open data culture - it brings free data together. It contributes towards the open data movement.
 <br>
-It is helpful for both beginners trying to learn algorithms or advanced researchers working on a new AI.
+* It is helpful for both beginners trying to learn algorithms or advanced researchers working on a new AI.
  
 ### Drawbacks:
-But one drawback couild be that datasets sometimes is uploaded with less or obsolete descriptions - it is sometimes hard to locate - and then one starts to question the quality of it.
+* One drawback couild be that datasets sometimes is uploaded with less or obsolete descriptions - it is sometimes hard to locate - and then one starts to question the quality of it.
 
 All in all Google Dataset Search is a brilljant application by Google and in the future it will probably be useful for the research community.
 
-v1.2
+v1.3
