@@ -18,14 +18,14 @@ Hur många det räcker till kan dock variera beroende på hur mycket kött det �
 Laga därför i överkant på portioner och spara det sm blir över i kylen eller frysen.
 Tunna revbensspjäll
 
+<br>
 Tunna revbensspjäll kan du laga på samma vis men förkokas i en timme. De kan också grillas i ugnen eller direkt på utegrill om du grillar på låg värme i 1,5 timmar. Tips är då att slå in dem i folie och sedan ge dem grillyta och pensla på slutet.
 
 ### Fiffigt att förkoka
 Tjocka revbensspjäll är smidiga att förkoka innan grillningen så blir de möra, kan förberedas i god tid och marineras för att sedan snabbt grillas till fin färg.
 
-    Tillsätt salt, lagerblad och vitpeppar och låt revbensspjällen koka på låg värme i ca 2 timmar.
-
-    Häll av och ta upp revbensspjällen. Låt svalna eler låt svalna i buljongen.
+<b>Tillsätt salt, lagerblad och vitpeppar och låt revbensspjällen koka på låg värme i ca 2 timmar</b>
+Häll av och ta upp revbensspjällen, låt svalna eller låt svalna i buljongen.
 
 Blanda ingredienserna till BBQ-marinaden i en bunke. Ta undan några msk marinad att ha till pensling samt några msk att ha att ringla över som sås vid servering.
 <br>
@@ -83,13 +83,10 @@ Servera revbensspjällen varma eller kyl dem och servera kalla ex. till vickning
 
 Knäck upp en favvo öl och ha en riktigt god jul!
 
-<br>
+
 ### Efter jul
 Potatis och gräddstuvad purjolök är alltid rätt att servera till revbensspjäll, potatis, två purjolökar, en liter grädde och lite salt.
 
 
-<br>
-<br>
 
-
-v1.3
+    v1.4
