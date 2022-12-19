@@ -29,7 +29,6 @@ Tjocka revbensspjäll är smidiga att förkoka innan grillningen så blir de mö
 
 Blanda ingredienserna till BBQ-marinaden i en bunke. Ta undan några msk marinad att ha till pensling samt några msk att ha att ringla över som sås vid servering.
 <br>
-
 Skär revbensspjällen i bitar eller skivor längs med revbenen och lägg i bunken med marinad.
 <br>
 Blanda revbenen försiktigt (så de inte ramlar sönder) med barbecuemarinaden och låt de gärna marinera några minuter - helst någon timme eller över natten(att rekommenderas - det smakar mer). Men de går också bra att grilla direkt. Hit kan alltså revbenen förberedas och förvaras i kylen.
@@ -39,22 +38,6 @@ Griljera revbenen innan servering så att de får fin yta runt om. Antingen på 
 Servera revbensspjällen varma eller kyl dem och servera kalla ex. till vickning eller picknick.
 
 
-
-Knäck upp en favvo öl och ha en god jul!
-
-
-### Efter jul
-
-Potatis och gräddstuvad purjolök är alltid rätt att servera till revbensspjäll, potatis, två purjolökar, en liter grädde och lite salt.
-
-
-
-
-v1.1
-
-77
-
-​
 ## 5 portioner tjocka revbensspjäll
 
     Koka 2 tim
@@ -108,4 +91,5 @@ Potatis och gräddstuvad purjolök är alltid rätt att servera till revbensspj�
 <br>
 <br>
 
-v1.2
+
+v1.3
