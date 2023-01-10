@@ -8,11 +8,8 @@ In this blog I will write about some troductory stuff on matplotlib and seaborn,
 
 
 <br>
-[matplotlib and seaborn intro](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Matplotlib-and-Seaborn-intro-V2.ipynb)
+[An ipynb: matplotlib and seaborn intro](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Matplotlib-and-Seaborn-intro-V2.ipynb)
 
-
-matplotlib and seaborn intro
-matplotlib and seaborn intro
 
 
 v1.2
