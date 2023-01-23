@@ -1,5 +1,5 @@
-# scikit-learn stuff, and my continous Jung Archetypes Analytical Project stuff
+# scikit-learn stuff, a continous Jung Archetypes Analytical Project, stuff (takes time ...)
 
-scikit-learn stuff ... scikit-learn stuff ... scikit-learn stuff ...
+scikit-learn stuff ... scikit-learn stuff ... scikit-learn stuff ...  ugh ...
 
-v1.0
+v1.1
