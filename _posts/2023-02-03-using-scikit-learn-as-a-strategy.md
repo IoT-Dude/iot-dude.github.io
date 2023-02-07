@@ -1,6 +1,9 @@
 # Using scikit learn as a work strategy
 
 <i><b>So much to learn and so little time for knowledge - instead i will focus on the "classical" ML statistic side of things, and in time find currage to swim on the deep side of the pool.</b></i><br><br>
+
+<i>So much to learn and so little time for knowledge - instead i will focus on the "classical" ML statistic side of things, and in time find currage to swim on the deep side of the pool.</i><br><br>
+
 Much is happening in dataanalytics and AI (Artificial Intelligence), the same goes for ML (Machine Learning).
 So much to learn and so little time for knowledge - it is time to chose how to interact with all new technologies like [Google Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) and [ChatGPT](https://openai.com/blog/chatgpt/)
 
@@ -49,4 +52,4 @@ Tensorflow works with a variety of data such as tabular, text, images, audio, an
 I am probably a more statistical oriented analyst and thus prefer to work with scikit-learn. For now that will be my focus, but who knows, there is much interesting stuff happening right now!
 
 
-v1.3
+v1.4
