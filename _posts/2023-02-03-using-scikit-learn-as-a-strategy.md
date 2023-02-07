@@ -1,6 +1,5 @@
 # Using scikit learn as a work strategy
 
-<i><b>So much to learn and so little time for knowledge - instead i will focus on the "classical" ML statistic side of things, and in time find currage to swim on the deep side of the pool.</b></i><br><br>
 
 <i>So much to learn and so little time for knowledge - instead i will focus on the "classical" ML statistic side of things, and in time find currage to swim on the deep side of the pool.</i><br><br>
 
