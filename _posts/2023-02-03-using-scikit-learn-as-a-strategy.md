@@ -8,7 +8,7 @@ So much to learn and so little time for knowledge - it is time to chose how to i
 
 
 ### This is my strategy
-I am gonna focus on ML and Scikit-learn, more of a statistic approach, instead of a huge-big-blob-funny-generating-pictures-AI-model.
+I will focus on ML and Scikit-learn, more of a statistic approach, instead of a huge-big-blob-funny-generating-pictures-AI-model.
 <br>
 Part of reason to not focus on deep learning jusr now is due to time constraint - it takes time to learn new API:s and language models, and I am a slow learner.
 <br>
@@ -48,7 +48,9 @@ Tensorflow works with a variety of data such as tabular, text, images, audio, an
 
 
 ## Conclusion
-I am probably a more statistical oriented analyst and thus prefer to work with scikit-learn. For now that will be my focus, but who knows, there is much interesting stuff happening right now!
+I am probably more of a statistical oriented analyst than deep-layer netwoks-centric engineer, and thus prefer to work with scikit-learn. 
+<br>
+For now that will be my focus, but who knows, there is much interesting stuff happening right now!
 
 
 v1.4
