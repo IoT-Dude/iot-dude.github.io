@@ -9,7 +9,9 @@ It is popular and widely used in industry, e.g., corporate surveys, feedback sur
 The sentiment information from texts can be crucial to further decision making in the industry.
 <br>
 <br>
+[This is another example of Sentiment Analysis using Bag of Words](https://github.com/IoT-Dude/blogg_mtrl/blob/main/ml-sklearn-classification_V1.ipynb)
+<br>
+<br>
 
 
-
-v1.1
+v1.11
