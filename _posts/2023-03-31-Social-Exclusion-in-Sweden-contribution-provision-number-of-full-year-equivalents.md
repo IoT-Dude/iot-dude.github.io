@@ -13,7 +13,7 @@ There is no accepted definition for calculating exclusion in Sweden, and differe
 
 
     
-![png](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Contribution-provision-full-year-equivalents.png)
+![Contributionprovisionfullyearequivalents](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Contribution-provision-full-year-equivalents.png)
     
 
 
@@ -36,6 +36,6 @@ A driving factor behind the reduction can be assumed to be the tightening of the
 
 
 
-This post canalso be read as ipynb: [Social Exclusion in Sweden Contribution provision number of full year equivalents ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Social-Exclusion-in-Sweden-Contribution-provision-number-of-full-year-equivalents.ipynb)
+This post can also be read as ipynb: [Social Exclusion in Sweden Contribution provision number of full year equivalents ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Social-Exclusion-in-Sweden-Contribution-provision-number-of-full-year-equivalents.ipynb)
 
 v1.3
