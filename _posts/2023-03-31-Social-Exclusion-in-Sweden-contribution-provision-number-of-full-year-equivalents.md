@@ -36,8 +36,11 @@ A driving factor behind the reduction can be assumed to be the tightening of the
 
 
 
+This post canalso be read as ipynb: [Social Exclusion in Sweden Contribution provision number of full year equivalents ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Social-Exclusion-in-Sweden-Contribution-provision-number-of-full-year-equivalents.ipynb)
 
-wwwww
+v1.2
+
+waggabaffa
 
 
 # aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
