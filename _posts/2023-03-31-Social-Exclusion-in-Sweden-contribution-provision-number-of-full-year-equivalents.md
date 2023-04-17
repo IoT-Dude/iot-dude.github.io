@@ -4,7 +4,6 @@ Patrik Ackell Analyst 2023
 
 (Contribution provision - number of full-year equivalents)
 
-[Social Exclusion Wikipedia](https://en.wikipedia.org/wiki/Social_exclusion)
 
 #### Social Exclusion in Sweden
 There is no accepted definition for calculating exclusion in Sweden, and different actors use different definitions in the debate - a measure published by Statistics Norway is the number of people who are supported by social allowances and grants.
@@ -39,4 +38,6 @@ A driving factor behind the reduction can be assumed to be the tightening of the
 
 This post can also be read as ipynb: [Social Exclusion in Sweden Contribution provision number of full year equivalents ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Social-Exclusion-in-Sweden-Contribution-provision-number-of-full-year-equivalents.ipynb)
 
-v1.3
+More general info on [Social Exclusion Wikipedia](https://en.wikipedia.org/wiki/Social_exclusion)
+
+v1.4
