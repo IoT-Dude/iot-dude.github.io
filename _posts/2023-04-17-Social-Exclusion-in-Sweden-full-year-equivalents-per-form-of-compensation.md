@@ -31,10 +31,11 @@ Slightly more than half of today's allowances and contributions consist of sickn
 
 The statistics do not include people under the age of 20.
 
+## otydlig bild snygga till
 
 <br>
 <br>
-## skriv om fokus på social exclusion och hur det begränsar samhället
+## Mer text - skriv om fokus på social exclusion och hur det begränsar samhället
 <br>
 <br>
 <br>
@@ -54,7 +55,7 @@ A driving factor behind the reduction can be assumed to be the tightening of the
 
 
 
-This post can also be read as ipynb: [Social Exclsion - Contribution provision - number of full-year equivalents per form of compensation ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Social-Exclusion-in-Sweden-Contribution-provision-full-year-equivalents-per-form-of-compensation.ipynb)
+This post can also be read as ipynb: [Social Exclusion - Contribution provision - number of full-year equivalents per form of compensation ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Social-Exclusion-in-Sweden-Contribution-provision-full-year-equivalents-per-form-of-compensation.ipynb)
 
 More general info on [Social Exclusion Wikipedia](https://en.wikipedia.org/wiki/Social_exclusion)
 
