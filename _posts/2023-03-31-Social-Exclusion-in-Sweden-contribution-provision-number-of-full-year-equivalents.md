@@ -1,4 +1,4 @@
-Ejdern Analytics by Patrik Ackell 2023
+Analytics by Patrik Ackell 2023
 
 # Social Exclusion in Sweden
 
