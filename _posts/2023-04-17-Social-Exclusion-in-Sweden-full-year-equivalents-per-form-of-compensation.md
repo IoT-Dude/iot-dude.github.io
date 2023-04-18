@@ -17,7 +17,7 @@ There is no accepted definition for calculating exclusion in Sweden, and differe
 
 Source: SCB Statistics Sweden
 
-<i>Note 1: Up to and including 2002, the information includes 16-19-year-olds with sickness benefit or sickness and activity support. Note 2: In 2000, the generational change allowance ceased. Note 3: From 2011 onwards, some municipalities have missing data, or provided incomplete data, for the number of people with financial assistance for one or more months. For these municipalities, the last known information is used. See scb.se for more information. Note 4: The length of the period that the employer pays sick pay has changed on a couple of occasions. In 1992, the employer period within sickness benefit insurance was introduced and was then 14 days long. Between 1997 and 1998 it was 28 days and was subsequently reduced to 14 days. In 2003 it was changed to 21 days and in 2005 it was changed again to 14 days. Note 5: For the years 1994 to 2010, it is introduction compensation that is reported under establishment compensation. For the year 2011, the information refers to the sum of establishment compensation and introduction compensation.</i>
+Note 1: Until 2002, the information includes 16-19-year-olds. The length of the sick pay period has been changed on a couple of occasions during the period. 920101 it was introduced and was then 14 days long. Between 970101 and 980401 the employer period was 28 days and was subsequently reduced to 14 days. In 030701 it was changed to 21 days and in 050101 it was changed again to 14 days. Note 2: Including generational change compensation until the year 2000, when this measure ended. Note 3: During 2011-2016, some municipalities have lost data or submitted incomplete data for one or more months. For these municipalities Note 5: For the years 1994 to 2010, it is introduction compensation that is reported under establishment compensation. For the year 2011, the information refers to the sum of establishment compensation and introduction compensation.
 
 
 
@@ -49,18 +49,9 @@ A driving factor behind the reduction can be assumed to be the tightening of the
 
 
 
-This post can also be read as ipynb: [Social Exclusion in Sweden Contribution provision number of full year equivalents ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Social-Exclusion-in-Sweden-Contribution-provision-number-of-full-year-equivalents.ipynb)
+This post can also be read as ipynb: [Social Exclsion - Contribution provision - number of full-year equivalents per form of compensation ipynb](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Social-Exclusion-in-Sweden-Contribution-provision-full-year-equivalents-per-form-of-compensation.ipynb)
 
 More general info on [Social Exclusion Wikipedia](https://en.wikipedia.org/wiki/Social_exclusion)
 
-v1.2
 
-
-
-
-
-Resonemng
-
-
-
-v1.0
+v1.3
