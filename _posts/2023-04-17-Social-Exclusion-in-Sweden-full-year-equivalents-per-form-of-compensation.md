@@ -17,7 +17,9 @@ There is no accepted definition for calculating exclusion in Sweden, and differe
 
 Source: SCB Statistics Sweden
 
+<i>
 Note 1: Until 2002, the information includes 16-19-year-olds. The length of the sick pay period has been changed on a couple of occasions during the period. 920101 it was introduced and was then 14 days long. Between 970101 and 980401 the employer period was 28 days and was subsequently reduced to 14 days. In 030701 it was changed to 21 days and in 050101 it was changed again to 14 days. Note 2: Including generational change compensation until the year 2000, when this measure ended. Note 3: During 2011-2016, some municipalities have lost data or submitted incomplete data for one or more months. For these municipalities Note 5: For the years 1994 to 2010, it is introduction compensation that is reported under establishment compensation. For the year 2011, the information refers to the sum of establishment compensation and introduction compensation.
+</i>
 
 
 
@@ -30,9 +32,12 @@ Slightly more than half of today's allowances and contributions consist of sickn
 The statistics do not include people under the age of 20.
 
 
-
-skriv om fokus på social exclusion och hur det begränsar samhället
-
+<br>
+<br>
+## skriv om fokus på social exclusion och hur det begränsar samhället
+<br>
+<br>
+<br>
 
 
 ### Full-year equivalents per form of compensation
