@@ -11,10 +11,7 @@ There is no accepted definition for calculating exclusion in Sweden, and differe
 ## Contribution provision - number of full-year equivalents
 
 
-
-    
-![Contributionprovisionfullyearequivalents](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Contribution-provision-full-year-equivalents.png)
-    
+![Contribution provision full year equivalents](https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/Contribution-provision-full-year-equivalents.png)
 
 
 Source: SCB Statistics Sweden
@@ -40,4 +37,4 @@ This post can also be read as ipynb: [Social Exclusion in Sweden Contribution pr
 
 More general info on [Social Exclusion Wikipedia](https://en.wikipedia.org/wiki/Social_exclusion)
 
-v1.4
+v1.5
