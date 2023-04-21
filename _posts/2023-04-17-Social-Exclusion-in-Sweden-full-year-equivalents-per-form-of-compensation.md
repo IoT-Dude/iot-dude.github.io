@@ -31,14 +31,15 @@ Slightly more than half of today's allowances and contributions consist of sickn
 
 The statistics do not include people under the age of 20.
 
-## otydlig bild snygga till
+## Not being part of society is devastating
+Social exclusion is unemployment, poverty, discrimination, mental illness, homelessness. Not being part of society is devastating, and not only for the individuals themselves, it also entails a large costs for society. 
 
-<br>
-<br>
-## Mer text - skriv om fokus på social exclusion och hur det begränsar samhället
-<br>
-<br>
-<br>
+Sweden's exclusion costs society at least SEK 270 billion annually just in direct transfers and unpaid taxes (source: https://www.svensktnaringsliv.se).
+
+Social exclusion take different forms and it is not a homogenous group that is affected.
+
+
+
 
 
 ### Full-year equivalents per form of compensation
@@ -60,4 +61,4 @@ This post can also be read as ipynb: [Social Exclusion - Contribution provision 
 More general info on [Social Exclusion Wikipedia](https://en.wikipedia.org/wiki/Social_exclusion)
 
 
-v1.4
+v1.5
