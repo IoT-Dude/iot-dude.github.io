@@ -5,7 +5,7 @@ Analytics by Patrik Ackell 2023
 (Contribution provision full year equivalents per form of compensation)
 
 
-There is no accepted definition for calculating exclusion in Sweden, and different actors use different definitions in the debate - a measure published by Statistics Norway is the number of people who are supported by social allowances and grants.
+There is no accepted definition for calculating social exclusion in Sweden, and different actors use different definitions in the debate - a measure published by Statistics Norway is the number of people who are supported by social allowances and grants.
 
 ## Contribution provision - number of full-year equivalents per form of compensation
 
@@ -23,18 +23,20 @@ Note 1: Until 2002, the information includes 16-19-year-olds. The length of the 
 
 
 
-
+<br>
+<br>
+<br>
 The number of (various) full-year people in the form of compensation has decreased from a level of a maximum of 454,000 in 2006 to today's 209,000.
 As a share of the population, the form of compensation decreased from 8.5 percent to 3.5 percent in 2022. Both the share and the number of full-year equivalents are affected by the business cycle and tend to increase during recessions.
 
 Slightly more than half of today's allowances and contributions consist of sickness allowance and sickness and activity allowance.
 
 The statistics do not include people under the age of 20.
-
+<br>
 ## Not being part of society is devastating
 Social exclusion is unemployment, poverty, discrimination, mental illness, homelessness. Not being part of society is devastating, and not only for the individuals themselves, it also entails a large costs for society. 
 
-Sweden's exclusion costs society at least SEK 270 billion annually just in direct transfers and unpaid taxes (source: https://www.svensktnaringsliv.se).
+Sweden's social exclusion costs society at least SEK 270 billion annually (2019) just in direct transfers and unpaid taxes (source: https://www.svensktnaringsliv.se).
 
 Social exclusion take different forms and it is not a homogenous group that is affected.
 
