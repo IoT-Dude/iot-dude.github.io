@@ -34,7 +34,7 @@ Slightly more than half of today's allowances and contributions consist of sickn
 The statistics do not include people under the age of 20.
 <br>
 ## Not being part of society is devastating
-Social exclusion is unemployment, poverty, discrimination, mental illness, homelessness. Not being part of society is devastating, and not only for the individuals themselves, it also entails a large costs for society. 
+Social exclusion is unemployment, poverty, discrimination, mental illness, homelessness etc. Not being part of society is devastating, and not only for the individuals themselves, it also entails a large costs for society. 
 
 Sweden's social exclusion costs society at least SEK 270 billion annually (2019) just in direct transfers and unpaid taxes (source: https://www.svensktnaringsliv.se).
 
