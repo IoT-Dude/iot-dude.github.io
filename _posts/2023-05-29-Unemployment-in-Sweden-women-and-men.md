@@ -12,4 +12,5 @@ The unemployment rate indicates the proportion of unemployed persons of those in
 [Source: Statistics Sweden (Statistiska Centralbyrån)](https://www.scb.se/)
 
 
+
 v1.1
