@@ -1,3 +1,5 @@
+<span style="color:blue">work in progress some *blue* text</span>
+<br>
 # Concerning JSON
 
 By [Patrik Ackell](https://iot-dude.github.io/)
@@ -15,6 +17,8 @@ Python has a library called `json` that does the work in 2 and 3 for us. The jso
 1. `dumps` ("dump string"), which converts a Python data structure to JSON
 2. `loads` ("load string") which converts a JSON string to a Python data structure. Here's an example:
 
+<span style="color:blue">work in progress some *blue* text</span>
+
 <br>
 <br>
 
@@ -28,4 +32,4 @@ type(rat_json)
 
 
 
-v0.3
+v0.4
