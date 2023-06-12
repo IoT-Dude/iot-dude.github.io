@@ -15,15 +15,17 @@ Python has a library called `json` that does the work in 2 and 3 for us. The jso
 1. `dumps` ("dump string"), which converts a Python data structure to JSON
 2. `loads` ("load string") which converts a JSON string to a Python data structure. Here's an example:
 
-
+<br>
+<br>
 
 import json
 
-rat = {"name": "ruth", "length": 26.5, "favorite_food": "cheddar
-       ", "age": 2}
+rat = {"name": "ruth", "length": 26.5, "favorite_food": "cheddar", "age": 2}
+<br>
 rat_json = json.dumps(rat)
+<br>
 type(rat_json)
 
 
 
-v0.2
+v0.3
