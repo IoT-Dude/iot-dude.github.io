@@ -9,12 +9,12 @@ In this project I will use JSON files to randomly create a group of interesting 
 
 ## Concerning JSON - Data formatting, Serialization and Unserialization
 JSON (JavaScript Object Notation) is a way of formatting data so that it can be shared between different computer systems. 
-The idea is that you might have a data structure in one application, and you want to be able to send that data structure to another application. 
+The idea is that you might have a data structure in one application and you want to be able to send that data structure to another application. 
 <br>
 <br>
 In order to send a data structure to another application, three things are needed: 
 1. a common format that both applications understand (like JSON)
-2. a way to take an in-memory data structure on the source machine and convert it to that format---this is called "serialization"
+2. a way to take an in-memory data structure on the source machine and convert it to that format - this is called "serialization"
 3. a way to change the "serialized" data back into an in-memory data structure on the target machine.
 
 Python has a library called `json` that does the work in 2 and 3 for us. The json library has two important functions: 
@@ -68,4 +68,4 @@ The same thing can be said about web applications that encodes data structures a
 <br>
 <br>
 
-v0.2
+v0.3
