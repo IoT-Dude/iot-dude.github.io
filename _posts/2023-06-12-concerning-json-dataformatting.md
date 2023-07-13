@@ -4,14 +4,13 @@ By [Patrik Ackell](https://iot-dude.github.io/)
 
 ### <i>"I love to daydream. I was floating down the Barking in a boat with my friend the dog."</i>
 
-
 In this project I will use JSON files to randomly create a group of interesting characters for an animated mock film
-
 
 
 ## Concerning JSON - Data formatting, Serialization and Unserialization
 JSON (JavaScript Object Notation) is a way of formatting data so that it can be shared between different computer systems. 
 The idea is that you might have a data structure in one application, and you want to be able to send that data structure to another application. 
+<br>
 <br>
 In order to send a data structure to another application, three things are needed: 
 1. a common format that both applications understand (like JSON)
@@ -55,13 +54,18 @@ rat_json
 
 ### A strong resemblance but not always
 The notation for Python objects (the way we write them in our programs) has a strong resemblance to the way that same data looks when encoded as JSON. 
-<br>But there are some differences: JSON uses null instead of None, JSON always has double-quoted keys and values and escape sequences in JSON strings are very different from those in Python. With those exceptions for the most part the formatted data look familiar. 
+<br>But there are some differences: JSON uses null instead of None, JSON always has double-quoted keys and values and escape sequences in JSON strings are very different from those in Python. 
+<br>
+With those exceptions for the most part the formatted data look familiar. 
 <br>
 The json library can take pretty much any Python data structure and turn it into a JSON object: dictionaries, lists, ints, floats, also even nested data structures, like dictionaries with lists as values.
 
 ### JSON encoded data is just a string
-The great thing about JSON is that JSON encoded data is just a string. It is possible to copy JSON data into an e-mail and send it to someone, without having to worry about formatting, and one could paste it back into Python to get back the original data structure. 
+The great thing about JSON is that JSON encoded data is just a string. It is possible to copy JSON data into an e-mail and send it to someone without having to worry about formatting, and one could paste it back into Python to get back the original data structure. 
 <br>
 The same thing can be said about web applications that encodes data structures as JSON and one could read them with another computer program.
 
-v0.1
+<br>
+<br>
+
+v0.2
