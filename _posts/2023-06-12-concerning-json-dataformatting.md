@@ -58,6 +58,7 @@ The notation for Python objects (the way we write them in our programs) has a st
 <br>
 With those exceptions for the most part the formatted data look familiar. 
 <br>
+<br>
 The json library can take pretty much any Python data structure and turn it into a JSON object: dictionaries, lists, ints, floats, also even nested data structures, like dictionaries with lists as values.
 
 ### JSON encoded data is just a string
@@ -68,4 +69,4 @@ The same thing can be said about web applications that encodes data structures a
 <br>
 <br>
 
-v0.3
+v0.4
