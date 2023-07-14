@@ -1,4 +1,4 @@
-# Fun Experimental Generative Text Projects with JSON (No AI)
+### Fun Experimental Generative Text Projects with JSON (No AI)
 By [Patrik Ackell](https://iot-dude.github.io/)
 
 
@@ -10,19 +10,10 @@ By [Patrik Ackell](https://iot-dude.github.io/)
 
 In this project I will use JSON files to randomly create a group of interesting characters for an animated mock film
 
-test
 
 
 
-pixar_animal_data = json.loads(open("common.json").read())
-
-
-
-tset
-
-
-
-## The Corpora Project - a miscellaneous resource for generating JSON data 
+# The Corpora Project - a miscellaneous resource for generating JSON data 
 
 JSON data is often made available as files with a `.json` extension. 
 
@@ -432,4 +423,4 @@ for i in range(10):
 
 
 
-v0.4
+v0.5
