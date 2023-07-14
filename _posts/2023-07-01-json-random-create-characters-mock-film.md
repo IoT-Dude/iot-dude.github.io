@@ -1,4 +1,5 @@
-### Fun Experimental Generative Text Projects with JSON (No AI)
+# The Corpora Project - a miscellaneous resource for generating JSON data 
+Fun Experimental Generative Text Projects with JSON (No AI)
 By [Patrik Ackell](https://iot-dude.github.io/)
 
 
@@ -13,7 +14,7 @@ In this project I will use JSON files to randomly create a group of interesting 
 
 
 
-# The Corpora Project - a miscellaneous resource for generating JSON data 
+## The Corpora Project - a miscellaneous resource for generating JSON data 
 
 JSON data is often made available as files with a `.json` extension. 
 
@@ -423,4 +424,4 @@ for i in range(10):
 
 
 
-v0.5
+v0.6
