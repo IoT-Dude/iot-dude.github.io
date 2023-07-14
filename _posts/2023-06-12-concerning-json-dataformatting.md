@@ -1,5 +1,6 @@
 
-# Fun Experimental Generative Text Projects with JSON (No AI)
+# Concerning JSON - Data formatting, Serialization and Unserialization
+Fun Experimental Generative Text Projects with JSON (No AI)
 By [Patrik Ackell](https://iot-dude.github.io/)
 
 ### <i>"I love to daydream. I was floating down the Barking in a boat with my friend the dog."</i>
@@ -69,4 +70,4 @@ The same thing can be said about web applications that encodes data structures a
 <br>
 <br>
 
-v0.4
+v0.5
