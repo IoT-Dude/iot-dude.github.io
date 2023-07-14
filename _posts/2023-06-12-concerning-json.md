@@ -1,6 +1,5 @@
-<span style="color:red"><B>Work in Progress</B></span>
-<br>
-# Concerning JSON
+
+# Concerning json
 
 By [Patrik Ackell](https://iot-dude.github.io/)
 
@@ -31,4 +30,4 @@ type(rat_json)
 
 
 
-v0.4
+v0.5
