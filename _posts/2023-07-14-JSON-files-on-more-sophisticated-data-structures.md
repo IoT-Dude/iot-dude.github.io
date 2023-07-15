@@ -8,7 +8,7 @@ By [Patrik Ackell](https://iot-dude.github.io/)
 ### <i>"I love to daydream. I was floating down the Barking in a boat with my friend the dog."</i>
 
 <br>
-In this project I will use JSON files to randomly create announcements in London underground stations from the tube driver
+In this project I will use JSON files to create random announcements in a thought London-underground-stations-from-the-tube-driver scenario
 
 
 
@@ -429,4 +429,4 @@ only_the_station_names
 
 
 
-v0.3
+v0.4
