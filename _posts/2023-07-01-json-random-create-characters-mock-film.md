@@ -196,7 +196,7 @@ pixar_animal_data
       'zebra']}
 
 
-
+### A look at the data structure to figure out how to write expressions that access the data
 Something to know about the Corpora Project (and a lot of JSON data in general, really) is that there's no standard way of arranging the data. In order to work with this data, you'll have to look at the data structure and figure out how to write expressions that access the data you want. In this case, the `animal_data` value is a dictionary:
 
 
@@ -365,7 +365,7 @@ I'm just going to assign that list to a separate variable, so it's a little easi
 animals = pixar_animal_data['animals']
 ```
 
-### a random cast list
+### A random cast list
 So, lets create a cast list of this next animated film from our favourite maker of animated films by selecting a random subset of these characters:
 
 
@@ -423,9 +423,13 @@ for i in range(10):
     The lizard is enthusiastic
     The rhinoceros is up
 
+<br>
+And there we have it: an experimental generative text using JSON and no artificial intelligence.
+
+
+<br>
+<br>
 
 
 
-
-
-v0.7
+v0.8
