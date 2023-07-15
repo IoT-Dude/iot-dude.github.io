@@ -1,14 +1,13 @@
 
-# Concerning JSON - Data formatting, Serialization and Unserialization
+# Concerning JSON - formatting, Serialization and Unserialization
 Fun Experimental Generative Text Projects with JSON (No AI)
 By [Patrik Ackell](https://iot-dude.github.io/)
 
+
 ### <i>"I love to daydream. I was floating down the Barking in a boat with my friend the dog."</i>
+<br>
 
-In this project I will use JSON files to randomly create a group of interesting characters for an animated mock film
-
-
-## Concerning JSON - Data formatting, Serialization and Unserialization
+## Data formatting, Serialization and Unserialization of JSON objects
 JSON (JavaScript Object Notation) is a way of formatting data so that it can be shared between different computer systems. 
 The idea is that you might have a data structure in one application and you want to be able to send that data structure to another application. 
 <br>
@@ -70,4 +69,4 @@ The same thing can be said about web applications that encodes data structures a
 <br>
 <br>
 
-v0.5
+v0.6
