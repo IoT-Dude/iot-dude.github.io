@@ -1,30 +1,14 @@
 # JSON files with more sophisticated data structures
 
 Fun Experimental Generative Text Projects with JSON (No AI)
-
-
 By [Patrik Ackell](https://iot-dude.github.io/)
+
+<br>
 
 ### <i>"I love to daydream. I was floating down the Barking in a boat with my friend the dog."</i>
 
-
-In this project I will use JSON files on more more sophisticated data structures play around with
-
-
-
-
-
-### More sophisticated data structures
-
-A post covid project - heavy fatigue …
-
-# Fun Experimental Generative Text Projects with JSON (No AI)
-By [Patrik Ackell](https://iot-dude.github.io/)
-
-### <i>"I love to daydream. I was floating down the Barking in a boat with my friend the dog."</i>
-
-
-In this project I will use JSON files to randomly create a group of interesting characters for an animated mock film
+<br>
+In this project I will use JSON files to randomly create announcements in London underground stations from the tube driver
 
 
 
@@ -202,7 +186,7 @@ only_the_station_names
      'Buckhurst Hill',
      'Burnt Oak',
      'Caledonian Road',
-     'Camden Town',
+     'Camden Town',s   what  call out
      'Canada Water',
      'Canary Wharf',
      'Canning Town',
@@ -445,4 +429,4 @@ only_the_station_names
 
 
 
-v0.2
+v0.3
