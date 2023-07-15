@@ -4,15 +4,16 @@ By [Patrik Ackell](https://iot-dude.github.io/)
 
 
 
+
 ### <i>"I love to daydream. I was floating down the Barking in a boat with my friend the dog."</i>
 
 
 
-
+<br>
 In this project I will use JSON files to randomly create a group of interesting characters for an animated mock film
 
 
-
+<br>
 
 ## The Corpora Project - a miscellaneous resource for generating JSON data 
 
@@ -364,6 +365,7 @@ I'm just going to assign that list to a separate variable, so it's a little easi
 animals = pixar_animal_data['animals']
 ```
 
+### a random cast list
 So, lets create a cast list of this next animated film from our favourite maker of animated films by selecting a random subset of these characters:
 
 
@@ -388,6 +390,7 @@ for item in my_film:
     * crow
 
 
+### Adding personality to the bunch
 Let's add some personality to our band using [this list of moods](https://github.com/dariusk/corpora/blob/master/data/humans/moods.json). After having downloaded the raw JSON, you can grab the list of moods from the file like so:
 
 
@@ -396,6 +399,7 @@ mood_data = json.loads(open("moods.json").read())
 moods = mood_data["moods"]
 ```
 
+### A random random choice of animals with a random choice of moods
 Now let's generate a new text combining the two:
 
 
@@ -424,4 +428,4 @@ for i in range(10):
 
 
 
-v0.6
+v0.7
