@@ -2,10 +2,10 @@
 
 
 
-Though Sun Tzu’s The Art of War is a classic military treatise, its advice applies to all manner of conflict.
+Though [Sun Tzu’s](https://en.wikipedia.org/wiki/Sun_Tzu) The Art of War is a classic military treatise, its advice applies to all manner of conflict.
 
 
-The Art of War remains relevant today because conflict is a universal part of life. And as such, it wasn’t enough for Sun Tzu to review the battle tactics of his day. He sought to explore the psychology of war and how we might harness it wisely.
+[The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) remains relevant today because conflict is a universal part of life. And as such, it wasn’t enough for Sun Tzu to review the battle tactics of his day. He sought to explore the psychology of war and how we might harness it wisely.
 
 Sun Tzu wrote The Art of War 2,500 years ago, and it remains relevant today. While written as a military treatise, its guidance has also helped politicians, business leaders and sports teams to strategically approach conflict.
 <br>
@@ -20,7 +20,7 @@ With that in mind, here are five quotes by Sun Tzu to help strategically overcom
 ### 1.
 <b><i>Those who win every battle are not really skilled — those who render others armies helpless without fighting are best of all.</i></b>
 
-The Art of War holds a Taoist worldview. Sun Tzu was inspired by the Tao Te Ching and borrowed liberally from Lao Tzu. Compare Sun Tzu’s, “The form of water is to avoid the high and go to the low, the form of a military force is to avoid the full and attack the empty,” to Lao Tzu’s, “Under heaven nothing is more soft and yielding than water. Yet for attacking the solid and strong, nothing is better.”
+The Art of War holds a Taoist worldview. Sun Tzu was inspired by the Tao Te Ching and borrowed liberally from [Lao Tzu](https://en.wikipedia.org/wiki/Laozi). Compare Sun Tzu’s, “The form of water is to avoid the high and go to the low, the form of a military force is to avoid the full and attack the empty,” to Lao Tzu’s, “Under heaven nothing is more soft and yielding than water. Yet for attacking the solid and strong, nothing is better.”
 
 As a Taoist, Sun Tzu takes a humanistic approach to war and conflict. For him, the greatest victory is not found in overcoming your opponent through strength, cleverness, or force of will. It is in avoiding the battle altogether.
 
@@ -83,4 +83,4 @@ Wisdom is timeless.
 
 
 
-v0.4
+v0.5
