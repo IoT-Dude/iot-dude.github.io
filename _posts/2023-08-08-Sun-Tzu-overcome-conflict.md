@@ -29,9 +29,14 @@ A wise person, Sun Tzu contends, has the skill and wisdom to resolve a conflict 
 
 Of course, neither is saying we can avoid conflict altogether. If conflict comes despite our best efforts to prevent it, then we can’t be pushovers. We must resolve to end the conflict as quickly as possible and with as little damage done. However, even if we “win” in the end, we shouldn’t feel a sense of pride or accomplishment. Our efforts were damage control. Nothing more.
 
-“In Taoist terms, success is often gained by not doing, and the strategy of The Art of War is as much in knowing what not to do and when not to do it as it is in knowing what to do and when to do it,” Thomas Cleary writes in the introduction to his translation (from which this article’s quotes come).
 
-The Art of War is a Taoist text, taking much of is symbolism and philosophy from the Lao Tzu classic. For example, Sun Tzu advises army formations to flow like water, a popular symbol for the Tao. (Credit: Jeffery Workman / Unsplash)
+WWWW
+“In Taoist terms, success is often gained by not doing, and the strategy of The Art of War is as much in knowing what not to do and when not to do it as it is in knowing what to do and when to do it,” (Thomas Cleary in the introduction to his translation of Tao te Ching credited to be writen by Lao Tzu, in Chinese: Laozi or 老子)).
+eee   Lao Tzu, in Chinese: Laozi or 老子)
+
+The Art of War is a Taoist text, taking much of is symbolism and philosophy from the Lao Tzu classic. For example, Sun Tzu advises army formations to flow like water, a popular symbol for the Tao. (Credit: Jeffery Workman / Unsplash)    
+
+wwwww
 
 ## 2.
 <b><i>If you know others and know yourself, you will not be imperiled in a hundred battles; if you do not know others but know yourself, you win one and lose one; if you do not know others and do not know yourself, you will be imperiled in every single battle.</i></b>
@@ -40,7 +45,7 @@ Sun Tzu wouldn’t have had a concept like emotional intelligence in mind, but t
 
 Similarly, they can use their emotional intelligence to develop social awareness. Such an ability helps them intuit the motivations and emotions of others through compassion and sympathy. This knowledge can help prevent conflicts as the emotionally intelligent person will meet others halfway or create conditions that lead others not to desire a fight. Should a conflict arise anyway, emotional intelligence can help create situations that end the need for fighting in the other person.
 
-Later in The Art of War, Sun Tzu lists five dangerous traits that cloud generals’ judgment and lead them to unnecessary conflict. These are anger, pride, recklessness, cowardice, and being over-protective of others. These traits, he says, bring disaster. In modern terms, we may say that they hinder emotional intelligence and disrupt our equanimity.
+Later in The Art of War, Sun Tzu lists five dangerous traits that cloud generals judgment and lead them to unnecessary conflict. These are anger, pride, recklessness, cowardice, and being over-protective of others. These traits, he says, bring disaster. In modern terms, we may say that they hinder emotional intelligence and disrupt our equanimity.
 
 ## 3.
 <b><i> Invincibility is in oneself, vulnerability is in the opponent.</i></b>
@@ -77,4 +82,4 @@ As these Sun Tzu quotes show, there’s still much The Art of War can teach us a
 
 
 
-v0.3
+v0.31
