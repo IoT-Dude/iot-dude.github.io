@@ -29,14 +29,11 @@ A wise person, Sun Tzu contends, has the skill and wisdom to resolve a conflict 
 
 Of course, neither is saying we can avoid conflict altogether. If conflict comes despite our best efforts to prevent it, then we can’t be pushovers. We must resolve to end the conflict as quickly as possible and with as little damage done. However, even if we “win” in the end, we shouldn’t feel a sense of pride or accomplishment. Our efforts were damage control. Nothing more.
 
+aaa
 
-WWWW
-“In Taoist terms, success is often gained by not doing, and the strategy of The Art of War is as much in knowing what not to do and when not to do it as it is in knowing what to do and when to do it,” (Thomas Cleary in the introduction to his translation of Tao te Ching credited to be writen by Lao Tzu, in Chinese: Laozi or 老子)).
-eee   Lao Tzu, in Chinese: Laozi or 老子)
+“In Taoist terms, success is often gained by not doing, and the strategy of The Art of War is as much in knowing what not to do and when not to do it as it is in knowing what to do and when to do it,” (Thomas Cleary in the introduction to his translation of Tao te Ching, credited to be writen by Lao Tzu, in Chinese: Laozi or 老子).
+The Art of War is a Taoist text, taking much of is symbolism and philosophy from the Lao Tzu classic. For example, Sun Tzu advises army formations to flow like water, a popular symbol for the Tao.
 
-The Art of War is a Taoist text, taking much of is symbolism and philosophy from the Lao Tzu classic. For example, Sun Tzu advises army formations to flow like water, a popular symbol for the Tao. (Credit: Jeffery Workman / Unsplash)    
-
-wwwww
 
 ## 2.
 <b><i>If you know others and know yourself, you will not be imperiled in a hundred battles; if you do not know others but know yourself, you win one and lose one; if you do not know others and do not know yourself, you will be imperiled in every single battle.</i></b>
@@ -62,8 +59,7 @@ In the same chapter, Sun Tzu adds: “Therefore the victories of good warriors a
 Disorder and clamor cloud our situational awareness, stir our negative emotions, and push us to make bad decisions simply to satisfy the need to do something — anything — to make a difference. This makes conflict more likely and, when it occurs, more problematic to deal with. Unfortunately, both are common in modern life.
 
 While we may not have much leverage over the chaos and disorder in the external world, we can settle the clamor within. Once the conflict becomes unavoidable, we shouldn’t let it unsettle us or view it as a means to punish another person for our gain. Instead, we should set ourselves to resolving it, minimizing damage, and maintaining our equanimity in the face of its challenges. This requires not only avoiding the five traits Sun Tzu warned about — anger, greed, pride, recklessness, and over-protection— but learning to adapt our responses as the conflict unfolds.
-A replica of a bamboo tablettes roll
-A replica of Sun Tzu’s The Art of War. (Credit: Popolon / Wikimedia Commons)
+
 
 ## 5.
 <b><i>The considerations of the intelligent always include both benefit and harm. As they consider benefit, their work can expand; as they consider harm, their troubles can be resolved.</i></b>
@@ -76,10 +72,11 @@ Sun Tzu offers the example of a general surrounding enemy forces and giving them
 
 A more commonplace example may be an argument with a teenage child. If a parent’s approach is to dominate, the teenager will simply double down and fight back harder. Even if the parent is in the right, the argument will be drawn-out and destructive to the relationship. It is better for the parent to use their emotional intelligence to allow the teenager to feel like a partner in the conversation and decision-making process.
 
-As these Sun Tzu quotes show, there’s still much The Art of War can teach us about conflict if we are willing to spend the time with it. Granted, not all of its lessons have held up as well — you can probably skip the section on chariot battles. But many remain timeless in their wisdom.
+As these Sun Tzu quotes show, there’s still much The Art of War can teach us about conflict if we are willing to spend the time with it.
+Wisdom is timeless.
 
 
 
 
 
-v0.31
+v0.32
