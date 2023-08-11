@@ -20,7 +20,7 @@ With that in mind, here are five quotes by Sun Tzu to help strategically overcom
 ### 1.
 <b><i>Those who win every battle are not really skilled — those who render others armies helpless without fighting are best of all.</i></b>
 
-The Art of War holds a Taoist worldview. Sun Tzu was inspired by the Tao Te Ching and borrowed liberally from [Lao Tzu](https://en.wikipedia.org/wiki/Laozi). Compare Sun Tzu’s, “The form of water is to avoid the high and go to the low, the form of a military force is to avoid the full and attack the empty,” to Lao Tzu’s, “Under heaven nothing is more soft and yielding than water. Yet for attacking the solid and strong, nothing is better.”
+The Art of War holds a Taoist worldview. Sun Tzu was inspired by the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) and borrowed liberally from [Lao Tzu](https://en.wikipedia.org/wiki/Laozi). Compare Sun Tzu’s, “The form of water is to avoid the high and go to the low, the form of a military force is to avoid the full and attack the empty,” to Lao Tzu’s, “Under heaven nothing is more soft and yielding than water. Yet for attacking the solid and strong, nothing is better.”
 
 As a Taoist, Sun Tzu takes a humanistic approach to war and conflict. For him, the greatest victory is not found in overcoming your opponent through strength, cleverness, or force of will. It is in avoiding the battle altogether.
 
@@ -83,4 +83,4 @@ Wisdom is timeless.
 
 
 
-v0.5
+v0.51
