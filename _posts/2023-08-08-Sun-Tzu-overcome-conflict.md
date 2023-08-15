@@ -75,12 +75,13 @@ Instead, Sun Tzu recommends that we take both into account separately. By recogn
 Sun Tzu offers the example of a general surrounding enemy forces and giving them nowhere to flee. The general sees the benefit of such a tactic: the definitive destruction of an opposing force and his clear victory. What about the potential harm? With no hope of escape, the enemy forces might mobilize their full strength and fight ferociously. Even if the general wins, the harm done to his own forces will be catastrophic.
 
 A more commonplace example may be an argument with someone at work (or in a relation). If the approach is to dominate the discussion (because you have more knowledge of said subject), the other one will simply double down and fight back harder. Even if you are right, the argument will be drawn out and destructive to all involved in the relationship. It is better to use emotional intelligence to allow the other one to feel like a partner in the conversation and decision making process.
-
+<br>
+<br>
+<br>
 As these Sun Tzu quotes show, there is still much The Art of War can teach us about conflict if we are willing to spend the time with it.
 Wisdom is timeless.
+<br>
+<br>
+<br>
 
-
-
-
-
-v0.51
+v0.52
