@@ -1,14 +1,6 @@
-Context Managers in Python
 
 
-Work in progress ...
-
-
-```python
-
-```
-
-# Context Manager
+# Context Manager in Python
 
 Context managers allow us to sandwich some code in an entrance step and an exit step.
 Files opened with with close automatically
@@ -18,9 +10,10 @@ Context managers are objects that can be used in Python's with statements.
 You'll often see with statements used when working with files in Python.
 
 This code opens a file, uses the f variable to point to the file object, reads from the file, and then closes the file:
->>> with open("my_file.txt") as f:
-...     contents = f.read()
-...
+
+with open("my_file.txt") as f:
+contents = f.read()
+
 Notice that we didn't explicitly tell Python to close our file.
 
 But the file did close:
@@ -110,4 +103,4 @@ File objects are the most common context manager in Python, but they're not the 
 
 
 
-v0.2
+v0.3
