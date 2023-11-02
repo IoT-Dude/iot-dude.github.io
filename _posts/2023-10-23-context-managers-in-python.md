@@ -11,13 +11,13 @@ You'll often see with statements used when working with files in Python.
 
 This code opens a file, uses the f variable to point to the file object, reads from the file, and then closes the file:
 
-```python
+```(python)
 with open("my_file.txt") as f:
 contents = f.read()
-```python
+```(python)
 
 wwww
-v0.45
+v0.46
 wwww
 
 Notice that we didn't explicitly tell Python to close our file.
@@ -141,4 +141,4 @@ File objects are the most common context manager in Python, but they're not the 
 
 
 
-v0.45
+v0.46
