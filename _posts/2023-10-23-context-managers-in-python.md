@@ -16,9 +16,6 @@ with open("my_file.txt") as f:
 contents = f.read()
 ```
 
-wwww
-v0.47
-wwww
 
 Notice that we didn't explicitly tell Python to close our file.
 
@@ -27,7 +24,7 @@ But the file did close:
 ```python
 >>> f.closed
 True
-```python
+```
 
 The file closed automatically when the with block was exited.
 
@@ -45,7 +42,7 @@ Our directory right now is /home/trey:
 >>> from pathlib import Path
 >>> print("Directory:", Path.cwd())
 Directory: /home/trey
-```python
+```
 
 But when we run this block of code, Python will temporarily change our directory to /:
 
@@ -54,14 +51,14 @@ But when we run this block of code, Python will temporarily change our directory
 ...     print("Directory:", Path.cwd())
 ...
 Directory: /
-```python
+```
 
 But when the with block exited, the chdir context manager made sure to change our directory back to what it was before:
 
 ```python
 >>> print("Directory:", Path.cwd())
 Directory: /home/trey
-```python
+```
 
 
 ## Context managers are like a try-finally block
@@ -84,7 +81,7 @@ print("Directory:", Path.cwd())
 # Exit
 os.chdir(old_directory)
 
-```python
+```
 
 But context managers do a little bit more than that.
 
@@ -93,7 +90,6 @@ Context managers do sandwich our block of code between two steps, but they also 
 You can think of a context manager as equivalent to a try-finally block which ensures that even if an exception occurs in our sandwich block of code, the exit step is always run:
 
 ```python
-
 from pathlib import Path
 import os
 
@@ -109,7 +105,7 @@ try:
 finally:
     # Exit
     os.chdir(old_directory)
-```python
+```
 
 
 ## Life without a context manager
@@ -117,7 +113,6 @@ finally:
 When you use a file object as a context manager in Python (i.e. when you use it in a with block with a file):
 
 ```python
-
 >>> with open("hello.txt", mode="wt") as my_file:
 ...     my_file.write("Hi!\n")
 ...
@@ -129,7 +124,7 @@ You're running code that's pretty much equivalent to this:
 ...     my_file.close()
 ...
 
-```python
+```
 
 
 Files ensure that they always close themselves when their with block exits, regardless of whether an exception occurred within the with block.
@@ -141,4 +136,4 @@ File objects are the most common context manager in Python, but they're not the 
 
 
 
-v0.47
+v0.48
