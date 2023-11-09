@@ -2,8 +2,8 @@
 # Sveriges inflation 2020 till 2023 (Inflationstakten i Sverige mätt som KPIF)
 
 
-Work in progress
+[Rapport](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Inflation-2020-2023.ipynb)
 
 
 
-v0.1
+v0.2
