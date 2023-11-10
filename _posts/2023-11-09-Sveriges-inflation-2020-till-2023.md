@@ -1,5 +1,5 @@
 
-# Sveriges inflation 2020 till 2023 (Inflationstakten i Sverige mätt som KPIF)
+# Sveriges inflation 2020 till 2023 (Inflation mätt som KPIF)
 
 Jag har valt att inte envända det vanligaste och mest kända prisindexet i Sverige, konsumentprisindex (KPI), då KPI visar hur mycket det kostar totalt att leva i Sverige.
 <br>
@@ -10,4 +10,4 @@ Det blir då tydligare hur de facto maten påverkar och kostar.
 
 
 
-v0.3
+v0.4
