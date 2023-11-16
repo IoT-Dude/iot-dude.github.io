@@ -7,7 +7,7 @@ Istället använder jag ett index kallat KPIF, det är samma mätetal (med samma
 <br>
 Det blir då tydligare hur de facto maten påverkar och kostar.
 
-[Rapport: Sveriges inflation 2020 - 2023 (Analys: Patrik Ackell 2023](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Inflation-2020-2023-Nov09-Final_II_better-data.ipynb)
+[Rapport: Sveriges inflation 2020 - 2023 (Analys: Patrik Ackell 2023)](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Inflation-2020-2023-Nov09-Final_II_better-data.ipynb)
 
 
-v0.65
+v0.7
