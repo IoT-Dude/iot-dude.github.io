@@ -1,9 +1,4 @@
-
-
-
-
 # Sveriges inflation 2020 - 2023 (Nytt: Nov 14 data)
-
 
 Inflationen lägre än väntat i oktober
 
@@ -15,7 +10,7 @@ Och månadens ökning med 0,2 procentenheter ska ses som en bra nyhet. Siffran j
 
 
 
-## Sveriges inflation 2020 till 2023 (Inflation mätt som KPIF)
+### Sveriges inflation 2020 till 2023 (Inflation mätt som KPIF)
 
 Jag har valt att inte envända det vanligaste och mest kända prisindexet i Sverige, konsumentprisindex (KPI), då KPI visar hur mycket det kostar totalt att leva i Sverige.
 <br>
@@ -23,7 +18,9 @@ Istället använder jag ett index kallat KPIF, det är samma mätetal (med samma
 <br>
 Det blir då tydligare hur de facto maten påverkar och kostar.
 
-[Rapport: NOVEMBER    Sveriges inflation 2020 - 2023 (Analys: Patrik Ackell 2023)](https://github.com/IoT-Dude/blogg_mtrl/blob/main/cbcbcbcbcbc.dddd)
 
 
-v0.1
+[Rapport: NOVEMBER Sveriges inflation 2020 - 2023 (Nytt: Nov 14 data) (Analys: Patrik Ackell 2023)](https://github.com/IoT-Dude/blogg_mtrl/blob/main/20231123-BreakOut-Nov.ipynb)
+
+
+v0.2
