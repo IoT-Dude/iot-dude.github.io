@@ -45,7 +45,7 @@ Och så här blev resultatet:
 ### Riksbanken: Styrräntan
 
 
-![Riksbanken: Styrräntan]((https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/Sveriges-Riksbank-Styrrantan-2013-2023-tight_II.png)
+![Riksbanken: Styrräntan](https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/Sveriges-Riksbank-Styrrantan-2013-2023-tight_II.png)
 
 
     
