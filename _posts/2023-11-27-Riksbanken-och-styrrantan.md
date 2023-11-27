@@ -1,7 +1,7 @@
 # Sveriges inflation 2020 - 2023 (Riksbanken och styrräntan, Nov 23)
 
 ## Så påverkar inflationen nästa räntebesked
-Förra månadens inflationssiffror var de sista som presenteras innan Riksbanken gav sitt räntebesked i November 2023. 
+Förra månadens inflationssiffror var de sista som presenteras innan Riksbanken gav sitt räntebesked den 23 November 2023. 
 <br>
 Under 18 månader har det skett nio höjningar av räntan. 
 
@@ -84,5 +84,5 @@ Skillnaden mellan KPI och KPIX är att det senare måttet exkluderar räntekostn
 
 
 
-v0.5
+v0.6
 
