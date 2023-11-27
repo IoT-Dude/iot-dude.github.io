@@ -1,9 +1,7 @@
-# Sveriges inflation 2020 - 2023 (Nytt: Riksbanken 
-
-Spännande
+# Sveriges inflation 2020 - 2023 (Riksbanken och styrräntan, Nov 23)
 
 ## Så påverkar inflationen nästa räntebesked
-förra månadens inflationssiffror var de sista som presenteras innan Riksbanken gav sitt räntebesked i November 2023. 
+Förra månadens inflationssiffror var de sista som presenteras innan Riksbanken gav sitt räntebesked i November 2023. 
 <br>
 Under 18 månader har det skett nio höjningar av räntan. 
 
@@ -14,7 +12,7 @@ Enligt Alexander Norén på SVT öppnar det upp för att det inte blir någon me
 
 Han menar att de andra riksbankernas besked kan göra att trycket minskar på Riksbanken att höja räntan.
 
-## Vad blir konsekvensern om riks banken ökar jämfört med sänker?
+## Konsekvensen om riksbanken höjer jämfört med sänker räntan?
 Räntesänkningar i sikte?
 <br>
 Resultatet i September 2023 visade inflationssiffror som gav en saknad pusselbitarna för Riksbanken att använda inför deras räntebesked som gavs i Torsdagen den 20231123. 
@@ -44,52 +42,8 @@ De positiva inflationssiffror i Maj och september 2023  betyde dock inte säkert
 Och så här blev resultatet:
 
 
-```python
 # Riksbanken: Styrräntan
 
-import matplotlib.pyplot as plt 
-from matplotlib.figure import Figure 
-import numpy as np 
-
-fig = plt.figure(figsize =(7, 6)) 
-ax = fig.add_axes([0.1, 0.1, 0.8, 0.8]) 
-
-#Period
-x = np.array(['2013-11-25', '2014-01-02', '2014-06-02', '2015-01-02', '2016-06-01', '2016-12-30', '2017-06-01', '2017-12-29', '2018-01-02', '2018-06-01', '2019-01-02', '2019-06-03', '2020-01-02', '2020-06-01', '2021-01-04', '2021-06-01', '2022-01-03', '2022-06-01', '2023-01-02', '2023-06-01', '2023-11-23', '2023-11-24'])
-
-#Värde
-y = np.array(['1','0.75', '0.75', '0.0', '0.5', '0.5','0.5', '0.5', '0.5', '0.5', '0.5', '0.25', '0.25', '0.0', '0.0', '0.0', '0.0', '0.25', '2.5', '3.5', '4', '4'])
-              
-ax.plot(x, y) 
-
-fig.suptitle("Sveriges Riksbank Styrräntan 2013 - 2023\n\n", fontweight ="bold") 
-plt.title("Analys: Patrik Ackell 2023", loc = 'right')
-
-#plt.xlabel("Månad och år", fontweight ="bold", rotation=90)    #, ha="right")
-
-# plt.xticks(x[::5]
-# ax.xticks(x[::5]
-#plt.xlabel("Månad och år", fontweight ="bold", rotation="vertical")
-plt.xlabel("\nMånad och år", fontweight ="bold")
-#plt.xticks(x[::1],  rotation='vertical')
-plt.xticks(rotation='vertical')
-
-plt.ylabel("Procent styrränta")
-
-fig.set_figwidth(15) 
-
-# Saving the figure as JPG.
-#plt.savefig("Sveriges-Riksbank-Styrräntan-2013-2023.jpg")
- 
-# Saving the figure as JPG - saving figure by changing parameter values.
-#plt.savefig("Sveriges-Riksbank-Styrräntan-2013-2023-tight", facecolor='white', bbox_inches="tight", pad_inches=0.3, transparent=True)
-
-plt.show()
-```
-
-
-    
-![png](output_8_0.png)
     
 
 
@@ -126,5 +80,5 @@ Skillnaden mellan KPI och KPIX är att det senare måttet exkluderar räntekostn
 
 
 
-v0.1
+v0.2
 
