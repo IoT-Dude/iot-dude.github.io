@@ -42,7 +42,11 @@ De positiva inflationssiffror i Maj och september 2023  betyde dock inte säkert
 Och så här blev resultatet:
 
 
-# Riksbanken: Styrräntan
+### Riksbanken: Styrräntan
+
+
+![Riksbanken: Styrräntan](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Sveriges-Riksbank-Styrr%C3%A4ntan-2013-2023-tight.png)
+
 
     
 
@@ -80,5 +84,5 @@ Skillnaden mellan KPI och KPIX är att det senare måttet exkluderar räntekostn
 
 
 
-v0.2
+v0.3
 
