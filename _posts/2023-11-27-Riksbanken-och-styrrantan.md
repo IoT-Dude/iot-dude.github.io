@@ -45,15 +45,7 @@ Och så här blev resultatet:
 ### Riksbanken: Styrräntan
 
 
-![Riksbanken: Styrräntan](https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/blob/main/Sveriges-Riksbank-Styrrantan-2013-2023-tight_II.png)
-
-
-
-
-EEEEEE
-
-
-![Riksbanken: Styrräntan](https://github.com/IoT-Dude/blogg_mtrl/blob/main/Sveriges-Riksbank-Styrr%C3%A4ntan-2013-2023-tight.png)
+![Riksbanken: Styrräntan]((https://raw.githubusercontent.com/IoT-Dude/blogg_mtrl/main/Sveriges-Riksbank-Styrrantan-2013-2023-tight_II.png)
 
 
     
@@ -92,5 +84,5 @@ Skillnaden mellan KPI och KPIX är att det senare måttet exkluderar räntekostn
 
 
 
-v0.4
+v0.5
 
