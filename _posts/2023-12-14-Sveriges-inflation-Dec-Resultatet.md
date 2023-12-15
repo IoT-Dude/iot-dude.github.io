@@ -1,4 +1,4 @@
-# Svensk inflation klart lägre än väntat
+# Sveriges inflation 2020 - 2023 (Nytt: Dec 14 data) Svensk inflation klart lägre än väntat
 
 <i>"Trots att el- och räntekostnaderna steg i november ser vi att den totala inflationstakten avtar", säger Sofie Öhman, prisstatistiker på SCB.</i>
 
@@ -16,4 +16,4 @@ Prisökningarna motverkades av lägre priser på drivmedel. Även priser på pak
 
 
 
-v1.1
+v1.2
